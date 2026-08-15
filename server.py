@@ -438,7 +438,13 @@ class Handler(BaseHTTPRequestHandler):
         self.send_response(200)
         self.send_header("Content-Type", ctype)
         self.send_header("Content-Length", str(len(data)))
-        self.send_header("Cache-Control", "no-store")
+        # 缓存策略（解决海外节点卡顿：视频/海报内容不变，浏览器长缓存，第二次刷不再下载）
+        if target.suffix in (".mp4", ".mp3", ".jpg", ".jpeg", ".png", ".svg", ".webmanifest"):
+            self.send_header("Cache-Control", "public, max-age=31536000, immutable")
+        elif target.suffix == ".js" and target.name == "scenes.st.js":
+            self.send_header("Cache-Control", "public, max-age=300")  # 内容更新时靠 ?v= 版本号
+        else:
+            self.send_header("Cache-Control", "no-cache")
         self.end_headers()
         self.wfile.write(data)
 
