@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0d1117"/>
+  <!-- LEO：大写字标，下方一道"猜"的流光 -->
+  <text x="256" y="330" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="210"
+        text-anchor="middle" fill="#e6edf3" letter-spacing="6">LEO</text>
+  <!-- 流光：从 L 下方划过，象征"看画面→猜意思"的动线 -->
+  <rect x="72" y="382" width="368" height="14" rx="7" fill="#58a6ff"/>
+  <circle cx="428" cy="389" r="16" fill="#58a6ff"/>
+</svg>

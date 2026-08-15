@@ -1,0 +1,844 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#0d1117">
+<title>LEO · 猜英语 — 语言是猜出来的</title>
+<style>
+  :root{
+    --bg:#0d1117; --panel:#161b22; --line:#30363d; --txt:#e6edf3; --dim:#8b949e;
+    --acc:#58a6ff; --warn:#d29922; --ok:#3fb950;
+  }
+  *{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html,body{height:100%;overflow:hidden;background:var(--bg);color:var(--txt);
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",system-ui,sans-serif}
+  #stage{position:fixed;inset:0;display:flex;align-items:center;justify-content:center}
+  .card{width:min(92vw,420px);aspect-ratio:9/16;max-height:82vh;border-radius:18px;overflow:hidden;
+    background:var(--panel);border:1px solid var(--line);box-shadow:0 20px 60px rgba(0,0,0,.5);
+    position:relative;transition:transform .25s ease, opacity .25s ease}
+  .card.slide-out{transform:translateX(-40%) scale(.92);opacity:0}
+  .card.slide-in{transform:translateX(40%) scale(.92);opacity:0}
+  .card.slide-back-out{transform:translateX(40%) scale(.92);opacity:0}
+  .card.slide-back-in{transform:translateX(-40%) scale(.92);opacity:0}
+  .scene{position:absolute;inset:0;display:flex;flex-direction:column}
+  .art{flex:1;display:flex;align-items:center;justify-content:center;overflow:hidden}
+.tier-badge{position:absolute;top:10px;right:12px;font-size:11px;color:var(--dim);letter-spacing:1px}
+  .subs{position:absolute;left:0;right:0;bottom:0;padding:26px 18px 40px;text-align:center;
+    background:linear-gradient(transparent, rgba(0,0,0,.82));pointer-events:none}
+  .sub-en{font-size:19px;font-weight:600;color:#fff;text-shadow:0 1px 3px rgba(0,0,0,.8);line-height:1.5}
+  .sub-cn{font-size:14px;color:#d3dbe6;margin-top:6px;text-shadow:0 1px 2px rgba(0,0,0,.8)}
+  /* 画面=语义：单词提示绝不出现在这里。以下元素仅用于界面，不含任何译文/字幕 */
+  #hud{position:fixed;bottom:26px;left:0;right:0;display:flex;justify-content:center;gap:6px;z-index:5}
+  #hud .dot{width:7px;height:7px;border-radius:50%;background:#3a4150;transition:background .2s}
+  #hud .dot.on{background:var(--acc)}
+  #hud .dot.hot{background:var(--warn)}
+  #loopHint{position:fixed;bottom:70px;left:50%;transform:translateX(-50%);z-index:5;
+    width:10px;height:10px;border-radius:50%;background:var(--ok);opacity:0;transition:opacity .4s}
+  #loopHint.show{opacity:1;animation:pulse 1.2s infinite}
+  @keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(63,185,80,.5)}50%{box-shadow:0 0 0 12px rgba(63,185,80,0)}}
+  .btn{position:fixed;z-index:8;background:var(--panel);border:1px solid var(--line);color:var(--txt);
+    border-radius:12px;padding:10px 16px;font-size:13px;cursor:pointer;user-select:none}
+  .btn:hover{border-color:var(--acc)}
+  #readingBtn{display:none}
+  .toolbar #readingBtn{display:block}
+  #logBtn{left:14px;top:14px;display:none}
+  /* 开始页 */
+  #startOverlay{position:fixed;inset:0;z-index:20;background:var(--bg);display:flex;flex-direction:column;
+    align-items:center;justify-content:center;gap:18px;text-align:center;padding:24px}
+  #startOverlay h1{font-size:26px;letter-spacing:2px}
+  #startOverlay p{color:var(--dim);font-size:14px;line-height:1.8;max-width:300px}
+  #startBtn{background:var(--acc);color:#0d1117;border:none;border-radius:999px;padding:14px 44px;
+    font-size:17px;font-weight:700;cursor:pointer;margin-top:8px}
+  #startBtn:active{transform:scale(.97)}
+  .rule{font-size:12px;color:var(--dim)}
+  /* 图文阅读区 */
+  #readingPanel{position:fixed;inset:0;z-index:15;background:var(--bg);display:none;flex-direction:column;
+    overflow-y:auto;padding:20px 16px 60px}
+  #readingPanel.open{display:flex}
+  #readingPanel h2{font-size:18px;margin:10px 4px 4px}
+  #readingPanel .sub{color:var(--dim);font-size:12px;margin:0 4px 16px}
+  .rcard{background:var(--panel);border:1px solid var(--line);border-radius:14px;margin-bottom:14px;overflow:hidden}
+  .rcard .rart{height:130px;display:flex;align-items:center;justify-content:center;background:#10151c}
+  .rcard .rbody{padding:12px 14px}
+  .rcard .rtxt{font-size:15px;line-height:1.9;color:var(--txt);white-space:pre-line}
+  .rcard .rplay{display:inline-block;margin-top:8px;padding:6px 14px;border-radius:999px;
+    background:#1f6feb22;border:1px solid var(--acc);color:var(--acc);font-size:12px;cursor:pointer}
+  .rcard .rtag{font-size:10px;color:var(--dim);margin-top:6px}
+  /* 行为面板 */
+  #logPanel{position:fixed;inset:0;z-index:19;background:rgba(0,0,0,.85);display:none;padding:20px;
+    overflow:auto;font-family:ui-monospace,Menlo,monospace;font-size:12px;color:var(--dim);white-space:pre}
+  #logPanel.open{display:block}
+  #logPanel .close{position:fixed;top:16px;right:16px;color:var(--txt);cursor:pointer;font-size:13px;
+    background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:6px 12px}
+  /* 通用浮层面板 */
+  .overlay-panel{position:fixed;inset:0;z-index:18;background:var(--bg);display:none;flex-direction:column;
+    overflow-y:auto;padding:20px 16px 70px}
+  .overlay-panel.open{display:flex}
+  .overlay-panel h2{font-size:18px;margin:10px 4px 14px}
+  .overlay-panel .close{position:fixed;top:16px;right:16px;color:var(--txt);cursor:pointer;font-size:13px;
+    background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:6px 12px;z-index:2}
+  .field{margin-bottom:18px}
+  .field label{display:block;font-size:13px;color:var(--dim);margin-bottom:6px}
+  .field select,.field input[type=range]{width:100%;background:var(--panel);color:var(--txt);
+    border:1px solid var(--line);border-radius:8px;padding:8px;font-size:13px}
+  .field input[type=checkbox]{transform:scale(1.3);margin-right:8px}
+  .stat-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin-bottom:16px}
+  .stat{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px}
+  .stat .num{font-size:24px;font-weight:700;color:var(--acc)}
+  .stat .lbl{font-size:11px;color:var(--dim);margin-top:2px}
+  .words-box{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px 14px;
+    font-size:14px;line-height:2}
+  .danger{border-color:var(--warn);color:var(--warn)}
+  .levelpick{margin-top:10px;text-align:center}
+  .lp-label{font-size:12px;color:var(--dim);margin-bottom:8px}
+  .lp-btns{display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+  .lp-btn{background:var(--panel);border:1px solid var(--line);color:var(--txt);border-radius:999px;
+    padding:8px 18px;font-size:14px;cursor:pointer}
+  .lp-btn.on{background:var(--acc);color:#0d1117;border-color:var(--acc);font-weight:700}
+  .toolbar{position:fixed;top:14px;right:14px;z-index:8;display:none;gap:8px}
+  .toolbar .btn{position:static}
+  #logBtn{position:fixed;left:14px;top:14px}
+  .method-note{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px;font-size:13px;line-height:1.9}
+  .method-note b{color:var(--acc)}
+  .navhint{position:fixed;top:14px;left:50%;transform:translateX(-50%);color:var(--dim);
+    font-size:11px;z-index:4;letter-spacing:1px;opacity:.7;text-align:center}
+  /* ---------- 场景动画 ---------- */
+  .anim-up{animation:up 3.2s ease-in-out infinite}
+  @keyframes up{0%{transform:translateY(0)}30%{transform:translateY(-14px)}60%{transform:translateY(0)}80%{transform:translateY(-5px)}100%{transform:translateY(0)}}
+  .anim-fall{animation:fall 2.6s linear infinite}
+  @keyframes fall{0%{transform:translateY(-10%)}100%{transform:translateY(110%)}}
+  .anim-wiggle{animation:wiggle 1.4s ease-in-out infinite}
+  @keyframes wiggle{0%,100%{transform:rotate(0)}25%{transform:rotate(8deg)}75%{transform:rotate(-8deg)}}
+  .anim-run{animation:run 2.8s linear infinite}
+  @keyframes run{0%{transform:translateX(-90%)}100%{transform:translateX(90%)}}
+  .anim-drip{animation:drip 1.8s linear infinite}
+  @keyframes drip{0%{transform:translateY(0);opacity:0}20%{opacity:1}100%{transform:translateY(60px);opacity:0}}
+  .anim-flap{animation:flap .5s ease-in-out infinite alternate}
+  @keyframes flap{from{transform:scaleY(1)}to{transform:scaleY(.6)}}
+  .anim-breathe{animation:breathe 1.6s ease-in-out infinite}
+  @keyframes breathe{0%,100%{transform:scale(1)}50%{transform:scale(1.25)}}
+  .anim-blink{animation:blink 3.4s infinite}
+  @keyframes blink{0%,92%,100%{transform:scaleY(1)}95%{transform:scaleY(.1)}}
+  .anim-bounce{animation:bounce 1.1s ease-in-out infinite}
+  @keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+  @keyframes rain{0%{opacity:0}20%{opacity:1}100%{transform:translateY(70px);opacity:0}}
+  .anim-walk{animation:walk 3s ease-in-out infinite}
+  @keyframes walk{0%,100%{transform:translateX(-60%)}50%{transform:translateX(60%)}}
+  .sun{animation:sunspin 24s linear infinite}
+  @keyframes sunspin{from{transform:rotate(0)}to{transform:rotate(360deg)}}
+
+  /* ---------- 多端适配（手机 / iPad / 电脑） ---------- */
+  html,body{overflow-x:hidden}
+  #stage{height:100dvh;height:100vh}
+  .toolbar{padding-top:env(safe-area-inset-top)}
+  #hud{padding-bottom:env(safe-area-inset-bottom)}
+  .btn{min-height:40px}
+  @media (max-width:480px){
+    .toolbar{top:calc(10px + env(safe-area-inset-top));right:10px;gap:6px}
+    .toolbar .btn{font-size:12px;padding:8px 10px;border-radius:10px}
+    #logBtn{left:10px;top:calc(10px + env(safe-area-inset-top))}
+    .overlay-panel{padding:calc(16px + env(safe-area-inset-top)) 14px calc(60px + env(safe-area-inset-bottom))}
+    .navhint{font-size:10px}
+  }
+  @media (min-width:768px){
+    .card{width:min(420px, 58vh * 9 / 16)}
+    .overlay-panel{padding:24px 40px 80px;max-width:760px;margin:0 auto}
+    .btn{font-size:14px;padding:12px 20px}
+  }
+  @media (min-width:1200px){
+    .card{width:440px}
+    .overlay-panel{max-width:820px}
+  }
+</style>
+</head>
+<body>
+
+<div id="startOverlay">
+  <h1>LEO</h1>
+  <p>看画面，听声音。<br>没有字幕，没有翻译，没有词典。<br><b>猜</b> — 真人视频情景课程，刷短视频学英语。</p>
+  <div class="levelpick" id="levelPick">
+    <div class="lp-label">选择学习级别</div>
+    <div class="lp-btns">
+      <button class="lp-btn" data-level="all">全部</button>
+      <button class="lp-btn" data-level="1-2">入门</button>
+      <button class="lp-btn" data-level="3">中级</button>
+      <button class="lp-btn" data-level="4-5">高级</button>
+    </div>
+    <div class="lp-empty" id="levelEmptyHint" style="display:none">该级别暂无内容，先看全部课程</div>
+  </div>
+  <button id="startBtn">开始猜</button>
+  <div class="rule">点击画面右侧/上滑 = 下一条 · 左侧/下滑 = 上一条<br>听不懂？别急，它会自己循环播放。别问傻话。</div>
+  <button id="methodLink" style="margin-top:18px;background:none;border:none;color:var(--acc);font-size:13px;cursor:pointer">这是什么方法？为什么这样能学会语言？</button>
+</div>
+
+<div class="navhint" id="navHint"></div>
+<div id="stage"></div>
+<div id="loopHint"></div>
+<div id="hud"></div>
+
+<div class="toolbar" id="toolbar">
+  <button class="btn" id="settingsBtn">⚙ 设置</button>
+  <button class="btn" id="progressBtn">📊 进度</button>
+  <button class="btn" id="methodBtn">❓ 方法</button>
+  <button class="btn" id="readingBtn">📖 阅读区</button>
+</div>
+<button class="btn" id="logBtn">AI</button>
+
+<div id="readingPanel">
+  <h2>我的阅读区</h2>
+  <p class="sub">这里只有你<b>亲耳听过</b>的话 — 听懂了，文字自然就认识了。</p>
+  <div id="rcards"></div>
+</div>
+
+<div id="settingsPanel" class="overlay-panel">
+  <span class="close" onclick="closePanel('settingsPanel')">关闭</span>
+  <h2>设置</h2>
+  <p style="font-size:12px;color:var(--dim);margin:-6px 4px 14px">发音来源：优先<span style="color:var(--ok)">真人录音</span>（Tatoeba 社区真人录音，CC-BY 2.0 FR）；无录音的句子自动用系统语音兜底。真人覆盖 <span id="realAudioStat"></span>。</p>
+  <div class="field">
+    <label>学习语言</label>
+    <select id="langSelect"></select>
+  </div>
+  <div class="field">
+    <label>学习级别</label>
+    <select id="levelSel">
+      <option value="all">全部</option>
+      <option value="1-2">入门（1-2 级）</option>
+      <option value="3">中级（3 级）</option>
+      <option value="4-5">高级（4-5 级）</option>
+    </select>
+  </div>
+  <div class="field">
+    <label>发音（浏览器语音）</label>
+    <select id="voiceSelect"></select>
+  </div>
+  <div class="field">
+    <label>语速 <span id="rateVal">0.95</span></label>
+    <input type="range" id="rateRange" min="0.55" max="1.35" step="0.05" value="0.95">
+  </div>
+  <div class="field">
+    <label><input type="checkbox" id="autoLoopCb" checked> 听不懂自动循环（关掉则不重播，播完即停）</label>
+  </div>
+  <div class="field">
+    <button class="btn danger" id="resetBtn" style="position:static">重置全部进度</button>
+  </div>
+</div>
+
+<div id="progressPanel" class="overlay-panel">
+  <span class="close" onclick="closePanel('progressPanel')">关闭</span>
+  <h2>我的进度</h2>
+  <div class="stat-grid" id="statGrid"></div>
+  <div class="field"><label>最近 7 天滑刷量</label><div id="weekChart"></div></div>
+  <div class="field"><label>我听过的话（猜过的词汇，英文）</label>
+    <div class="words-box" id="heardWords"></div>
+  </div>
+  <div class="field">
+    <button class="btn" id="exportBtn" style="position:static">导出进度 JSON</button>
+  </div>
+</div>
+
+<div id="methodPanel" class="overlay-panel">
+  <span class="close" onclick="closePanel('methodPanel')">关闭</span>
+  <h2>这个方法为什么能学会语言</h2>
+  <div class="method-note">
+    <p>1. <b>语言是能力，不是知识。</b> 背单词、学语法训练的是记忆力，不是语言能力。</p>
+    <p>2. <b>语言是"猜"出来的。</b> 婴儿学母语时没人讲解、没人翻译，只靠看画面、听声音、反复猜，就建立了完整的语言系统。</p>
+    <p>3. <b>画面=语义。</b> 每条视频的画面里都藏着它要说的话。看不懂没关系——它会自动循环，卡住就多看几遍。</p>
+    <p>4. <b>不需要确认。</b> 你猜得对不对不重要，同一个表达会在新场景里反复出现，猜多了，自然就稳了。</p>
+    <p>5. <b>别问傻话。</b> "我怎么知道我猜得对不对？"——你学母语的时候也没问过，不也全会了？</p>
+    <p style="margin-top:10px">坚持 6-12 个月，目标只有两条：不带字幕看懂任何英文视频、拿起英文书就读。</p>
+  </div>
+</div>
+
+<div id="logPanel"><span class="close" onclick="document.getElementById('logPanel').classList.remove('open')">关闭</span><pre id="logPre"></pre></div>
+
+<script src="scenes.st.js?v=5"></script>
+<script>
+"use strict";
+/* =====================================================================
+   猜猜器 · LEO — 刷短视频学英语
+   方法论内核（复刻自许岑"猜英语器"公开论述）：
+   1) 语言是能力不是知识；能力靠"猜"进入身体而非大脑
+   2) 画面=语义：无字幕、无文字提示、无词典
+   3) 卡住=自动循环（不解释、不提示），循环够了自然明白
+   4) AI 通过"刷的行为"判定水平，不做自报级别
+   5) 卡点词汇换语境复现
+   6) 图文阅读区内容 = 你刷过的内容的文字化
+   ===================================================================== */
+
+/* ---------- 场景库：Shadow Talk 影子跟读课程（真实视频原声，画面=台词） ---------- */
+const SCENES = (window.EXTRA_SCENES_ST || []).slice();
+
+/* ---------- 状态与持久化 ---------- */
+const KEY = "guessLabProfile_v2";
+function loadProfile(){
+  try{ const p = JSON.parse(localStorage.getItem(KEY)); if(p) return p; }catch(e){}
+  return {
+    startedAt: Date.now(),
+    tier: 0,                    // 当前难度档（0/1/2）
+    seen: {},                   // sceneId -> {views, loops, firstAt, lastAt}
+    order: [],                  // 已出现的场景顺序
+    swipes: [],                 // 最近滑动记录 {id, dtMs, direction}
+    memoryWords: {},            // 卡点词汇 -> 卡住次数
+    tieredUnseen: {0:null,1:null,2:null} // 惰性初始化
+  };
+}
+let P = loadProfile();
+function save(){ try{ localStorage.setItem(KEY, JSON.stringify(P)); }catch(e){} }
+
+/* ---------- 后端桥接（Phase 2）：探测到服务端则同步行为/取 feed/拿阅读区，否则本地逻辑照常 ---------- */
+const API = { mode: "local", userId: null };
+(function initApi(){
+  try{
+    API.userId = localStorage.getItem("guessLabUserId") || ("u_" + Date.now().toString(36));
+    localStorage.setItem("guessLabUserId", API.userId);
+  }catch(e){}
+  if(!("fetch" in window)) return;
+  const ctl = new AbortController();
+  const t = setTimeout(()=>ctl.abort(), 2000);
+  fetch("/api/health", {signal: ctl.signal}).then(r=>r.ok?r.json():null).then(d=>{
+    clearTimeout(t);
+    if(d && d.ok){ API.mode = "server"; console.log("[GuessLab] 后端已连接 | LLM:", d.llm); }
+  }).catch(()=>{ clearTimeout(t); });
+})();
+function apiPost(path, body){
+  if(API.mode!=="server") return Promise.resolve(null);
+  return fetch(path, {method:"POST", headers:{"Content-Type":"application/json"},
+    body: JSON.stringify(Object.assign({userId: API.userId}, body))})
+    .then(r=>r.ok?r.json():null).catch(()=>null);
+}
+function apiGet(path, extra){
+  if(API.mode!=="server") return Promise.resolve(null);
+  return fetch(path + "?userId=" + encodeURIComponent(API.userId) + (extra ? "&" + extra : ""))
+    .then(r=>r.ok?r.json():null).catch(()=>null);
+}
+
+/* ---------- 引擎：选片（模拟"AI"） ---------- */
+function unseenIds(tier){ return SCENES.filter(s=>s.tier===tier && !P.seen[s.id] && sceneLang(s)===SET.lang && sceneLevelOk(s)).map(s=>s.id); }
+function pickNext(){
+  // 1) 复现规则：memoryWords 非空且最近看过 ≥4 条时，每第 4 条优先选与卡点词重合、且最久没看过的场景
+  const mem = Object.keys(P.memoryWords);
+  const orderLen = P.order.length;
+  if(mem.length && orderLen >= 4 && orderLen % 4 === 0){
+    const cands = SCENES.filter(s=> sceneLang(s)===SET.lang && sceneLevelOk(s) && s.vocab.some(v=>mem.includes(v)));
+    if(cands.length){
+      cands.sort((a,b)=> (P.seen[a.id]?.lastAt||0) - (P.seen[b.id]?.lastAt||0));
+      return cands[0].id;
+    }
+  }
+  // 2) 常规：当前档内按序取未见过的；当前档刷完升档
+  let un = unseenIds(P.tier);
+  if(un.length){ return un[0]; }
+  if(P.tier < 2){ P.tier++; un = unseenIds(P.tier); if(un.length){ return un[0]; } }
+  // 3) 全部看完：从最久没看的开始重温（间隔重复）
+  const entries = Object.entries(P.seen).filter(([id])=>{ const s = SCENES.find(x=>x.id===id); return s && sceneLang(s)===SET.lang && sceneLevelOk(s); });
+  entries.sort((a,b)=> (a[1].lastAt||0) - (b[1].lastAt||0));
+  return entries[0] ? entries[0][0] : SCENES[0].id;
+}
+
+/* ---------- 播放 ---------- */
+const stage = document.getElementById("stage");
+const hud = document.getElementById("hud");
+const loopHint = document.getElementById("loopHint");
+function scenePoster(s){
+  if(s.img) return s.img;
+  if(s.video) return "media/poster/" + s.id + ".jpg";
+  return null;
+}
+function sceneMedia(s){
+  if(s.video) return `<video class="scene-video" src="${s.video}" loop playsinline autoplay></video>`;
+  const p = scenePoster(s);
+  if(p) return `<img class="scene-poster" src="${p}" alt="">`;
+  return "";
+}
+let curScene = null, curCard = null, speaking = false, speechTimer = null, playToken = 0;
+let passState = 0; // 0=盲听 1=英文 2=中英对照
+const PASS_NAMES = ["盲听", "英文", "中英"];
+function curSceneObj(){ return SCENES.find(x=>x.id===curScene); }
+function updateSubs(){
+  if(!curCard) return;
+  const s = curSceneObj();
+  const bar = curCard.querySelector("#subsBar");
+  const badge = curCard.querySelector("#passBadge");
+  if(badge) badge.textContent = "P" + (passState+1) + " " + PASS_NAMES[passState];
+  if(!bar || !s) return;
+  if(passState === 0){ bar.innerHTML = ""; return; }
+  const en = `<div class="sub-en">${s.lines[0]}</div>`;
+  const cn = (passState >= 2 && s.cn) ? `<div class="sub-cn">${s.cn}</div>` : "";
+  bar.innerHTML = en + cn;
+}
+let voice = null;
+
+/* ---------- 设置（语音/语速/自动循环） ---------- */
+const SETTINGS_KEY = "guessLabSettings_v2";
+let SET = { voiceURI: "", rate: 0.95, autoLoop: true, lang: "en", level: "all" };
+try{ const s = JSON.parse(localStorage.getItem(SETTINGS_KEY)); if(s) SET = Object.assign(SET, s); }catch(e){}
+function saveSettings(){ try{ localStorage.setItem(SETTINGS_KEY, JSON.stringify(SET)); }catch(e){} }
+
+function sceneLang(s){ return s.lang || "en"; }
+let _levelHasContent = true;
+function sceneLevelOk(s){
+  if(!SET.level || SET.level === "all") return true;
+  if(!_levelHasContent) return true; // 该级别暂无内容 → 回退全部
+  const lv = s.level || 3;
+  if(SET.level === "1-2") return lv <= 2;
+  if(SET.level === "3") return lv === 3;
+  if(SET.level === "4-5") return lv >= 4;
+  return true;
+}
+function applyLevelButtons(){
+  document.querySelectorAll("#levelPick .lp-btn").forEach(b=>{
+    b.classList.toggle("on", b.dataset.level === SET.level);
+  });
+  document.querySelectorAll("#levelSel").forEach(sel=>{ if(sel) sel.value = SET.level; });
+  _levelHasContent = SET.level === "all" || SCENES.some(s=>{
+    const lv = s.level || 3;
+    if(SET.level === "1-2") return lv <= 2;
+    if(SET.level === "3") return lv === 3;
+    if(SET.level === "4-5") return lv >= 4;
+    return true;
+  });
+  const hint = document.getElementById("levelEmptyHint");
+  if(hint) hint.style.display = (SET.level !== "all" && !_levelHasContent) ? "" : "none";
+}
+function langsAvailable(){ const set = new Set(); SCENES.forEach(s=>set.add(sceneLang(s))); return Array.from(set); }
+function fillLangSelect(){
+  const sel = document.getElementById("langSelect");
+  if(!sel) return;
+  const names = {en:"English", es:"Español"};
+  sel.innerHTML = "";
+  langsAvailable().forEach(l=>{
+    const o = document.createElement("option");
+    o.value = l; o.textContent = names[l] || l;
+    if(l === SET.lang) o.selected = true;
+    sel.appendChild(o);
+  });
+}
+
+function listVoices(){ return ("speechSynthesis" in window) ? speechSynthesis.getVoices() : []; }
+function pickVoice(){
+  const vs = listVoices();
+  if(SET.voiceURI){ const v = vs.find(x=>x.voiceURI===SET.voiceURI); if(v) return v; }
+  const want = ["Google US English","Samantha","Microsoft Aria","Microsoft Zira","Daniel","Karen","en-US"];
+  for(const w of want){ const v = vs.find(x=>x.name.includes(w)); if(v) return v; }
+  return vs.find(v=>v.lang && v.lang.toLowerCase().startsWith("en")) || null;
+}
+if("speechSynthesis" in window){
+  speechSynthesis.onvoiceschanged = ()=>{ voice = pickVoice(); fillVoiceSelect(); };
+  voice = pickVoice();
+}
+
+/* 语音下拉框 */
+function fillVoiceSelect(){
+  const sel = document.getElementById("voiceSelect");
+  if(!sel) return;
+  const vs = listVoices();
+  sel.innerHTML = "";
+  const opt = document.createElement("option"); opt.value = ""; opt.textContent = "自动选择"; sel.appendChild(opt);
+  vs.forEach(v=>{
+    const o = document.createElement("option");
+    o.value = v.voiceURI;
+    o.textContent = v.name + " (" + v.lang + ")";
+    if(v.voiceURI === SET.voiceURI) o.selected = true;
+    sel.appendChild(o);
+  });
+}
+function speak(text, token, onEnd, lang){
+  if(!("speechSynthesis" in window)){ onEnd&&onEnd(); return; }
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = lang || "en-US"; u.rate = SET.rate; u.pitch = 1.0;
+  if(voice) u.voice = voice;
+  u.onend = ()=>{ if(playToken===token) onEnd&&onEnd(); };
+  u.onerror = ()=>{ if(playToken===token) onEnd&&onEnd(); };
+  speechSynthesis.speak(u);
+}
+/* 真人录音播放（覆盖层提供的 mp3）；失败/缺失自动交还 TTS */
+let audioEl = null;
+function playLineAudio(src, token, onEnd){
+  if(!src || !("Audio" in window)) return false;
+  try{ if(audioEl){ audioEl.pause(); audioEl = null; } }catch(e){}
+  const a = new Audio(src);
+  audioEl = a;
+  a.onended = ()=>{ if(playToken===token){ audioEl = null; onEnd&&onEnd(); } };
+  a.onerror = ()=>{ if(playToken===token){ audioEl = null; onEnd&&onEnd(); } };
+  a.play().catch(()=>{ if(playToken===token){ audioEl = null; onEnd&&onEnd(); } });
+  return true;
+}
+function speakAll(lines, token, idx, cb, lang, audio){
+  if(playToken!==token) return;
+  if(idx >= lines.length){ cb&&cb(); return; }
+  const next = ()=> speakAll(lines, token, idx+1, cb, lang, audio);
+  if(audio && audio[idx]){
+    if(playLineAudio("media/" + audio[idx], token, next)) return;
+  }
+  speak(lines[idx], token, next, lang);
+}
+function playLines(lines, lang, audio){
+  speechSynthesis.cancel();
+  const tk = ++playToken;
+  speakAll(lines, tk, 0, ()=>{}, lang, audio);
+}
+
+function renderDots(){
+  hud.innerHTML = "";
+  const ids = P.order.length ? P.order.slice(-10) : [curScene.id];
+  for(const id of ids){
+    const d = document.createElement("div");
+    d.className = "dot" + (id===curScene.id ? " on" : "") + ((P.seen[id]?.loops||0)>=3 ? " hot" : "");
+    hud.appendChild(d);
+  }
+}
+
+function renderScene(id, dir){
+  playToken++;
+  if(speechSynthesis) speechSynthesis.cancel();
+  clearTimeout(speechTimer);
+  document.querySelectorAll("video.scene-video").forEach(v=>{ try{ v.pause(); }catch(e){} });
+  const s = SCENES.find(x=>x.id===id);
+  if(!s) return;
+  curScene = id;
+  const card = document.createElement("div");
+  card.className = "card" + (dir==="back" ? " slide-back-in" : (dir==="next" ? " slide-in" : ""));
+  card.dataset.scene = id;
+  card.innerHTML = `<div class="scene">
+      <div class="art">${sceneMedia(s)}</div>
+      <div class="subs" id="subsBar"></div>
+      <div class="tier-badge" id="passBadge"></div>
+    </div>`;
+  if(curCard){ const prevCard = curCard; prevCard.classList.add(dir==="back" ? "slide-back-out" : "slide-out"); setTimeout(()=>prevCard.remove(), 260); }
+  stage.appendChild(card);
+  curCard = card;
+  requestAnimationFrame(()=>{ card.classList.remove("slide-in","slide-back-in"); });
+  // 行为记录
+  const rec = P.seen[id] || {views:0, loops:0, firstAt:Date.now(), lastAt:Date.now()};
+  rec.views++; rec.lastAt = Date.now(); P.seen[id] = rec;
+  if(!P.order.includes(id)) P.order.push(id);
+  save();
+  renderDots();
+  passState = (dir === "back") ? (P.seen[id] && P.seen[id].lastPass || 0) : 0;
+  updateSubs();
+  if(s.video){
+    // 视频场景：内嵌配音，靠"循环回绕"统计次数（视频 loop 播放 = 卡住重复）
+    const v = card.querySelector("video.scene-video");
+    const hasHumanAudio = s.audio && s.audio.some(Boolean);
+    if(v){
+      if(hasHumanAudio){ try{ v.muted = true; }catch(e){} }  // 真人录音覆盖机器配音
+      let lastT = 0;
+      v.addEventListener("timeupdate", ()=>{
+        if(v.currentTime < lastT - 0.3){           // 回绕 = 播完一遍
+          const r = P.seen[id]; r.loops++;
+          apiPost("/api/events", {sceneId: id, action: "loop", ts: Date.now(), detail: {count: r.loops}});
+          if(r.loops>=8) loopHint.classList.add("show");
+          save(); renderDots();
+        }
+        lastT = v.currentTime;
+      });
+      v.onerror = ()=>{ const art = card.querySelector(".art"); if(art){ art.innerHTML = `<img src="${scenePoster(s)}" style="width:100%;height:100%;object-fit:cover">`; } };
+      v.play().catch(()=>{ card.addEventListener("click", ()=>v.play().catch(()=>{}), {once:true}); });
+    }
+    if(hasHumanAudio){
+      // 真人录音循环播放（与视频循环并行）
+      const token = ++playToken;
+      const loopPlay = ()=>{
+        if(playToken!==token || curScene!==id) return;
+        speakAll(s.lines, token, 0, ()=>{ setTimeout(loopPlay, 1500); }, s.lang, s.audio);
+      };
+      setTimeout(loopPlay, 400);
+    }
+    return;
+  }
+  // 播放声音
+  const token = ++playToken;
+  setTimeout(()=>{ speakAll(s.lines, token, 0, ()=>{ scheduleLoop(s, token); }, s.lang, s.audio); }, 350);
+}
+
+/* 卡住自动循环：播完 4.5s 内未滑走 → 自动重播；循环≥8 次亮绿灯（设置里可关闭） */
+function scheduleLoop(s, token){
+  if(playToken!==token || curScene!==s.id) return;
+  const rec = P.seen[s.id]; rec.loops++;
+  if(rec.loops>=8){ loopHint.classList.add("show"); }
+  apiPost("/api/events", {sceneId: s.id, action: "loop", ts: Date.now(), detail: {count: rec.loops}});
+  save(); renderDots();
+  if(!SET.autoLoop) return;
+  speechTimer = setTimeout(()=>{
+    if(playToken===token && curScene===s.id){
+      speakAll(s.lines, token, 0, ()=> scheduleLoop(s, token), s.lang, s.audio);
+    }
+  }, 4500);
+}
+
+async function advance(){
+  if(!curScene) return;
+  if(passState < 2){ passState++; if(P.seen[curScene]) P.seen[curScene].lastPass = passState; save(); updateSubs(); return; }
+  if(P.seen[curScene]) P.seen[curScene].lastPass = passState;
+  save();
+  recordSwipe(1);
+  loopHint.classList.remove("show");
+  if(API.mode==="server"){
+    const d = await apiPost("/api/feed/next", {lang: SET.lang, level: SET.level});
+    if(d && d.sceneId && SCENES.some(s=>s.id===d.sceneId)){ renderScene(d.sceneId, "next"); return; }
+  }
+  renderScene(pickNext(), "next");
+}
+function goBack(){
+  if(!curScene) return;
+  if(passState > 0){ passState--; if(P.seen[curScene]) P.seen[curScene].lastPass = passState; save(); updateSubs(); return; }
+  if(P.order.length < 2) return;
+  recordSwipe(-1);
+  const prev = P.order[P.order.length-2];
+  P.order.pop();
+  renderScene(prev, "back");
+  loopHint.classList.remove("show");
+}
+function recordSwipe(dir){
+  const rec = P.seen[curScene];
+  const dt = Date.now() - (rec.lastSwipeAt || rec.firstAt || Date.now());
+  rec.lastSwipeAt = Date.now();
+  P.swipes.push({id:curScene, dt, dir, ts: Date.now()});
+  if(P.swipes.length > 40) P.swipes = P.swipes.slice(-40);
+  // 行为→难度：近 10 次快速滑走比例 >60% 且当前档未看完 → 升档
+  const recent = P.swipes.slice(-10).filter(s=>s.dir===1);
+  const fast = recent.filter(s=>s.dt < 4500).length;
+  if(recent.length >= 5 && fast/recent.length > 0.6 && P.tier < 2 && unseenIds(P.tier).length===0){
+    P.tier++;
+  }
+  // 卡点词汇入记忆
+  if(rec.loops >= 3){ for(const w of SCENES.find(x=>x.id===curScene).vocab){ P.memoryWords[w]=(P.memoryWords[w]||0)+1; } }
+  apiPost("/api/events", {sceneId: curScene, action: "swipe_next", ts: Date.now(), detail: {dtMs: dt, dir: dir}});
+  save();
+}
+
+/* ---------- 图文阅读区：只收录"你亲耳听过"的句子 ---------- */
+const readingPanel = document.getElementById("readingPanel");
+const rcards = document.getElementById("rcards");
+function openReading(){
+  rcards.innerHTML = "";
+  readingPanel.classList.add("open");
+  if(API.mode==="server"){
+    apiGet("/api/reading", "lang=" + SET.lang + "&level=" + SET.level).then(d=>{
+      if(d && d.cards && d.cards.length){ renderServerCards(d.cards); return; }
+      renderLocalReading();
+    });
+    return;
+  }
+  renderLocalReading();
+}
+function renderServerCards(cards){
+  cards.forEach(card=>{
+    const artScene = (card.sourceSceneIds||[]).map(id=>SCENES.find(s=>s.id===id)).find(Boolean)
+      || SCENES.find(s=>card.words && s.vocab.some(v=>card.words.includes(v)));
+    const lines = (card.text||"").split("\n").filter(Boolean);
+    const el = document.createElement("div");
+    el.className = "rcard";
+    el.innerHTML = `
+      <div class="rart">${artScene ? `<img src="${scenePoster(artScene)}" style="width:100%;height:100%;object-fit:cover">` : ""}</div>
+      <div class="rbody">
+        <div class="rtxt">${lines.map(l=>`<span data-line="${l}">${l}</span>`).join("\n")}</div>
+        <button class="rplay">🔊 听</button>
+        <div class="rtag">${card.mode==="llm" ? "AI 重组段落 · " : ""}只用你听过的词 · ${(card.words||[]).join(" / ")}</div>
+      </div>`;
+    el.querySelector(".rplay").onclick = ()=>{
+      const srcScene = SCENES.find(x=>card.sourceSceneIds && card.sourceSceneIds.includes(x.id));
+      const aud = srcScene ? srcScene.audio : null;
+      playLines(lines, card.lang || srcScene?.lang, aud);
+    };
+    rcards.appendChild(el);
+  });
+}
+function renderLocalReading(){
+  const watched = SCENES.filter(s=>P.seen[s.id] && sceneLang(s)===SET.lang && sceneLevelOk(s));
+  if(!watched.length){ rcards.innerHTML = '<p style="color:var(--dim)">先去刷几条视频吧。</p>'; }
+  watched.forEach(s=>{
+    const card = document.createElement("div");
+    card.className = "rcard";
+    card.innerHTML = `
+      <div class="rart"><img src="${scenePoster(s)}" style="width:100%;height:100%;object-fit:cover"></div>
+      <div class="rbody">
+        <div class="rtxt">${s.lines.map(l=>`<span data-line="${l}">${l}</span>`).join("\n")}</div>
+        <button class="rplay">🔊 听</button>
+        <div class="rtag">来自你听过的场景 · ${s.vocab.map(v=>v).join(" / ")}</div>
+      </div>`;
+    card.querySelector(".rplay").onclick = ()=> playLines(s.lines, s.lang, s.audio);
+    rcards.appendChild(card);
+  });
+}
+
+/* ---------- 行为面板 ---------- */
+function openLog(){
+  const summary = {
+    当前难度档: P.tier+1,
+    已看场景数: Object.keys(P.seen).length,
+    卡点词汇记忆: P.memoryWords,
+    最近行为: P.swipes.slice(-8),
+    最近10条快速滑走率: (()=>{const r=P.swipes.slice(-10).filter(s=>s.dir===1);return r.length? (r.filter(s=>s.dt<4500).length/r.length*100).toFixed(0)+"%": "—";})(),
+    刷序: P.order
+  };
+  document.getElementById("logPre").textContent = JSON.stringify(summary, null, 2);
+  document.getElementById("logPanel").classList.add("open");
+}
+
+/* ---------- 交互 ---------- */
+function closePanel(id){ document.getElementById(id).classList.remove("open"); }
+function openPanel(id){ document.getElementById(id).classList.add("open"); }
+
+document.getElementById("startBtn").onclick = ()=>{
+  applyLevelButtons();
+  document.getElementById("startOverlay").style.display = "none";
+  document.getElementById("toolbar").style.display = "flex";
+  document.getElementById("logBtn").style.display = "block";
+  document.getElementById("navHint").textContent = "看画面 · 猜意思 · 划走";
+  setTimeout(()=>{ if(API.mode==="server"){ document.getElementById("navHint").textContent = "Server 模式 · 行为已同步后端 · 看画面 · 猜意思"; } }, 300);
+  let first = Object.keys(P.seen).length ? P.order[P.order.length-1] : null;
+  const resume = SCENES.find(s=>s.id===first);
+  // 断点续看：上次场景必须符合当前级别/语言，否则重新选片
+  if(!resume || !sceneLevelOk(resume) || sceneLang(resume) !== SET.lang) first = pickNext();
+  if(first && SCENES.length) renderScene(first, null);
+  else document.getElementById("navHint").textContent = "内容未加载，请刷新";
+};
+document.getElementById("readingBtn").onclick = openReading;
+document.getElementById("logBtn").onclick = openLog;
+document.getElementById("methodLink").onclick = ()=>{ openPanel("methodPanel"); };
+document.getElementById("methodBtn").onclick = ()=>{ openPanel("methodPanel"); };
+document.getElementById("settingsBtn").onclick = ()=>{
+  fillVoiceSelect(); fillLangSelect(); openPanel("settingsPanel");
+  const total = SCENES.reduce((n,s)=>n+s.lines.length,0);
+  const real = SCENES.reduce((n,s)=>n+(s.audio? s.audio.filter(Boolean).length : 0),0);
+  const el = document.getElementById("realAudioStat");
+  if(el) el.textContent = real + "/" + total + " 句";
+};
+document.getElementById("progressBtn").onclick = ()=>{ renderProgress(); openPanel("progressPanel"); };
+document.getElementById("readingPanel").addEventListener("click", e=>{
+  if(e.target.id==="readingPanel") readingPanel.classList.remove("open");
+});
+
+/* 设置面板事件 */
+document.getElementById("langSelect").addEventListener("change", e=>{
+  SET.lang = e.target.value; saveSettings();
+});
+document.getElementById("levelSel").addEventListener("change", e=>{
+  SET.level = e.target.value; saveSettings(); applyLevelButtons();
+});
+document.querySelectorAll("#levelPick .lp-btn").forEach(btn=>{
+  btn.addEventListener("click", ()=>{
+    SET.level = btn.dataset.level; saveSettings(); applyLevelButtons();
+  });
+});
+document.getElementById("voiceSelect").addEventListener("change", e=>{
+  SET.voiceURI = e.target.value; voice = pickVoice(); saveSettings();
+});
+document.getElementById("rateRange").addEventListener("input", e=>{
+  SET.rate = parseFloat(e.target.value);
+  document.getElementById("rateVal").textContent = SET.rate.toFixed(2);
+  saveSettings();
+});
+document.getElementById("autoLoopCb").addEventListener("change", e=>{
+  SET.autoLoop = e.target.checked; saveSettings();
+});
+document.getElementById("resetBtn").addEventListener("click", ()=>{
+  if(!confirm("确定重置全部进度？本地画像与后端行为记录都会清空。")) return;
+  try{ localStorage.removeItem(KEY); localStorage.removeItem(SETTINGS_KEY); localStorage.removeItem("guessLabDays"); localStorage.removeItem("guessLabUserId"); }catch(e){}
+  if(API.mode==="server"){ try{ apiPost("/api/events", {sceneId:"__reset", action:"reset", ts:Date.now(), detail:{}}); }catch(e){} }
+  location.reload();
+});
+
+/* 进度：连续天数追踪 */
+const DAYS_KEY = "guessLabDays_v2";
+function trackDay(){
+  try{
+    const today = new Date().toISOString().slice(0,10);
+    const days = JSON.parse(localStorage.getItem(DAYS_KEY) || "[]");
+    if(days[days.length-1] !== today){ days.push(today); localStorage.setItem(DAYS_KEY, JSON.stringify(days)); }
+  }catch(e){}
+}
+function renderProgress(){
+  trackDay();
+  let days = []; try{ days = JSON.parse(localStorage.getItem(DAYS_KEY) || "[]"); }catch(e){}
+  // 连续天数
+  let streak = 0;
+  const d = new Date();
+  for(let i=0;i<days.length;i++){
+    const cur = new Date(d.getTime() - i*86400000).toISOString().slice(0,10);
+    if(days.includes(cur)) streak++; else break;
+  }
+  const todayStart = new Date(); todayStart.setHours(0,0,0,0);
+  const todaySwipes = P.swipes.filter(s=>s.ts >= todayStart.getTime()).length;
+  const totalLoops = Object.values(P.seen).reduce((a,r)=>a+(r.loops||0),0);
+  const grid = document.getElementById("statGrid");
+  grid.innerHTML = [
+    ["已看场景", Object.keys(P.seen).length + " / " + SCENES.length],
+    ["当前难度", "L" + (P.tier+1)],
+    ["卡点词汇", Object.keys(P.memoryWords).length],
+    ["循环次数", totalLoops],
+    ["今日滑刷", todaySwipes],
+    ["连续天数", streak + " 天"]
+  ].map(([l,n])=>`<div class="stat"><div class="num">${n}</div><div class="lbl">${l}</div></div>`).join("");
+  // 最近 7 天滑刷柱状图
+  const DAYS7 = ["日","一","二","三","四","五","六"];
+  const counts = [];
+  for(let i=6;i>=0;i--){
+    const d = new Date(); d.setHours(0,0,0,0); d.setDate(d.getDate()-i);
+    const start = d.getTime(), end = start + 86400000;
+    counts.push({label: DAYS7[d.getDay()], n: P.swipes.filter(s=>s.ts>=start && s.ts<end).length});
+  }
+  const maxN = Math.max(1, ...counts.map(c=>c.n));
+  const bw = 34, bh = 90;
+  const bars = counts.map((c,i)=>{
+    const h = Math.max(3, Math.round(c.n/maxN*bh));
+    const x = 20 + i*(bw+14), y = bh + 12 - h;
+    return `<rect x="${x}" y="${y}" width="${bw}" height="${h}" rx="4" fill="${c.n>0?"var(--acc)":"#3a4150"}"/>
+      <text x="${x+bw/2}" y="${y-5}" text-anchor="middle" font-size="11" fill="${c.n>0?"var(--txt)":"var(--dim)"}">${c.n}</text>
+      <text x="${x+bw/2}" y="${bh+28}" text-anchor="middle" font-size="11" fill="var(--dim)">${c.label}</text>`;
+  }).join("");
+  document.getElementById("weekChart").innerHTML =
+    `<svg viewBox="0 0 400 ${bh+40}" width="100%" style="background:var(--panel);border:1px solid var(--line);border-radius:12px">${bars}</svg>`;
+
+  // 我听过的话（英文，无翻译）
+  const words = Object.entries(P.memoryWords).sort((a,b)=>b[1]-a[1]).map(([w,c])=>`${w} <span style="color:var(--dim)">×${c}</span>`).join(" · ");
+  document.getElementById("heardWords").innerHTML = words || '<span style="color:var(--dim)">还没有卡点词——卡住几次的词汇会出现在这里</span>';
+}
+document.getElementById("exportBtn").addEventListener("click", ()=>{
+  const data = {exportedAt: new Date().toISOString(), settings: SET, days: (()=>{try{return JSON.parse(localStorage.getItem(DAYS_KEY)||"[]");}catch(e){return[]}})(), profile: P, serverMode: API.mode};
+  const blob = new Blob([JSON.stringify(data,null,2)], {type:"application/json"});
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob); a.download = "guesslab-progress.json"; a.click();
+});
+
+document.addEventListener("keydown", e=>{
+  if(document.getElementById("startOverlay").style.display!=="none") return;
+  if(e.key==="ArrowRight"||e.key===" "||e.key==="Enter"){ e.preventDefault(); advance(); }
+  else if(e.key==="ArrowLeft"){ goBack(); }
+  else if(e.key.toLowerCase()==="b"){ openLog(); }
+  else if(e.key.toLowerCase()==="r"){ openReading(); }
+  else if(e.key.toLowerCase()==="s"){ openPanel("settingsPanel"); }
+  else if(e.key.toLowerCase()==="p"){ renderProgress(); openPanel("progressPanel"); }
+  else if(e.key.toLowerCase()==="m"){ openPanel("methodPanel"); }
+  else if(e.key==="Escape"){ ["settingsPanel","progressPanel","methodPanel","readingPanel","logPanel"].forEach(id=>closePanel(id)); }
+});
+let t0=null;
+document.addEventListener("touchstart", e=>{ t0={x:e.touches[0].clientX, y:e.touches[0].clientY}; }, {passive:true});
+document.addEventListener("touchend", e=>{
+  if(!t0) return; const dx=e.changedTouches[0].clientX-t0.x, dy=e.changedTouches[0].clientY-t0.y; t0=null;
+  if(Math.abs(dy)>60 && Math.abs(dy)>Math.abs(dx)){ dy<0 ? advance() : goBack(); }
+  else if(Math.abs(dx)>70){ dx<0 ? advance() : goBack(); }
+}, {passive:true});
+document.getElementById("stage").addEventListener("click", e=>{
+  if(document.getElementById("startOverlay").style.display!=="none") return;
+  if(document.getElementById("readingPanel").classList.contains("open")) return;
+  const x = e.clientX / window.innerWidth;
+  x < 0.35 ? goBack() : advance();
+});
+
+/* 首次进入：预加载 voice */
+if("speechSynthesis" in window){ speechSynthesis.getVoices(); }
+applyLevelButtons();
+
+/* PWA：注册 Service Worker（离线可用） */
+if("serviceWorker" in navigator){
+  window.addEventListener("load", ()=>{ navigator.serviceWorker.register("./sw.js").catch(()=>{}); });
+}
+</script>
+</body>
+</html>

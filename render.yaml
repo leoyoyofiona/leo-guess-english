@@ -1,0 +1,13 @@
+# LEO · 猜英语 — Render 声明式部署配置
+# 使用方法见 README-RENDER.md
+services:
+  - type: web
+    name: leo-guess-english
+    runtime: python
+    plan: free
+    region: frankfurt
+    buildCommand: ""
+    startCommand: python3 server.py
+    envVars:
+      - key: PORT
+        value: "10000"

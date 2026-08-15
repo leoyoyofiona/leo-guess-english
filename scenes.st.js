@@ -1,0 +1,19759 @@
+/* LEO 精选体验版 · Shadow Talk 影子跟读课程 */
+window.EXTRA_SCENES_ST = [
+ {
+  "id": "st-e1-s01",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "We've just checked in and now we need to go to our room",
+  "lines": [
+   "We've just checked in and now we need to go to our room"
+  ],
+  "vocab": [
+   "ve",
+   "checked",
+   "room"
+  ],
+  "video": "media/st/e1/s01.mp4",
+  "anchors": {},
+  "cn": "我们刚办好入住，现在要去房间了",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s02",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "so let's take the lift",
+  "lines": [
+   "so let's take the lift"
+  ],
+  "vocab": [
+   "s",
+   "lift"
+  ],
+  "video": "media/st/e1/s02.mp4",
+  "anchors": {},
+  "cn": "所以我们坐电梯吧",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s03",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "This guys is a luggage trolley where you put your bags on",
+  "lines": [
+   "This guys is a luggage trolley where you put your bags on"
+  ],
+  "vocab": [
+   "guys",
+   "luggage",
+   "trolley",
+   "bags"
+  ],
+  "video": "media/st/e1/s03.mp4",
+  "anchors": {},
+  "cn": "这个是行李推车，你把行李放上面",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s04",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "Normally the concierge takes your bags",
+  "lines": [
+   "Normally the concierge takes your bags"
+  ],
+  "vocab": [
+   "normally",
+   "concierge",
+   "takes",
+   "bags"
+  ],
+  "video": "media/st/e1/s04.mp4",
+  "anchors": {},
+  "cn": "通常礼宾员会帮你拿行李",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s05",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "The concierge in the hotel is like your personal assistant",
+  "lines": [
+   "The concierge in the hotel is like your personal assistant"
+  ],
+  "vocab": [
+   "concierge",
+   "hotel",
+   "personal",
+   "assistant"
+  ],
+  "video": "media/st/e1/s05.mp4",
+  "anchors": {},
+  "cn": "酒店的礼宾员就像你的私人助理",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s06",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "who makes your experience more pleasant",
+  "lines": [
+   "who makes your experience more pleasant"
+  ],
+  "vocab": [
+   "makes",
+   "experience",
+   "pleasant"
+  ],
+  "video": "media/st/e1/s06.mp4",
+  "anchors": {},
+  "cn": "让你的体验更愉快",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s07",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "So this is the lift, I'm pressing the button",
+  "lines": [
+   "So this is the lift, I'm pressing the button"
+  ],
+  "vocab": [
+   "lift",
+   "m",
+   "pressing",
+   "button"
+  ],
+  "video": "media/st/e1/s07.mp4",
+  "anchors": {},
+  "cn": "这就是电梯，我在按按钮",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s08",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "and the lift is opening",
+  "lines": [
+   "and the lift is opening"
+  ],
+  "vocab": [
+   "lift",
+   "opening"
+  ],
+  "video": "media/st/e1/s08.mp4",
+  "anchors": {},
+  "cn": "电梯门打开了",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s09",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "So right now we're on the ground floor",
+  "lines": [
+   "So right now we're on the ground floor"
+  ],
+  "vocab": [
+   "re",
+   "ground",
+   "floor"
+  ],
+  "video": "media/st/e1/s09.mp4",
+  "anchors": {},
+  "cn": "现在我们在一楼",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s10",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "and I'm taking the card and tapping it",
+  "lines": [
+   "and I'm taking the card and tapping it"
+  ],
+  "vocab": [
+   "m",
+   "taking",
+   "card",
+   "tapping"
+  ],
+  "video": "media/st/e1/s10.mp4",
+  "anchors": {},
+  "cn": "我拿出房卡刷一下",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s11",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "and pressing the number twenty-one",
+  "lines": [
+   "and pressing the number twenty-one"
+  ],
+  "vocab": [
+   "pressing",
+   "number",
+   "twenty"
+  ],
+  "video": "media/st/e1/s11.mp4",
+  "anchors": {},
+  "cn": "然后按二十一",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s12",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "Now we don't say the twenty-one floor",
+  "lines": [
+   "Now we don't say the twenty-one floor"
+  ],
+  "vocab": [
+   "don",
+   "t",
+   "twenty",
+   "floor"
+  ],
+  "video": "media/st/e1/s12.mp4",
+  "anchors": {},
+  "cn": "我们不会说 the twenty-one floor",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s13",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "we do say the twenty-first floor",
+  "lines": [
+   "we do say the twenty-first floor"
+  ],
+  "vocab": [
+   "twenty",
+   "first",
+   "floor"
+  ],
+  "video": "media/st/e1/s13.mp4",
+  "anchors": {},
+  "cn": "我们会说 the twenty-first floor",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s14",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "We are going up to the twenty-first floor",
+  "lines": [
+   "We are going up to the twenty-first floor"
+  ],
+  "vocab": [
+   "going",
+   "twenty",
+   "first",
+   "floor"
+  ],
+  "video": "media/st/e1/s14.mp4",
+  "anchors": {},
+  "cn": "我们正在上二十一楼",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s15",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "We're on the twenty-first floor",
+  "lines": [
+   "We're on the twenty-first floor"
+  ],
+  "vocab": [
+   "re",
+   "twenty",
+   "first",
+   "floor"
+  ],
+  "video": "media/st/e1/s15.mp4",
+  "anchors": {},
+  "cn": "我们到二十一楼了",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s16",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "and down here is a corridor, a corridor",
+  "lines": [
+   "and down here is a corridor, a corridor"
+  ],
+  "vocab": [
+   "corridor",
+   "corridor"
+  ],
+  "video": "media/st/e1/s16.mp4",
+  "anchors": {},
+  "cn": "这边是一条走廊，走廊",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s17",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "I'm walking down the corridor",
+  "lines": [
+   "I'm walking down the corridor"
+  ],
+  "vocab": [
+   "m",
+   "walking",
+   "corridor"
+  ],
+  "video": "media/st/e1/s17.mp4",
+  "anchors": {},
+  "cn": "我正沿着走廊走",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s18",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "but our room is not down there",
+  "lines": [
+   "but our room is not down there"
+  ],
+  "vocab": [
+   "room"
+  ],
+  "video": "media/st/e1/s18.mp4",
+  "anchors": {},
+  "cn": "但我们的房间不在那边",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s19",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "It's not down that corridor",
+  "lines": [
+   "It's not down that corridor"
+  ],
+  "vocab": [
+   "s",
+   "corridor"
+  ],
+  "video": "media/st/e1/s19.mp4",
+  "anchors": {},
+  "cn": "不在那条走廊",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s20",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "Our room is here, twenty-one oh one",
+  "lines": [
+   "Our room is here, twenty-one oh one"
+  ],
+  "vocab": [
+   "room",
+   "twenty"
+  ],
+  "video": "media/st/e1/s20.mp4",
+  "anchors": {},
+  "cn": "我们的房间在这儿，二一零一",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s21",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "Got the key card, tapping the key card",
+  "lines": [
+   "Got the key card, tapping the key card"
+  ],
+  "vocab": [
+   "key",
+   "card",
+   "tapping",
+   "key",
+   "card"
+  ],
+  "video": "media/st/e1/s21.mp4",
+  "anchors": {},
+  "cn": "拿出房卡，刷一下房卡",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s22",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "pushing down the handle and entering the room",
+  "lines": [
+   "pushing down the handle and entering the room"
+  ],
+  "vocab": [
+   "pushing",
+   "handle",
+   "entering",
+   "room"
+  ],
+  "video": "media/st/e1/s22.mp4",
+  "anchors": {},
+  "cn": "按下门把手，进入房间",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s23",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "Welcome to MTV Cribs, welcome to my crib",
+  "lines": [
+   "Welcome to MTV Cribs, welcome to my crib"
+  ],
+  "vocab": [
+   "welcome",
+   "mtv",
+   "cribs",
+   "welcome",
+   "crib"
+  ],
+  "video": "media/st/e1/s23.mp4",
+  "anchors": {},
+  "cn": "欢迎来到MTV Cribs，欢迎来到我的小窝",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s24",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "Here we have the lounge area",
+  "lines": [
+   "Here we have the lounge area"
+  ],
+  "vocab": [
+   "lounge",
+   "area"
+  ],
+  "video": "media/st/e1/s24.mp4",
+  "anchors": {},
+  "cn": "这里是休息区",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s25",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "where you can relax on the sofa",
+  "lines": [
+   "where you can relax on the sofa"
+  ],
+  "vocab": [
+   "relax",
+   "sofa"
+  ],
+  "video": "media/st/e1/s25.mp4",
+  "anchors": {},
+  "cn": "你可以在沙发上放松",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s26",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "In the UK we say the lounge or the living room",
+  "lines": [
+   "In the UK we say the lounge or the living room"
+  ],
+  "vocab": [
+   "uk",
+   "lounge",
+   "living",
+   "room"
+  ],
+  "video": "media/st/e1/s26.mp4",
+  "anchors": {},
+  "cn": "在英国我们说 lounge 或 living room",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s27",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "you can use both",
+  "lines": [
+   "you can use both"
+  ],
+  "vocab": [
+   "use",
+   "both"
+  ],
+  "video": "media/st/e1/s27.mp4",
+  "anchors": {},
+  "cn": "两个都可以用",
+  "level": 1
+ },
+ {
+  "id": "st-e1-s28",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e1",
+  "unitTitle": "E1 出国旅行的日常 · 酒店英语",
+  "title": "The space where you relax, watch TV, read a book",
+  "lines": [
+   "The space where you relax, watch TV, read a book"
+  ],
+  "vocab": [
+   "space",
+   "relax",
+   "watch",
+   "tv",
+   "read",
+   "book"
+  ],
+  "video": "media/st/e1/s28.mp4",
+  "anchors": {},
+  "cn": "就是你放松、看电视、读书的空间",
+  "level": 1
+ },
+ {
+  "id": "st-e4-s01",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "What a beautiful morning",
+  "lines": [
+   "What a beautiful morning"
+  ],
+  "vocab": [
+   "beautiful",
+   "morning"
+  ],
+  "cn": "多么美好的早晨",
+  "level": 1,
+  "video": "media/st/e4/s01.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s02",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "I have my coffee, I have my book",
+  "lines": [
+   "I have my coffee, I have my book"
+  ],
+  "vocab": [
+   "coffee",
+   "book"
+  ],
+  "cn": "我有咖啡，我有书",
+  "level": 1,
+  "video": "media/st/e4/s02.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s03",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "This is nice",
+  "lines": [
+   "This is nice"
+  ],
+  "vocab": [],
+  "cn": "真不错",
+  "level": 1,
+  "video": "media/st/e4/s03.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s04",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "Oh, what is that smell",
+  "lines": [
+   "Oh, what is that smell"
+  ],
+  "vocab": [
+   "smell"
+  ],
+  "cn": "哦，那是什么味道",
+  "level": 1,
+  "video": "media/st/e4/s04.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s05",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "Is it my coffee? No, my coffee smells delicious",
+  "lines": [
+   "Is it my coffee? No, my coffee smells delicious"
+  ],
+  "vocab": [
+   "coffee",
+   "coffee",
+   "smells",
+   "delicious"
+  ],
+  "cn": "是我的咖啡吗？不，我的咖啡闻起来很香",
+  "level": 1,
+  "video": "media/st/e4/s05.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s06",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "Is it my book? No",
+  "lines": [
+   "Is it my book? No"
+  ],
+  "vocab": [
+   "book"
+  ],
+  "cn": "是我的书吗？不是",
+  "level": 1,
+  "video": "media/st/e4/s06.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s07",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "Is it my feet? No",
+  "lines": [
+   "Is it my feet? No"
+  ],
+  "vocab": [
+   "feet"
+  ],
+  "cn": "是我的脚吗？不是",
+  "level": 1,
+  "video": "media/st/e4/s07.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s08",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "Where is that smell coming from",
+  "lines": [
+   "Where is that smell coming from"
+  ],
+  "vocab": [
+   "smell",
+   "coming"
+  ],
+  "cn": "那个味道是从哪里来的",
+  "level": 1,
+  "video": "media/st/e4/s08.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s09",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "Dargo, is it you",
+  "lines": [
+   "Dargo, is it you"
+  ],
+  "vocab": [
+   "dargo"
+  ],
+  "cn": "Dargo，是你吗",
+  "level": 1,
+  "video": "media/st/e4/s09.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s10",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "Oh, Dargo, you smell like old cheese",
+  "lines": [
+   "Oh, Dargo, you smell like old cheese"
+  ],
+  "vocab": [
+   "dargo",
+   "smell",
+   "cheese"
+  ],
+  "cn": "哦，Dargo，你闻起来像陈奶酪",
+  "level": 1,
+  "video": "media/st/e4/s10.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s11",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "It's time for a bath. Let's go",
+  "lines": [
+   "It's time for a bath. Let's go"
+  ],
+  "vocab": [
+   "s",
+   "time",
+   "bath",
+   "s"
+  ],
+  "cn": "该洗澡了。走吧",
+  "level": 1,
+  "video": "media/st/e4/s11.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s12",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "Ah ah ah, hahaha",
+  "lines": [
+   "Ah ah ah, hahaha"
+  ],
+  "vocab": [
+   "ah",
+   "ah",
+   "ah",
+   "hahaha"
+  ],
+  "cn": "啊啊啊，哈哈哈",
+  "level": 1,
+  "video": "media/st/e4/s12.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s13",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "Darko, come on, it's bath time",
+  "lines": [
+   "Darko, come on, it's bath time"
+  ],
+  "vocab": [
+   "darko",
+   "s",
+   "bath",
+   "time"
+  ],
+  "cn": "Darko，来吧，洗澡时间到了",
+  "level": 1,
+  "video": "media/st/e4/s13.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s14",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "Good boy, come on, good boy",
+  "lines": [
+   "Good boy, come on, good boy"
+  ],
+  "vocab": [
+   "boy",
+   "boy"
+  ],
+  "cn": "好孩子，来吧，好孩子",
+  "level": 1,
+  "video": "media/st/e4/s14.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s15",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "All the way in. Sit",
+  "lines": [
+   "All the way in. Sit"
+  ],
+  "vocab": [
+   "sit"
+  ],
+  "cn": "全部进来。坐下",
+  "level": 1,
+  "video": "media/st/e4/s15.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s16",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "Okay, what do I need for a bath",
+  "lines": [
+   "Okay, what do I need for a bath"
+  ],
+  "vocab": [
+   "bath"
+  ],
+  "cn": "好的，洗澡我需要什么",
+  "level": 1,
+  "video": "media/st/e4/s16.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s17",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "I need soap, I need gloves",
+  "lines": [
+   "I need soap, I need gloves"
+  ],
+  "vocab": [
+   "soap",
+   "gloves"
+  ],
+  "cn": "我需要肥皂，我需要手套",
+  "level": 1,
+  "video": "media/st/e4/s17.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s18",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "I need water, and I need you, Darko",
+  "lines": [
+   "I need water, and I need you, Darko"
+  ],
+  "vocab": [
+   "water",
+   "darko"
+  ],
+  "cn": "我需要水，还需要你，Darko",
+  "level": 1,
+  "video": "media/st/e4/s18.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s19",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "First I need to take off your collar",
+  "lines": [
+   "First I need to take off your collar"
+  ],
+  "vocab": [
+   "first",
+   "off",
+   "collar"
+  ],
+  "cn": "首先我需要取下你的项圈",
+  "level": 1,
+  "video": "media/st/e4/s19.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s20",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "Next I need to rinse you off",
+  "lines": [
+   "Next I need to rinse you off"
+  ],
+  "vocab": [
+   "next",
+   "rinse",
+   "off"
+  ],
+  "cn": "接下来我需要给你冲水",
+  "level": 1,
+  "video": "media/st/e4/s20.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s21",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "The water feels warm, doesn't it, Darko",
+  "lines": [
+   "The water feels warm, doesn't it, Darko"
+  ],
+  "vocab": [
+   "water",
+   "feels",
+   "warm",
+   "doesn",
+   "t",
+   "darko"
+  ],
+  "cn": "水感觉很温暖，对吧，Darko",
+  "level": 1,
+  "video": "media/st/e4/s21.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s22",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "Yeah, let me get your face, Darko",
+  "lines": [
+   "Yeah, let me get your face, Darko"
+  ],
+  "vocab": [
+   "face",
+   "darko"
+  ],
+  "cn": "好，让我冲冲你的脸，Darko",
+  "level": 1,
+  "video": "media/st/e4/s22.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s23",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "Okay, next I need to squeeze the bottle of soap",
+  "lines": [
+   "Okay, next I need to squeeze the bottle of soap"
+  ],
+  "vocab": [
+   "next",
+   "squeeze",
+   "bottle",
+   "soap"
+  ],
+  "cn": "好，接下来我需要挤肥皂瓶",
+  "level": 1,
+  "video": "media/st/e4/s23.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s24",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "and spread the soap all over your coat",
+  "lines": [
+   "and spread the soap all over your coat"
+  ],
+  "vocab": [
+   "spread",
+   "soap",
+   "over",
+   "coat"
+  ],
+  "cn": "把肥皂涂满你的毛",
+  "level": 1,
+  "video": "media/st/e4/s24.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s25",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "Ah ah ah, Dargo, stay still",
+  "lines": [
+   "Ah ah ah, Dargo, stay still"
+  ],
+  "vocab": [
+   "ah",
+   "ah",
+   "ah",
+   "dargo",
+   "still"
+  ],
+  "cn": "啊啊啊，Dargo，别动",
+  "level": 1,
+  "video": "media/st/e4/s25.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s26",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "Hold still, Dargo, hold still",
+  "lines": [
+   "Hold still, Dargo, hold still"
+  ],
+  "vocab": [
+   "hold",
+   "still",
+   "dargo",
+   "hold",
+   "still"
+  ],
+  "cn": "别动，Dargo，别动",
+  "level": 1,
+  "video": "media/st/e4/s26.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s27",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "Hoo, okay, I am spreading the soap",
+  "lines": [
+   "Hoo, okay, I am spreading the soap"
+  ],
+  "vocab": [
+   "hoo",
+   "spreading",
+   "soap"
+  ],
+  "cn": "呼，好的，我在涂肥皂",
+  "level": 1,
+  "video": "media/st/e4/s27.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s28",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "or lathering the soap all over Darko's body",
+  "lines": [
+   "or lathering the soap all over Darko's body"
+  ],
+  "vocab": [
+   "lathering",
+   "soap",
+   "over",
+   "darko",
+   "s",
+   "body"
+  ],
+  "cn": "或者说把肥皂搓遍Darko全身",
+  "level": 1,
+  "video": "media/st/e4/s28.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s29",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "Ah ah ah, you stay still",
+  "lines": [
+   "Ah ah ah, you stay still"
+  ],
+  "vocab": [
+   "ah",
+   "ah",
+   "ah",
+   "still"
+  ],
+  "cn": "啊啊啊，你别动",
+  "level": 1,
+  "video": "media/st/e4/s29.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s30",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "I am rubbing Darko's head and face",
+  "lines": [
+   "I am rubbing Darko's head and face"
+  ],
+  "vocab": [
+   "rubbing",
+   "darko",
+   "s",
+   "head",
+   "face"
+  ],
+  "cn": "我在搓Darko的头和脸",
+  "level": 1,
+  "video": "media/st/e4/s30.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s31",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "Rubbing is a gentle scrub",
+  "lines": [
+   "Rubbing is a gentle scrub"
+  ],
+  "vocab": [
+   "rubbing",
+   "gentle",
+   "scrub"
+  ],
+  "cn": "rubbing就是轻轻地搓洗",
+  "level": 1,
+  "video": "media/st/e4/s31.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s32",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "I am scrubbing Darko's paws",
+  "lines": [
+   "I am scrubbing Darko's paws"
+  ],
+  "vocab": [
+   "scrubbing",
+   "darko",
+   "s",
+   "paws"
+  ],
+  "cn": "我在搓洗Darko的爪子",
+  "level": 1,
+  "video": "media/st/e4/s32.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s33",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "I am rubbing Darko's nose",
+  "lines": [
+   "I am rubbing Darko's nose"
+  ],
+  "vocab": [
+   "rubbing",
+   "darko",
+   "s",
+   "nose"
+  ],
+  "cn": "我在搓Darko的鼻子",
+  "level": 1,
+  "video": "media/st/e4/s33.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s34",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "All right, now we rinse",
+  "lines": [
+   "All right, now we rinse"
+  ],
+  "vocab": [
+   "rinse"
+  ],
+  "cn": "好了，现在我们冲洗",
+  "level": 1,
+  "video": "media/st/e4/s34.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s35",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "Rinse all of the dirt off of your Darko",
+  "lines": [
+   "Rinse all of the dirt off of your Darko"
+  ],
+  "vocab": [
+   "rinse",
+   "dirt",
+   "off",
+   "darko"
+  ],
+  "cn": "把你身上所有的脏东西冲掉，Darko",
+  "level": 1,
+  "video": "media/st/e4/s35.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s36",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "Okay, now we need to towel you off",
+  "lines": [
+   "Okay, now we need to towel you off"
+  ],
+  "vocab": [
+   "towel",
+   "off"
+  ],
+  "cn": "好，现在我们需要用毛巾擦干你",
+  "level": 1,
+  "video": "media/st/e4/s36.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s37",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "We need to get you dry",
+  "lines": [
+   "We need to get you dry"
+  ],
+  "vocab": [
+   "dry"
+  ],
+  "cn": "我们需要把你弄干",
+  "level": 1,
+  "video": "media/st/e4/s37.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s38",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "Have my towel",
+  "lines": [
+   "Have my towel"
+  ],
+  "vocab": [
+   "towel"
+  ],
+  "cn": "拿好我的毛巾",
+  "level": 1,
+  "video": "media/st/e4/s38.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s39",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "I knew you were gonna shake",
+  "lines": [
+   "I knew you were gonna shake"
+  ],
+  "vocab": [
+   "knew",
+   "shake"
+  ],
+  "cn": "我就知道你要甩水",
+  "level": 1,
+  "video": "media/st/e4/s39.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s40",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "Good boy, Darko, much better",
+  "lines": [
+   "Good boy, Darko, much better"
+  ],
+  "vocab": [
+   "boy",
+   "darko",
+   "better"
+  ],
+  "cn": "好孩子，Darko，好多了",
+  "level": 1,
+  "video": "media/st/e4/s40.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s41",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "Much better, Darko, you're a good boy",
+  "lines": [
+   "Much better, Darko, you're a good boy"
+  ],
+  "vocab": [
+   "better",
+   "darko",
+   "re",
+   "boy"
+  ],
+  "cn": "好多了，Darko，你是好孩子",
+  "level": 1,
+  "video": "media/st/e4/s41.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e4-s42",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e4",
+  "unitTitle": "E4 简易英语电影:那是什么味道?",
+  "title": "and you smell good too",
+  "lines": [
+   "and you smell good too"
+  ],
+  "vocab": [
+   "smell"
+  ],
+  "cn": "而且你现在闻起来也很香",
+  "level": 1,
+  "video": "media/st/e4/s42.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s01",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "You want to learn some English, huh",
+  "lines": [
+   "You want to learn some English, huh"
+  ],
+  "vocab": [
+   "learn",
+   "english",
+   "huh"
+  ],
+  "cn": "你想学点英语，嗯",
+  "level": 1,
+  "video": "media/st/e7/s01.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s02",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "Okay, let me stretch and look adorable first",
+  "lines": [
+   "Okay, let me stretch and look adorable first"
+  ],
+  "vocab": [
+   "stretch",
+   "adorable",
+   "first"
+  ],
+  "cn": "好吧，让我先伸个懒腰，摆个可爱的姿势",
+  "level": 1,
+  "video": "media/st/e7/s02.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s03",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "That loud sound is the alarm",
+  "lines": [
+   "That loud sound is the alarm"
+  ],
+  "vocab": [
+   "loud",
+   "sound",
+   "alarm"
+  ],
+  "cn": "那个响亮的声音是闹钟",
+  "level": 1,
+  "video": "media/st/e7/s03.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s04",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "It means Mom has to get up",
+  "lines": [
+   "It means Mom has to get up"
+  ],
+  "vocab": [
+   "means",
+   "mom"
+  ],
+  "cn": "意味着妈妈必须起床了",
+  "level": 1,
+  "video": "media/st/e7/s04.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s05",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "and our day officially begins",
+  "lines": [
+   "and our day officially begins"
+  ],
+  "vocab": [
+   "officially",
+   "begins"
+  ],
+  "cn": "我们的一天正式开始",
+  "level": 1,
+  "video": "media/st/e7/s05.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s06",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "A yawn means she's tired",
+  "lines": [
+   "A yawn means she's tired"
+  ],
+  "vocab": [
+   "yawn",
+   "means",
+   "s",
+   "tired"
+  ],
+  "cn": "打哈欠说明她还很困",
+  "level": 1,
+  "video": "media/st/e7/s06.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s07",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "but don't worry, I keep us both on schedule",
+  "lines": [
+   "but don't worry, I keep us both on schedule"
+  ],
+  "vocab": [
+   "don",
+   "t",
+   "worry",
+   "both",
+   "schedule"
+  ],
+  "cn": "但别担心，我让我们俩都按时行动",
+  "level": 1,
+  "video": "media/st/e7/s07.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s08",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "This is brushing your teeth",
+  "lines": [
+   "This is brushing your teeth"
+  ],
+  "vocab": [
+   "brushing",
+   "teeth"
+  ],
+  "cn": "这是刷牙",
+  "level": 1,
+  "video": "media/st/e7/s08.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s09",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "Humans do it every morning. I watch",
+  "lines": [
+   "Humans do it every morning. I watch"
+  ],
+  "vocab": [
+   "humans",
+   "every",
+   "morning",
+   "watch"
+  ],
+  "cn": "人类每天早上都刷，我在旁边看着",
+  "level": 1,
+  "video": "media/st/e7/s09.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s10",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "This is the coffee machine",
+  "lines": [
+   "This is the coffee machine"
+  ],
+  "vocab": [
+   "coffee",
+   "machine"
+  ],
+  "cn": "这是咖啡机",
+  "level": 1,
+  "video": "media/st/e7/s10.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s11",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "It makes Mom's magic drink",
+  "lines": [
+   "It makes Mom's magic drink"
+  ],
+  "vocab": [
+   "makes",
+   "mom",
+   "s",
+   "magic",
+   "drink"
+  ],
+  "cn": "它能做出妈妈的魔法饮料",
+  "level": 1,
+  "video": "media/st/e7/s11.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s12",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "This sound means the day is really beginning",
+  "lines": [
+   "This sound means the day is really beginning"
+  ],
+  "vocab": [
+   "sound",
+   "means",
+   "beginning"
+  ],
+  "cn": "这个声音意味着新的一天真正开始了",
+  "level": 1,
+  "video": "media/st/e7/s12.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s13",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "This mug says cup of sunshine",
+  "lines": [
+   "This mug says cup of sunshine"
+  ],
+  "vocab": [
+   "mug",
+   "says",
+   "cup",
+   "sunshine"
+  ],
+  "cn": "这个杯子上写着\"一杯阳光\"",
+  "level": 1,
+  "video": "media/st/e7/s13.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s14",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "Coffee truly brings her sunshine",
+  "lines": [
+   "Coffee truly brings her sunshine"
+  ],
+  "vocab": [
+   "coffee",
+   "truly",
+   "brings",
+   "sunshine"
+  ],
+  "cn": "咖啡真的能给她带来阳光",
+  "level": 1,
+  "video": "media/st/e7/s14.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s15",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "We sit outside so she can sip her morning coffee",
+  "lines": [
+   "We sit outside so she can sip her morning coffee"
+  ],
+  "vocab": [
+   "sit",
+   "outside",
+   "sip",
+   "morning",
+   "coffee"
+  ],
+  "cn": "我们坐在外面，她可以喝早咖啡",
+  "level": 1,
+  "video": "media/st/e7/s15.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s16",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "and I can look cute in natural light",
+  "lines": [
+   "and I can look cute in natural light"
+  ],
+  "vocab": [
+   "cute",
+   "natural",
+   "light"
+  ],
+  "cn": "而我可以在自然光下卖萌",
+  "level": 1,
+  "video": "media/st/e7/s16.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s17",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "When she ties her shoe, it means one thing",
+  "lines": [
+   "When she ties her shoe, it means one thing"
+  ],
+  "vocab": [
+   "ties",
+   "shoe",
+   "means"
+  ],
+  "cn": "当她系鞋带时，只意味着一件事",
+  "level": 1,
+  "video": "media/st/e7/s17.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s18",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "A run",
+  "lines": [
+   "A run"
+  ],
+  "vocab": [
+   "run"
+  ],
+  "cn": "跑步",
+  "level": 1,
+  "video": "media/st/e7/s18.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s19",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "This is our morning run",
+  "lines": [
+   "This is our morning run"
+  ],
+  "vocab": [
+   "morning",
+   "run"
+  ],
+  "cn": "这是我们的晨跑",
+  "level": 1,
+  "video": "media/st/e7/s19.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s20",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "It's one of my favorite parts of the day",
+  "lines": [
+   "It's one of my favorite parts of the day"
+  ],
+  "vocab": [
+   "s",
+   "favorite",
+   "parts"
+  ],
+  "cn": "这是我一天中最喜欢的时光之一",
+  "level": 1,
+  "video": "media/st/e7/s20.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s21",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "And yes, I run like a supermodel. Thank you",
+  "lines": [
+   "And yes, I run like a supermodel. Thank you"
+  ],
+  "vocab": [
+   "run",
+   "supermodel"
+  ],
+  "cn": "没错，我跑起来像超模一样。谢谢夸奖",
+  "level": 1,
+  "video": "media/st/e7/s21.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s22",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "Mom even lets me run free by the lake",
+  "lines": [
+   "Mom even lets me run free by the lake"
+  ],
+  "vocab": [
+   "mom",
+   "even",
+   "lets",
+   "run",
+   "free",
+   "lake"
+  ],
+  "cn": "妈妈甚至让我在湖边自由奔跑",
+  "level": 1,
+  "video": "media/st/e7/s22.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s23",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "No leash, just pure happiness",
+  "lines": [
+   "No leash, just pure happiness"
+  ],
+  "vocab": [
+   "leash",
+   "pure",
+   "happiness"
+  ],
+  "cn": "没有牵绳，纯粹的快乐",
+  "level": 1,
+  "video": "media/st/e7/s23.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s24",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "And now she takes a cold shower",
+  "lines": [
+   "And now she takes a cold shower"
+  ],
+  "vocab": [
+   "takes",
+   "cold",
+   "shower"
+  ],
+  "cn": "现在她要冲个冷水澡",
+  "level": 1,
+  "video": "media/st/e7/s24.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s25",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "I don't understand it, but she loves it",
+  "lines": [
+   "I don't understand it, but she loves it"
+  ],
+  "vocab": [
+   "don",
+   "t",
+   "understand",
+   "loves"
+  ],
+  "cn": "我不理解，但她很喜欢",
+  "level": 1,
+  "video": "media/st/e7/s25.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s26",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "This is a smoothie",
+  "lines": [
+   "This is a smoothie"
+  ],
+  "vocab": [
+   "smoothie"
+  ],
+  "cn": "这是奶昔",
+  "level": 1,
+  "video": "media/st/e7/s26.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s27",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "a healthy drink that gives her energy",
+  "lines": [
+   "a healthy drink that gives her energy"
+  ],
+  "vocab": [
+   "healthy",
+   "drink",
+   "gives",
+   "energy"
+  ],
+  "cn": "一种给她补充能量的健康饮品",
+  "level": 1,
+  "video": "media/st/e7/s27.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s28",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "Now she checks her emails",
+  "lines": [
+   "Now she checks her emails"
+  ],
+  "vocab": [
+   "checks",
+   "emails"
+  ],
+  "cn": "现在她查看邮件",
+  "level": 1,
+  "video": "media/st/e7/s28.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s29",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "and sends a video to Sprout",
+  "lines": [
+   "and sends a video to Sprout"
+  ],
+  "vocab": [
+   "sends",
+   "video",
+   "sprout"
+  ],
+  "cn": "然后给 Sprout 发一条视频",
+  "level": 1,
+  "video": "media/st/e7/s29.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s30",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "She works hard on these",
+  "lines": [
+   "She works hard on these"
+  ],
+  "vocab": [
+   "works",
+   "hard"
+  ],
+  "cn": "她在这些事上很用心",
+  "level": 1,
+  "video": "media/st/e7/s30.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s31",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "Time to choose a thread color",
+  "lines": [
+   "Time to choose a thread color"
+  ],
+  "vocab": [
+   "time",
+   "choose",
+   "thread",
+   "color"
+  ],
+  "cn": "是时候选一种线的颜色了",
+  "level": 1,
+  "video": "media/st/e7/s31.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s32",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "because Mom is sewing her pants today",
+  "lines": [
+   "because Mom is sewing her pants today"
+  ],
+  "vocab": [
+   "because",
+   "mom",
+   "sewing",
+   "pants"
+  ],
+  "cn": "因为妈妈今天要缝裤子",
+  "level": 1,
+  "video": "media/st/e7/s32.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s33",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "This part is tricky, threading the needle",
+  "lines": [
+   "This part is tricky, threading the needle"
+  ],
+  "vocab": [
+   "part",
+   "tricky",
+   "threading",
+   "needle"
+  ],
+  "cn": "这部分很难——穿针引线",
+  "level": 1,
+  "video": "media/st/e7/s33.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s34",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "The machine does the work",
+  "lines": [
+   "The machine does the work"
+  ],
+  "vocab": [
+   "machine"
+  ],
+  "cn": "缝纫机完成工作",
+  "level": 1,
+  "video": "media/st/e7/s34.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s35",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "and just like that, pins out, pants fixed",
+  "lines": [
+   "and just like that, pins out, pants fixed"
+  ],
+  "vocab": [
+   "pins",
+   "pants",
+   "fixed"
+  ],
+  "cn": "就这样，取出别针，裤子修好了",
+  "level": 1,
+  "video": "media/st/e7/s35.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e7-s36",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e7",
+  "unitTitle": "E7 和狗狗一起学英语",
+  "title": "And now the gym",
+  "lines": [
+   "And now the gym"
+  ],
+  "vocab": [
+   "gym"
+  ],
+  "cn": "现在该去健身房了",
+  "level": 1,
+  "video": "media/st/e7/s36.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s01",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Happy birthday. Wait, wait, wait",
+  "lines": [
+   "Happy birthday. Wait, wait, wait"
+  ],
+  "vocab": [
+   "happy",
+   "birthday",
+   "wait",
+   "wait",
+   "wait"
+  ],
+  "cn": "生日快乐。等等，等等",
+  "level": 2,
+  "video": "media/st/e5/s01.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s02",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Hello, guys. Today is Chang's birthday",
+  "lines": [
+   "Hello, guys. Today is Chang's birthday"
+  ],
+  "vocab": [
+   "hello",
+   "guys",
+   "chang",
+   "s",
+   "birthday"
+  ],
+  "cn": "大家好。今天是Chang生日",
+  "level": 2,
+  "video": "media/st/e5/s02.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s03",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "We are going to do some fun stuff",
+  "lines": [
+   "We are going to do some fun stuff"
+  ],
+  "vocab": [
+   "going",
+   "fun",
+   "stuff"
+  ],
+  "cn": "我们要做些好玩的事",
+  "level": 2,
+  "video": "media/st/e5/s03.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s04",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "and learn lots of English. Back to you",
+  "lines": [
+   "and learn lots of English. Back to you"
+  ],
+  "vocab": [
+   "learn",
+   "lots",
+   "english",
+   "back"
+  ],
+  "cn": "学很多英语。交还给你",
+  "level": 2,
+  "video": "media/st/e5/s04.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s05",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Okay. Make a wish. Nope",
+  "lines": [
+   "Okay. Make a wish. Nope"
+  ],
+  "vocab": [
+   "wish",
+   "nope"
+  ],
+  "cn": "好。许个愿。不行",
+  "level": 2,
+  "video": "media/st/e5/s05.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s06",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Now we are going to learn some English",
+  "lines": [
+   "Now we are going to learn some English"
+  ],
+  "vocab": [
+   "going",
+   "learn",
+   "english"
+  ],
+  "cn": "现在我们要学点英语",
+  "level": 2,
+  "video": "media/st/e5/s06.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s07",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Okay. These are balloons. This is a gift bag",
+  "lines": [
+   "Okay. These are balloons. This is a gift bag"
+  ],
+  "vocab": [
+   "balloons",
+   "gift",
+   "bag"
+  ],
+  "cn": "好。这些是气球。这是礼品袋",
+  "level": 2,
+  "video": "media/st/e5/s07.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s08",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "A birthday card. Birthday card",
+  "lines": [
+   "A birthday card. Birthday card"
+  ],
+  "vocab": [
+   "birthday",
+   "card",
+   "birthday",
+   "card"
+  ],
+  "cn": "生日卡。生日卡",
+  "level": 2,
+  "video": "media/st/e5/s08.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s09",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Chang is opening her birthday card",
+  "lines": [
+   "Chang is opening her birthday card"
+  ],
+  "vocab": [
+   "chang",
+   "opening",
+   "birthday",
+   "card"
+  ],
+  "cn": "Chang在打开生日卡",
+  "level": 2,
+  "video": "media/st/e5/s09.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s10",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "This is an envelope",
+  "lines": [
+   "This is an envelope"
+  ],
+  "vocab": [
+   "envelope"
+  ],
+  "cn": "这是一个信封",
+  "level": 2,
+  "video": "media/st/e5/s10.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s11",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "The card is inside the envelope",
+  "lines": [
+   "The card is inside the envelope"
+  ],
+  "vocab": [
+   "card",
+   "inside",
+   "envelope"
+  ],
+  "cn": "卡片在信封里面",
+  "level": 2,
+  "video": "media/st/e5/s11.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s12",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "And I've written a birthday note",
+  "lines": [
+   "And I've written a birthday note"
+  ],
+  "vocab": [
+   "ve",
+   "written",
+   "birthday",
+   "note"
+  ],
+  "cn": "我还写了生日留言",
+  "level": 2,
+  "video": "media/st/e5/s12.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s13",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "So, we have put the candles in the watermelon",
+  "lines": [
+   "So, we have put the candles in the watermelon"
+  ],
+  "vocab": [
+   "candles",
+   "watermelon"
+  ],
+  "cn": "所以我们把蜡烛插进西瓜",
+  "level": 2,
+  "video": "media/st/e5/s13.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s14",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "You light candles with a lighter",
+  "lines": [
+   "You light candles with a lighter"
+  ],
+  "vocab": [
+   "light",
+   "candles",
+   "lighter"
+  ],
+  "cn": "你用打火机点蜡烛",
+  "level": 2,
+  "video": "media/st/e5/s14.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s15",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "So, this is a party hat",
+  "lines": [
+   "So, this is a party hat"
+  ],
+  "vocab": [
+   "party",
+   "hat"
+  ],
+  "cn": "所以，这是派对帽",
+  "level": 2,
+  "video": "media/st/e5/s15.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s16",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "And this is a party blower",
+  "lines": [
+   "And this is a party blower"
+  ],
+  "vocab": [
+   "party",
+   "blower"
+  ],
+  "cn": "这是派对吹龙",
+  "level": 2,
+  "video": "media/st/e5/s16.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s17",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "That's a good one. Your turn",
+  "lines": [
+   "That's a good one. Your turn"
+  ],
+  "vocab": [
+   "s"
+  ],
+  "cn": "这个不错。轮到你了",
+  "level": 2,
+  "video": "media/st/e5/s17.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s18",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Now, I've got a little game",
+  "lines": [
+   "Now, I've got a little game"
+  ],
+  "vocab": [
+   "ve",
+   "little",
+   "game"
+  ],
+  "cn": "现在，我有个小游戏",
+  "level": 2,
+  "video": "media/st/e5/s18.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s19",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Oh, a game. I love games. Can I play it",
+  "lines": [
+   "Oh, a game. I love games. Can I play it"
+  ],
+  "vocab": [
+   "game",
+   "games"
+  ],
+  "cn": "哦，游戏。我爱游戏。我能玩吗",
+  "level": 2,
+  "video": "media/st/e5/s19.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s20",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Sorry, boys. This one's for the birthday girl",
+  "lines": [
+   "Sorry, boys. This one's for the birthday girl"
+  ],
+  "vocab": [
+   "sorry",
+   "boys",
+   "s",
+   "birthday",
+   "girl"
+  ],
+  "cn": "抱歉，男孩们。这是给寿星的",
+  "level": 2,
+  "video": "media/st/e5/s20.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s21",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Oh, ohhhhh well, can you at least explain the game",
+  "lines": [
+   "Oh, ohhhhh well, can you at least explain the game"
+  ],
+  "vocab": [
+   "ohhhhh",
+   "least",
+   "explain",
+   "game"
+  ],
+  "cn": "哦，好吧，至少能讲讲规则吗",
+  "level": 2,
+  "video": "media/st/e5/s21.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s22",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Sure. I'm going to put these three notes in these three balloons",
+  "lines": [
+   "Sure. I'm going to put these three notes in these three balloons"
+  ],
+  "vocab": [
+   "m",
+   "going",
+   "notes",
+   "balloons"
+  ],
+  "cn": "当然。我要把三张纸条放进三个气球",
+  "level": 2,
+  "video": "media/st/e5/s22.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s23",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "and Chang has to pop the balloons",
+  "lines": [
+   "and Chang has to pop the balloons"
+  ],
+  "vocab": [
+   "chang",
+   "pop",
+   "balloons"
+  ],
+  "cn": "Chang得把气球弄爆",
+  "level": 2,
+  "video": "media/st/e5/s23.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s24",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "to find out what we're going to do today",
+  "lines": [
+   "to find out what we're going to do today"
+  ],
+  "vocab": [
+   "find",
+   "re",
+   "going"
+  ],
+  "cn": "看看今天要做什么",
+  "level": 2,
+  "video": "media/st/e5/s24.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s25",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Ooh, cheesecake. But we don't have anything. Hello",
+  "lines": [
+   "Ooh, cheesecake. But we don't have anything. Hello"
+  ],
+  "vocab": [
+   "ooh",
+   "cheesecake",
+   "don",
+   "t",
+   "anything",
+   "hello"
+  ],
+  "cn": "哦，芝士蛋糕。但我们什么都没有。哈喽",
+  "level": 2,
+  "video": "media/st/e5/s25.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s26",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "So, the first ingredients we need are the unsalted butter",
+  "lines": [
+   "So, the first ingredients we need are the unsalted butter"
+  ],
+  "vocab": [
+   "first",
+   "ingredients",
+   "unsalted",
+   "butter"
+  ],
+  "cn": "那么，首先需要无盐黄油",
+  "level": 2,
+  "video": "media/st/e5/s26.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s27",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "and the whipping cream",
+  "lines": [
+   "and the whipping cream"
+  ],
+  "vocab": [
+   "whipping",
+   "cream"
+  ],
+  "cn": "还有淡奶油",
+  "level": 2,
+  "video": "media/st/e5/s27.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s28",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "And I'm going to put these in my pan down trolley",
+  "lines": [
+   "And I'm going to put these in my pan down trolley"
+  ],
+  "vocab": [
+   "m",
+   "going",
+   "pan",
+   "trolley"
+  ],
+  "cn": "我要把这些放进推车里",
+  "level": 2,
+  "video": "media/st/e5/s28.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s29",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "This is a ouch trolley. Right",
+  "lines": [
+   "This is a ouch trolley. Right"
+  ],
+  "vocab": [
+   "ouch",
+   "trolley"
+  ],
+  "cn": "这是个哎哟推车，对",
+  "level": 2,
+  "video": "media/st/e5/s29.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s30",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "We need a whisk to whip you into shape in the trolley",
+  "lines": [
+   "We need a whisk to whip you into shape in the trolley"
+  ],
+  "vocab": [
+   "whisk",
+   "whip",
+   "into",
+   "shape",
+   "trolley"
+  ],
+  "cn": "需要打蛋器在车里打成型",
+  "level": 2,
+  "video": "media/st/e5/s30.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s31",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Should we get this passion fruit juice",
+  "lines": [
+   "Should we get this passion fruit juice"
+  ],
+  "vocab": [
+   "passion",
+   "fruit",
+   "juice"
+  ],
+  "cn": "要买这个百香果汁吗",
+  "level": 2,
+  "video": "media/st/e5/s31.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s32",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Yeah. Chang is walking down the aisle. Right",
+  "lines": [
+   "Yeah. Chang is walking down the aisle. Right"
+  ],
+  "vocab": [
+   "chang",
+   "walking",
+   "aisle"
+  ],
+  "cn": "是的。Chang走过过道，对",
+  "level": 2,
+  "video": "media/st/e5/s32.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s33",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Do you want to show the people what it is",
+  "lines": [
+   "Do you want to show the people what it is"
+  ],
+  "vocab": [
+   "people"
+  ],
+  "cn": "你想给大家看看是什么吗",
+  "level": 2,
+  "video": "media/st/e5/s33.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s34",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Biscuits. Biscuits. Nice. And Chang's putting the biscuits in the trolley",
+  "lines": [
+   "Biscuits. Biscuits. Nice. And Chang's putting the biscuits in the trolley"
+  ],
+  "vocab": [
+   "biscuits",
+   "biscuits",
+   "chang",
+   "s",
+   "putting",
+   "biscuits",
+   "trolley"
+  ],
+  "cn": "饼干。饼干。不错。Chang把饼干放进推车",
+  "level": 2,
+  "video": "media/st/e5/s34.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s35",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Hello. Next, we need for the topping",
+  "lines": [
+   "Hello. Next, we need for the topping"
+  ],
+  "vocab": [
+   "hello",
+   "next",
+   "topping"
+  ],
+  "cn": "你好。接着，顶料需要",
+  "level": 2,
+  "video": "media/st/e5/s35.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s36",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "of the cheesecake some passion fruits. Cool",
+  "lines": [
+   "of the cheesecake some passion fruits. Cool"
+  ],
+  "vocab": [
+   "cheesecake",
+   "passion",
+   "fruits",
+   "cool"
+  ],
+  "cn": "给芝士蛋糕用些百香果。好",
+  "level": 2,
+  "video": "media/st/e5/s36.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s37",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Let's get three of these",
+  "lines": [
+   "Let's get three of these"
+  ],
+  "vocab": [
+   "s"
+  ],
+  "cn": "拿三个吧",
+  "level": 2,
+  "video": "media/st/e5/s37.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s38",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Chang just got the passion fruits weighed over here",
+  "lines": [
+   "Chang just got the passion fruits weighed over here"
+  ],
+  "vocab": [
+   "chang",
+   "passion",
+   "fruits",
+   "weighed",
+   "over"
+  ],
+  "cn": "Chang刚把百香果拿去称重",
+  "level": 2,
+  "video": "media/st/e5/s38.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s39",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "where the ladies weigh the vegetables",
+  "lines": [
+   "where the ladies weigh the vegetables"
+  ],
+  "vocab": [
+   "ladies",
+   "weigh",
+   "vegetables"
+  ],
+  "cn": "在那边女士称蔬菜处",
+  "level": 2,
+  "video": "media/st/e5/s39.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s40",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "And here is the price tag on with the barcode",
+  "lines": [
+   "And here is the price tag on with the barcode"
+  ],
+  "vocab": [
+   "price",
+   "tag",
+   "barcode"
+  ],
+  "cn": "这是贴着条码的价格标签",
+  "level": 2,
+  "video": "media/st/e5/s40.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s41",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "These are the scales where they weigh the fruits and veggies",
+  "lines": [
+   "These are the scales where they weigh the fruits and veggies"
+  ],
+  "vocab": [
+   "scales",
+   "weigh",
+   "fruits",
+   "veggies"
+  ],
+  "cn": "这是她们称水果蔬菜的秤",
+  "level": 2,
+  "video": "media/st/e5/s41.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s42",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Speaking of fruits these are apples avocados and durian fruit",
+  "lines": [
+   "Speaking of fruits these are apples avocados and durian fruit"
+  ],
+  "vocab": [
+   "speaking",
+   "fruits",
+   "apples",
+   "avocados",
+   "durian",
+   "fruit"
+  ],
+  "cn": "说到水果，这是苹果、牛油果和榴莲",
+  "level": 2,
+  "video": "media/st/e5/s42.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s43",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Are we done yet? hmmm not yet",
+  "lines": [
+   "Are we done yet? hmmm not yet"
+  ],
+  "vocab": [
+   "done",
+   "yet",
+   "hmmm",
+   "yet"
+  ],
+  "cn": "我们买完了吗？嗯，还没",
+  "level": 2,
+  "video": "media/st/e5/s43.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s44",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Ooh, what's that? It's not related to baking",
+  "lines": [
+   "Ooh, what's that? It's not related to baking"
+  ],
+  "vocab": [
+   "ooh",
+   "s",
+   "s",
+   "related",
+   "baking"
+  ],
+  "cn": "哦，那是什么？和烘焙无关",
+  "level": 2,
+  "video": "media/st/e5/s44.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s45",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "but this is a fire extinguisher",
+  "lines": [
+   "but this is a fire extinguisher"
+  ],
+  "vocab": [
+   "fire",
+   "extinguisher"
+  ],
+  "cn": "但这是灭火器",
+  "level": 2,
+  "video": "media/st/e5/s45.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s46",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "If there's any fires they'd blow this",
+  "lines": [
+   "If there's any fires they'd blow this"
+  ],
+  "vocab": [
+   "if",
+   "s",
+   "fires",
+   "d",
+   "blow"
+  ],
+  "cn": "如果着火，就喷这个",
+  "level": 2,
+  "video": "media/st/e5/s46.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s47",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Ingredient to make cheesecake. A rice ball",
+  "lines": [
+   "Ingredient to make cheesecake. A rice ball"
+  ],
+  "vocab": [
+   "ingredient",
+   "cheesecake",
+   "rice",
+   "ball"
+  ],
+  "cn": "做芝士蛋糕的材料。饭团",
+  "level": 2,
+  "video": "media/st/e5/s47.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s48",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "This is a soft toy. Chang's hungry",
+  "lines": [
+   "This is a soft toy. Chang's hungry"
+  ],
+  "vocab": [
+   "soft",
+   "toy",
+   "chang",
+   "s",
+   "hungry"
+  ],
+  "cn": "这是毛绒玩具。Chang饿了",
+  "level": 2,
+  "video": "media/st/e5/s48.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s49",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "You gonna get some sushi? Tokbokki",
+  "lines": [
+   "You gonna get some sushi? Tokbokki"
+  ],
+  "vocab": [
+   "sushi",
+   "tokbokki"
+  ],
+  "cn": "你要买寿司吗？炒年糕",
+  "level": 2,
+  "video": "media/st/e5/s49.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s50",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Do you want your card? my money",
+  "lines": [
+   "Do you want your card? my money"
+  ],
+  "vocab": [
+   "card",
+   "money"
+  ],
+  "cn": "你要你的卡吗？我的钱",
+  "level": 2,
+  "video": "media/st/e5/s50.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s51",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "This is a receipt. We are in the food court",
+  "lines": [
+   "This is a receipt. We are in the food court"
+  ],
+  "vocab": [
+   "receipt",
+   "food",
+   "court"
+  ],
+  "cn": "这是收据。我们在美食广场",
+  "level": 2,
+  "video": "media/st/e5/s51.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s52",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "This is a food court in the supermarket",
+  "lines": [
+   "This is a food court in the supermarket"
+  ],
+  "vocab": [
+   "food",
+   "court",
+   "supermarket"
+  ],
+  "cn": "这是超市里的美食广场",
+  "level": 2,
+  "video": "media/st/e5/s52.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s53",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Sushi on a tray. You want some",
+  "lines": [
+   "Sushi on a tray. You want some"
+  ],
+  "vocab": [
+   "sushi",
+   "tray"
+  ],
+  "cn": "托盘上的寿司。你要吗",
+  "level": 2,
+  "video": "media/st/e5/s53.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s54",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Shall we go do some bowling? Yeah",
+  "lines": [
+   "Shall we go do some bowling? Yeah"
+  ],
+  "vocab": [
+   "bowling"
+  ],
+  "cn": "我们去打保龄球好吗？好",
+  "level": 2,
+  "video": "media/st/e5/s54.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s55",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "We're going to check out buy our things",
+  "lines": [
+   "We're going to check out buy our things"
+  ],
+  "vocab": [
+   "re",
+   "going",
+   "check",
+   "buy"
+  ],
+  "cn": "我们要去结账买东西",
+  "level": 2,
+  "video": "media/st/e5/s55.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s56",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "and go have some fun. This is a basket",
+  "lines": [
+   "and go have some fun. This is a basket"
+  ],
+  "vocab": [
+   "fun",
+   "basket"
+  ],
+  "cn": "再去玩。这是篮子",
+  "level": 2,
+  "video": "media/st/e5/s56.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s57",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Inside we have the bowling shoes and this is Velcro",
+  "lines": [
+   "Inside we have the bowling shoes and this is Velcro"
+  ],
+  "vocab": [
+   "inside",
+   "bowling",
+   "shoes",
+   "velcro"
+  ],
+  "cn": "里面有保龄球鞋，这是魔术贴",
+  "level": 2,
+  "video": "media/st/e5/s57.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s58",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "You fasten the Velcro. These are laces",
+  "lines": [
+   "You fasten the Velcro. These are laces"
+  ],
+  "vocab": [
+   "fasten",
+   "velcro",
+   "laces"
+  ],
+  "cn": "你扣好魔术贴。这是鞋带",
+  "level": 2,
+  "video": "media/st/e5/s58.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s59",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "I am tying the laces",
+  "lines": [
+   "I am tying the laces"
+  ],
+  "vocab": [
+   "tying",
+   "laces"
+  ],
+  "cn": "我在系鞋带",
+  "level": 2,
+  "video": "media/st/e5/s59.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s60",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "In the UK to 'do up' your laces",
+  "lines": [
+   "In the UK to 'do up' your laces"
+  ],
+  "vocab": [
+   "uk",
+   "laces"
+  ],
+  "cn": "在英国说系好鞋带",
+  "level": 2,
+  "video": "media/st/e5/s60.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s61",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "So Chang is picking up the bowling ball",
+  "lines": [
+   "So Chang is picking up the bowling ball"
+  ],
+  "vocab": [
+   "chang",
+   "picking",
+   "bowling",
+   "ball"
+  ],
+  "cn": "所以Chang拿起保龄球",
+  "level": 2,
+  "video": "media/st/e5/s61.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s62",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "and she's walking towards the bowling lane",
+  "lines": [
+   "and she's walking towards the bowling lane"
+  ],
+  "vocab": [
+   "s",
+   "walking",
+   "towards",
+   "bowling",
+   "lane"
+  ],
+  "cn": "她走向保龄球道",
+  "level": 2,
+  "video": "media/st/e5/s62.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s63",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "or the bowling alley. She's got the ready position",
+  "lines": [
+   "or the bowling alley. She's got the ready position"
+  ],
+  "vocab": [
+   "bowling",
+   "alley",
+   "s",
+   "ready",
+   "position"
+  ],
+  "cn": "也就是球馆。她准备好了",
+  "level": 2,
+  "video": "media/st/e5/s63.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s64",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Ooh, it's good. Nice. Now it's my turn",
+  "lines": [
+   "Ooh, it's good. Nice. Now it's my turn"
+  ],
+  "vocab": [
+   "ooh",
+   "s",
+   "s"
+  ],
+  "cn": "哦，很好。不错。轮到我了",
+  "level": 2,
+  "video": "media/st/e5/s64.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s65",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "I'm picking up the bowling ball",
+  "lines": [
+   "I'm picking up the bowling ball"
+  ],
+  "vocab": [
+   "m",
+   "picking",
+   "bowling",
+   "ball"
+  ],
+  "cn": "我拿起保龄球",
+  "level": 2,
+  "video": "media/st/e5/s65.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s66",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "I'm walking towards the bowling lane. Deep breath",
+  "lines": [
+   "I'm walking towards the bowling lane. Deep breath"
+  ],
+  "vocab": [
+   "m",
+   "walking",
+   "towards",
+   "bowling",
+   "lane",
+   "deep",
+   "breath"
+  ],
+  "cn": "我走向球道。深呼吸",
+  "level": 2,
+  "video": "media/st/e5/s66.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s67",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Let's go. Ahhhh sugar",
+  "lines": [
+   "Let's go. Ahhhh sugar"
+  ],
+  "vocab": [
+   "s",
+   "ahhhh",
+   "sugar"
+  ],
+  "cn": "来吧。啊，糟了",
+  "level": 2,
+  "video": "media/st/e5/s67.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s68",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "That ball just went in the gutter",
+  "lines": [
+   "That ball just went in the gutter"
+  ],
+  "vocab": [
+   "ball",
+   "went",
+   "gutter"
+  ],
+  "cn": "那球刚进了边沟",
+  "level": 2,
+  "video": "media/st/e5/s68.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s69",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "This is the gutter. Jay, zero",
+  "lines": [
+   "This is the gutter. Jay, zero"
+  ],
+  "vocab": [
+   "gutter",
+   "jay",
+   "zero"
+  ],
+  "cn": "这是边沟。Jay，零分",
+  "level": 2,
+  "video": "media/st/e5/s69.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s70",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Try again. It's better",
+  "lines": [
+   "Try again. It's better"
+  ],
+  "vocab": [
+   "s",
+   "better"
+  ],
+  "cn": "再试一次。好多了",
+  "level": 2,
+  "video": "media/st/e5/s70.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s71",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "We've gone from zero to Strike",
+  "lines": [
+   "We've gone from zero to Strike"
+  ],
+  "vocab": [
+   "ve",
+   "gone",
+   "zero",
+   "strike"
+  ],
+  "cn": "我们从零到全中",
+  "level": 2,
+  "video": "media/st/e5/s71.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s72",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "When you knock down all of the pins",
+  "lines": [
+   "When you knock down all of the pins"
+  ],
+  "vocab": [
+   "knock",
+   "pins"
+  ],
+  "cn": "当你击倒所有球瓶",
+  "level": 2,
+  "video": "media/st/e5/s72.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s73",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "it's called a strike",
+  "lines": [
+   "it's called a strike"
+  ],
+  "vocab": [
+   "s",
+   "called",
+   "strike"
+  ],
+  "cn": "这叫全中",
+  "level": 2,
+  "video": "media/st/e5/s73.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s74",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "When you knock down all the pins in two",
+  "lines": [
+   "When you knock down all the pins in two"
+  ],
+  "vocab": [
+   "knock",
+   "pins"
+  ],
+  "cn": "当你两次击倒所有球瓶",
+  "level": 2,
+  "video": "media/st/e5/s74.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s75",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "it's called a spare",
+  "lines": [
+   "it's called a spare"
+  ],
+  "vocab": [
+   "s",
+   "called",
+   "spare"
+  ],
+  "cn": "这叫补中",
+  "level": 2,
+  "video": "media/st/e5/s75.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s76",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Last bowl. High five",
+  "lines": [
+   "Last bowl. High five"
+  ],
+  "vocab": [
+   "last",
+   "bowl",
+   "high",
+   "five"
+  ],
+  "cn": "最后一球。击掌",
+  "level": 2,
+  "video": "media/st/e5/s76.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s77",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "We have got our ingredients",
+  "lines": [
+   "We have got our ingredients"
+  ],
+  "vocab": [
+   "ingredients"
+  ],
+  "cn": "我们拿到食材了",
+  "level": 2,
+  "video": "media/st/e5/s77.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s78",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "had a game of bowling",
+  "lines": [
+   "had a game of bowling"
+  ],
+  "vocab": [
+   "game",
+   "bowling"
+  ],
+  "cn": "也打了一场保龄球",
+  "level": 2,
+  "video": "media/st/e5/s78.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s79",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "and now we're going to head home to b-b-bake",
+  "lines": [
+   "and now we're going to head home to b-b-bake"
+  ],
+  "vocab": [
+   "re",
+   "going",
+   "head",
+   "home",
+   "b",
+   "b",
+   "bake"
+  ],
+  "cn": "现在要回家烘烘烘焙",
+  "level": 2,
+  "video": "media/st/e5/s79.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s80",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Well, that was a piece of cake",
+  "lines": [
+   "Well, that was a piece of cake"
+  ],
+  "vocab": [
+   "piece",
+   "cake"
+  ],
+  "cn": "好吧，那太简单了",
+  "level": 2,
+  "video": "media/st/e5/s80.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s81",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Speaking of cake, this cheesecake is made of layers",
+  "lines": [
+   "Speaking of cake, this cheesecake is made of layers"
+  ],
+  "vocab": [
+   "speaking",
+   "cake",
+   "cheesecake",
+   "made",
+   "layers"
+  ],
+  "cn": "说到蛋糕，这芝士蛋糕有分层",
+  "level": 2,
+  "video": "media/st/e5/s81.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s82",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Top layer passion fruit jelly",
+  "lines": [
+   "Top layer passion fruit jelly"
+  ],
+  "vocab": [
+   "top",
+   "layer",
+   "passion",
+   "fruit",
+   "jelly"
+  ],
+  "cn": "上层是百香果果冻",
+  "level": 2,
+  "video": "media/st/e5/s82.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s83",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Middle layer cream cheese filling",
+  "lines": [
+   "Middle layer cream cheese filling"
+  ],
+  "vocab": [
+   "middle",
+   "layer",
+   "cream",
+   "cheese",
+   "filling"
+  ],
+  "cn": "中层是奶油芝士馅",
+  "level": 2,
+  "video": "media/st/e5/s83.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s84",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Bottom layer buttery biscuit base",
+  "lines": [
+   "Bottom layer buttery biscuit base"
+  ],
+  "vocab": [
+   "bottom",
+   "layer",
+   "buttery",
+   "biscuit",
+   "base"
+  ],
+  "cn": "底层是黄油饼干底",
+  "level": 2,
+  "video": "media/st/e5/s84.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s85",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Now time is running out So Chang",
+  "lines": [
+   "Now time is running out So Chang"
+  ],
+  "vocab": [
+   "time",
+   "running",
+   "chang"
+  ],
+  "cn": "现在时间不多了，所以Chang",
+  "level": 2,
+  "video": "media/st/e5/s85.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s86",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "So guys, we are going to do something creative",
+  "lines": [
+   "So guys, we are going to do something creative"
+  ],
+  "vocab": [
+   "guys",
+   "going",
+   "something",
+   "creative"
+  ],
+  "cn": "朋友们，我们要做点创意的事",
+  "level": 2,
+  "video": "media/st/e5/s86.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s87",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "for Chang's birthday We're going to paint some cards",
+  "lines": [
+   "for Chang's birthday We're going to paint some cards"
+  ],
+  "vocab": [
+   "chang",
+   "s",
+   "birthday",
+   "re",
+   "going",
+   "paint",
+   "cards"
+  ],
+  "cn": "为Chang生日画些卡片",
+  "level": 2,
+  "video": "media/st/e5/s87.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s88",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "We're going to make these look very pretty",
+  "lines": [
+   "We're going to make these look very pretty"
+  ],
+  "vocab": [
+   "re",
+   "going",
+   "pretty"
+  ],
+  "cn": "我们要把这些做得很漂亮",
+  "level": 2,
+  "video": "media/st/e5/s88.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s89",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "And hopefully by the end of this",
+  "lines": [
+   "And hopefully by the end of this"
+  ],
+  "vocab": [
+   "hopefully",
+   "end"
+  ],
+  "cn": "希望到最后",
+  "level": 2,
+  "video": "media/st/e5/s89.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s90",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "we've got something to show you",
+  "lines": [
+   "we've got something to show you"
+  ],
+  "vocab": [
+   "ve",
+   "something"
+  ],
+  "cn": "我们能有东西展示给你们",
+  "level": 2,
+  "video": "media/st/e5/s90.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s91",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "So guys, this is a playing card",
+  "lines": [
+   "So guys, this is a playing card"
+  ],
+  "vocab": [
+   "guys",
+   "playing",
+   "card"
+  ],
+  "cn": "朋友们，这是一张扑克牌",
+  "level": 2,
+  "video": "media/st/e5/s91.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s92",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "And this is a deck of cards",
+  "lines": [
+   "And this is a deck of cards"
+  ],
+  "vocab": [
+   "deck",
+   "cards"
+  ],
+  "cn": "这是一副牌",
+  "level": 2,
+  "video": "media/st/e5/s92.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s93",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "This is a tube of paint",
+  "lines": [
+   "This is a tube of paint"
+  ],
+  "vocab": [
+   "tube",
+   "paint"
+  ],
+  "cn": "这是一管颜料",
+  "level": 2,
+  "video": "media/st/e5/s93.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s94",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "These are tubes of paint",
+  "lines": [
+   "These are tubes of paint"
+  ],
+  "vocab": [
+   "tubes",
+   "paint"
+  ],
+  "cn": "这些是几管颜料",
+  "level": 2,
+  "video": "media/st/e5/s94.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s95",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "This is the paint brush",
+  "lines": [
+   "This is the paint brush"
+  ],
+  "vocab": [
+   "paint",
+   "brush"
+  ],
+  "cn": "这是画笔",
+  "level": 2,
+  "video": "media/st/e5/s95.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s96",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "This is a palette knife",
+  "lines": [
+   "This is a palette knife"
+  ],
+  "vocab": [
+   "palette",
+   "knife"
+  ],
+  "cn": "这是调色刀",
+  "level": 2,
+  "video": "media/st/e5/s96.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s97",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Here, this is a palette where you mix your paints",
+  "lines": [
+   "Here, this is a palette where you mix your paints"
+  ],
+  "vocab": [
+   "palette",
+   "mix",
+   "paints"
+  ],
+  "cn": "这里，这是调色盘",
+  "level": 2,
+  "video": "media/st/e5/s97.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s98",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Where we are painting this is a table",
+  "lines": [
+   "Where we are painting this is a table"
+  ],
+  "vocab": [
+   "painting",
+   "table"
+  ],
+  "cn": "我们画画的地方是一张桌子",
+  "level": 2,
+  "video": "media/st/e5/s98.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s99",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Chang is painting at the table",
+  "lines": [
+   "Chang is painting at the table"
+  ],
+  "vocab": [
+   "chang",
+   "painting",
+   "table"
+  ],
+  "cn": "Chang正在桌边画画",
+  "level": 2,
+  "video": "media/st/e5/s99.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s100",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Tablecloth This is the tablecloth",
+  "lines": [
+   "Tablecloth This is the tablecloth"
+  ],
+  "vocab": [
+   "tablecloth",
+   "tablecloth"
+  ],
+  "cn": "桌布。这就是桌布",
+  "level": 2,
+  "video": "media/st/e5/s100.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s101",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Chang is still painting her cards",
+  "lines": [
+   "Chang is still painting her cards"
+  ],
+  "vocab": [
+   "chang",
+   "still",
+   "painting",
+   "cards"
+  ],
+  "cn": "Chang还在画她的卡片",
+  "level": 2,
+  "video": "media/st/e5/s101.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s102",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "This yellow flower has five petals",
+  "lines": [
+   "This yellow flower has five petals"
+  ],
+  "vocab": [
+   "yellow",
+   "flower",
+   "five",
+   "petals"
+  ],
+  "cn": "这朵黄花有五片花瓣",
+  "level": 2,
+  "video": "media/st/e5/s102.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s103",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "These delicate things are called petals",
+  "lines": [
+   "These delicate things are called petals"
+  ],
+  "vocab": [
+   "delicate",
+   "called",
+   "petals"
+  ],
+  "cn": "这些精致的部分叫花瓣",
+  "level": 2,
+  "video": "media/st/e5/s103.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s104",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "And this structure is called a trellis",
+  "lines": [
+   "And this structure is called a trellis"
+  ],
+  "vocab": [
+   "structure",
+   "called",
+   "trellis"
+  ],
+  "cn": "这个结构叫棚架",
+  "level": 2,
+  "video": "media/st/e5/s104.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s105",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "It helps the plant grow upwards",
+  "lines": [
+   "It helps the plant grow upwards"
+  ],
+  "vocab": [
+   "helps",
+   "plant",
+   "grow",
+   "upwards"
+  ],
+  "cn": "它帮助植物向上生长",
+  "level": 2,
+  "video": "media/st/e5/s105.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s106",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "This is a lamp or a lamp shade",
+  "lines": [
+   "This is a lamp or a lamp shade"
+  ],
+  "vocab": [
+   "lamp",
+   "lamp",
+   "shade"
+  ],
+  "cn": "这是灯，或者说灯罩",
+  "level": 2,
+  "video": "media/st/e5/s106.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s107",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "with a bulb inside",
+  "lines": [
+   "with a bulb inside"
+  ],
+  "vocab": [
+   "bulb",
+   "inside"
+  ],
+  "cn": "里面有一个灯泡",
+  "level": 2,
+  "video": "media/st/e5/s107.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s108",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "This is a skyscraper and we are standing",
+  "lines": [
+   "This is a skyscraper and we are standing"
+  ],
+  "vocab": [
+   "skyscraper",
+   "standing"
+  ],
+  "cn": "这是一座摩天大楼",
+  "level": 2,
+  "video": "media/st/e5/s108.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s109",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "on a rooftop and we're going to look",
+  "lines": [
+   "on a rooftop and we're going to look"
+  ],
+  "vocab": [
+   "rooftop",
+   "re",
+   "going"
+  ],
+  "cn": "我们正站在屋顶上",
+  "level": 2,
+  "video": "media/st/e5/s109.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s110",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "at something very scary now Very carefully",
+  "lines": [
+   "at something very scary now Very carefully"
+  ],
+  "vocab": [
+   "something",
+   "scary",
+   "carefully"
+  ],
+  "cn": "现在小心看个可怕的东西",
+  "level": 2,
+  "video": "media/st/e5/s110.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s111",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "That is a big drop",
+  "lines": [
+   "That is a big drop"
+  ],
+  "vocab": [
+   "drop"
+  ],
+  "cn": "那是很大的落差",
+  "level": 2,
+  "video": "media/st/e5/s111.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s112",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "A sheer drop Don't want to fall down there",
+  "lines": [
+   "A sheer drop Don't want to fall down there"
+  ],
+  "vocab": [
+   "sheer",
+   "drop",
+   "don",
+   "t",
+   "fall"
+  ],
+  "cn": "垂直落差，可不想掉下去",
+  "level": 2,
+  "video": "media/st/e5/s112.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s113",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "All right Taking a sip of my salted coffee",
+  "lines": [
+   "All right Taking a sip of my salted coffee"
+  ],
+  "vocab": [
+   "taking",
+   "sip",
+   "salted",
+   "coffee"
+  ],
+  "cn": "好了，喝一口咸咖啡",
+  "level": 2,
+  "video": "media/st/e5/s113.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s114",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "If you haven't tried salted coffee",
+  "lines": [
+   "If you haven't tried salted coffee"
+  ],
+  "vocab": [
+   "if",
+   "haven",
+   "t",
+   "tried",
+   "salted",
+   "coffee"
+  ],
+  "cn": "如果你没试过咸咖啡",
+  "level": 2,
+  "video": "media/st/e5/s114.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s115",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "it's just about the best drink on planet Earth",
+  "lines": [
+   "it's just about the best drink on planet Earth"
+  ],
+  "vocab": [
+   "s",
+   "about",
+   "best",
+   "drink",
+   "planet",
+   "earth"
+  ],
+  "cn": "它简直是地球上最好喝的",
+  "level": 2,
+  "video": "media/st/e5/s115.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s116",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Okay, we've been painting for a good hour now",
+  "lines": [
+   "Okay, we've been painting for a good hour now"
+  ],
+  "vocab": [
+   "ve",
+   "painting",
+   "hour"
+  ],
+  "cn": "好，我们已经画了整整一小时",
+  "level": 2,
+  "video": "media/st/e5/s116.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s117",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "We thought we'd show you guys what we have so far",
+  "lines": [
+   "We thought we'd show you guys what we have so far"
+  ],
+  "vocab": [
+   "thought",
+   "d",
+   "guys",
+   "far"
+  ],
+  "cn": "我们想给大家看看目前成果",
+  "level": 2,
+  "video": "media/st/e5/s117.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s118",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Chang has painted some cards",
+  "lines": [
+   "Chang has painted some cards"
+  ],
+  "vocab": [
+   "chang",
+   "painted",
+   "cards"
+  ],
+  "cn": "Chang画了一些卡片",
+  "level": 2,
+  "video": "media/st/e5/s118.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s119",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "This one is has a pink background",
+  "lines": [
+   "This one is has a pink background"
+  ],
+  "vocab": [
+   "pink",
+   "background"
+  ],
+  "cn": "这张是有粉色背景",
+  "level": 2,
+  "video": "media/st/e5/s119.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s120",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "and some lemons on",
+  "lines": [
+   "and some lemons on"
+  ],
+  "vocab": [
+   "lemons"
+  ],
+  "cn": "上面还有一些柠檬",
+  "level": 2,
+  "video": "media/st/e5/s120.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s121",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "And this one has a blue background with some oranges",
+  "lines": [
+   "And this one has a blue background with some oranges"
+  ],
+  "vocab": [
+   "blue",
+   "background",
+   "oranges"
+  ],
+  "cn": "这张蓝色背景配橙子",
+  "level": 2,
+  "video": "media/st/e5/s121.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s122",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Are they oranges Very pretty",
+  "lines": [
+   "Are they oranges Very pretty"
+  ],
+  "vocab": [
+   "oranges",
+   "pretty"
+  ],
+  "cn": "它们是橙子吗？很漂亮",
+  "level": 2,
+  "video": "media/st/e5/s122.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s123",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Yeah And this thing around here at the edge",
+  "lines": [
+   "Yeah And this thing around here at the edge"
+  ],
+  "vocab": [
+   "around",
+   "edge"
+  ],
+  "cn": "是的，边缘这一圈东西",
+  "level": 2,
+  "video": "media/st/e5/s123.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s124",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "is called a border",
+  "lines": [
+   "is called a border"
+  ],
+  "vocab": [
+   "called",
+   "border"
+  ],
+  "cn": "叫作边框",
+  "level": 2,
+  "video": "media/st/e5/s124.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s125",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "A very pretty border with love hearts and flowers",
+  "lines": [
+   "A very pretty border with love hearts and flowers"
+  ],
+  "vocab": [
+   "pretty",
+   "border",
+   "hearts",
+   "flowers"
+  ],
+  "cn": "有爱心和花的漂亮边框",
+  "level": 2,
+  "video": "media/st/e5/s125.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s126",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "So give yourself a clap Very good",
+  "lines": [
+   "So give yourself a clap Very good"
+  ],
+  "vocab": [
+   "yourself",
+   "clap"
+  ],
+  "cn": "给自己鼓掌。很好",
+  "level": 2,
+  "video": "media/st/e5/s126.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s127",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "And I have painted a candle on the ace of hearts",
+  "lines": [
+   "And I have painted a candle on the ace of hearts"
+  ],
+  "vocab": [
+   "painted",
+   "candle",
+   "ace",
+   "hearts"
+  ],
+  "cn": "我在红桃A上画了蜡烛",
+  "level": 2,
+  "video": "media/st/e5/s127.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s128",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Smiley faces on the two of spades",
+  "lines": [
+   "Smiley faces on the two of spades"
+  ],
+  "vocab": [
+   "smiley",
+   "faces",
+   "spades"
+  ],
+  "cn": "在黑桃二上画了笑脸",
+  "level": 2,
+  "video": "media/st/e5/s128.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s129",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "an abstract face on the two of diamonds",
+  "lines": [
+   "an abstract face on the two of diamonds"
+  ],
+  "vocab": [
+   "abstract",
+   "face",
+   "diamonds"
+  ],
+  "cn": "在方块二上画了抽象脸",
+  "level": 2,
+  "video": "media/st/e5/s129.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s130",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "We have finished painting",
+  "lines": [
+   "We have finished painting"
+  ],
+  "vocab": [
+   "finished",
+   "painting"
+  ],
+  "cn": "我们已经画完了",
+  "level": 2,
+  "video": "media/st/e5/s130.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s131",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Now we're going to go inside",
+  "lines": [
+   "Now we're going to go inside"
+  ],
+  "vocab": [
+   "re",
+   "going",
+   "inside"
+  ],
+  "cn": "现在我们要进去",
+  "level": 2,
+  "video": "media/st/e5/s131.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s132",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "and pop the final balloon",
+  "lines": [
+   "and pop the final balloon"
+  ],
+  "vocab": [
+   "pop",
+   "final",
+   "balloon"
+  ],
+  "cn": "戳破最后一个气球",
+  "level": 2,
+  "video": "media/st/e5/s132.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s133",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "we are about to do something",
+  "lines": [
+   "we are about to do something"
+  ],
+  "vocab": [
+   "about",
+   "something"
+  ],
+  "cn": "我们马上要做件事",
+  "level": 2,
+  "video": "media/st/e5/s133.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s134",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "we have never done before",
+  "lines": [
+   "we have never done before"
+  ],
+  "vocab": [
+   "never",
+   "done",
+   "before"
+  ],
+  "cn": "这是以前从没做过的",
+  "level": 2,
+  "video": "media/st/e5/s134.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s135",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Before we do what the heck am I wearing",
+  "lines": [
+   "Before we do what the heck am I wearing"
+  ],
+  "vocab": [
+   "before",
+   "heck",
+   "wearing"
+  ],
+  "cn": "开始前，我穿的啥呀",
+  "level": 2,
+  "video": "media/st/e5/s135.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s136",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Well, this is a life jacket",
+  "lines": [
+   "Well, this is a life jacket"
+  ],
+  "vocab": [
+   "life",
+   "jacket"
+  ],
+  "cn": "嗯，这是救生衣",
+  "level": 2,
+  "video": "media/st/e5/s136.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s137",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "We are wearing life jackets",
+  "lines": [
+   "We are wearing life jackets"
+  ],
+  "vocab": [
+   "wearing",
+   "life",
+   "jackets"
+  ],
+  "cn": "我们穿着救生衣",
+  "level": 2,
+  "video": "media/st/e5/s137.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s138",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "These are buckles and I'm clipping the buckle",
+  "lines": [
+   "These are buckles and I'm clipping the buckle"
+  ],
+  "vocab": [
+   "buckles",
+   "m",
+   "clipping",
+   "buckle"
+  ],
+  "cn": "这些是扣子，我在扣上",
+  "level": 2,
+  "video": "media/st/e5/s138.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s139",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "So, this thing behind me",
+  "lines": [
+   "So, this thing behind me"
+  ],
+  "vocab": [
+   "behind"
+  ],
+  "cn": "所以，我身后这个东西",
+  "level": 2,
+  "video": "media/st/e5/s139.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s140",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "this is called a banana boat",
+  "lines": [
+   "this is called a banana boat"
+  ],
+  "vocab": [
+   "called",
+   "banana",
+   "boat"
+  ],
+  "cn": "叫香蕉船",
+  "level": 2,
+  "video": "media/st/e5/s140.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s141",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "People sit on it",
+  "lines": [
+   "People sit on it"
+  ],
+  "vocab": [
+   "people",
+   "sit"
+  ],
+  "cn": "人们坐在上面",
+  "level": 2,
+  "video": "media/st/e5/s141.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s142",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "is attached with a rope to another boat",
+  "lines": [
+   "is attached with a rope to another boat"
+  ],
+  "vocab": [
+   "attached",
+   "rope",
+   "another",
+   "boat"
+  ],
+  "cn": "用绳子连到另一艘船",
+  "level": 2,
+  "video": "media/st/e5/s142.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s143",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "and they try tip you off",
+  "lines": [
+   "and they try tip you off"
+  ],
+  "vocab": [
+   "tip",
+   "off"
+  ],
+  "cn": "他们试着把你甩下去",
+  "level": 2,
+  "video": "media/st/e5/s143.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s144",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "All right now I think it's time",
+  "lines": [
+   "All right now I think it's time"
+  ],
+  "vocab": [
+   "s",
+   "time"
+  ],
+  "cn": "好了，我觉得现在该",
+  "level": 2,
+  "video": "media/st/e5/s144.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s145",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "for us to go do some parasailing",
+  "lines": [
+   "for us to go do some parasailing"
+  ],
+  "vocab": [
+   "parasailing"
+  ],
+  "cn": "去玩拖曳伞了",
+  "level": 2,
+  "video": "media/st/e5/s145.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s146",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Teach some English All right",
+  "lines": [
+   "Teach some English All right"
+  ],
+  "vocab": [
+   "teach",
+   "english"
+  ],
+  "cn": "教点英语，好吧",
+  "level": 2,
+  "video": "media/st/e5/s146.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s147",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Well, we are strapped to the harness",
+  "lines": [
+   "Well, we are strapped to the harness"
+  ],
+  "vocab": [
+   "strapped",
+   "harness"
+  ],
+  "cn": "嗯，我们绑在安全带上",
+  "level": 2,
+  "video": "media/st/e5/s147.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s148",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "That down there is the boat",
+  "lines": [
+   "That down there is the boat"
+  ],
+  "vocab": [
+   "boat"
+  ],
+  "cn": "下面那个是船",
+  "level": 2,
+  "video": "media/st/e5/s148.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s149",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "We are connected via this rope",
+  "lines": [
+   "We are connected via this rope"
+  ],
+  "vocab": [
+   "connected",
+   "via",
+   "rope"
+  ],
+  "cn": "我们通过这根绳子连着",
+  "level": 2,
+  "video": "media/st/e5/s149.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s150",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "If that comes undone we are dead",
+  "lines": [
+   "If that comes undone we are dead"
+  ],
+  "vocab": [
+   "if",
+   "comes",
+   "undone",
+   "dead"
+  ],
+  "cn": "要是松了，我们就完了",
+  "level": 2,
+  "video": "media/st/e5/s150.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s151",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Chang's holding on for dear life",
+  "lines": [
+   "Chang's holding on for dear life"
+  ],
+  "vocab": [
+   "chang",
+   "s",
+   "holding",
+   "dear",
+   "life"
+  ],
+  "cn": "Chang正在拼命抓紧",
+  "level": 2,
+  "video": "media/st/e5/s151.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s152",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Holding on for dear life means",
+  "lines": [
+   "Holding on for dear life means"
+  ],
+  "vocab": [
+   "holding",
+   "dear",
+   "life",
+   "means"
+  ],
+  "cn": "Holding on for dear life意思是",
+  "level": 2,
+  "video": "media/st/e5/s152.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s153",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "she's holding on to save her own life",
+  "lines": [
+   "she's holding on to save her own life"
+  ],
+  "vocab": [
+   "s",
+   "holding",
+   "save",
+   "own",
+   "life"
+  ],
+  "cn": "她抓紧是在保命",
+  "level": 2,
+  "video": "media/st/e5/s153.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s154",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "There's a drone filming us",
+  "lines": [
+   "There's a drone filming us"
+  ],
+  "vocab": [
+   "s",
+   "drone",
+   "filming"
+  ],
+  "cn": "有架无人机在拍我们",
+  "level": 2,
+  "video": "media/st/e5/s154.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s155",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Wave at the drone",
+  "lines": [
+   "Wave at the drone"
+  ],
+  "vocab": [
+   "wave",
+   "drone"
+  ],
+  "cn": "向无人机挥手",
+  "level": 2,
+  "video": "media/st/e5/s155.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s156",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "There is a boat down there",
+  "lines": [
+   "There is a boat down there"
+  ],
+  "vocab": [
+   "boat"
+  ],
+  "cn": "下面有一艘船",
+  "level": 2,
+  "video": "media/st/e5/s156.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s157",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "That is a speed boat",
+  "lines": [
+   "That is a speed boat"
+  ],
+  "vocab": [
+   "speed",
+   "boat"
+  ],
+  "cn": "那是一艘快艇",
+  "level": 2,
+  "video": "media/st/e5/s157.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s158",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "We probably... (blaaargh) see ya See ya Okay",
+  "lines": [
+   "We probably... (blaaargh) see ya See ya Okay"
+  ],
+  "vocab": [
+   "probably",
+   "blaaargh",
+   "ya",
+   "ya"
+  ],
+  "cn": "我们可能……回见，好的",
+  "level": 2,
+  "video": "media/st/e5/s158.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s159",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "And the final word of the day is jet ski",
+  "lines": [
+   "And the final word of the day is jet ski"
+  ],
+  "vocab": [
+   "final",
+   "word",
+   "jet",
+   "ski"
+  ],
+  "cn": "今天最后一个词是水上摩托",
+  "level": 2,
+  "video": "media/st/e5/s159.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s160",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Go go go go",
+  "lines": [
+   "Go go go go"
+  ],
+  "vocab": [],
+  "cn": "冲冲冲冲",
+  "level": 2,
+  "video": "media/st/e5/s160.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s161",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "What an experience Wow",
+  "lines": [
+   "What an experience Wow"
+  ],
+  "vocab": [
+   "experience",
+   "wow"
+  ],
+  "cn": "这体验太棒了，哇",
+  "level": 2,
+  "video": "media/st/e5/s161.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s162",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "Didn't expect that Did not expect that",
+  "lines": [
+   "Didn't expect that Did not expect that"
+  ],
+  "vocab": [
+   "didn",
+   "t",
+   "expect",
+   "expect"
+  ],
+  "cn": "真没想到，完全没想到",
+  "level": 2,
+  "video": "media/st/e5/s162.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s163",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "If you enjoyed today's video guys",
+  "lines": [
+   "If you enjoyed today's video guys"
+  ],
+  "vocab": [
+   "if",
+   "enjoyed",
+   "s",
+   "video",
+   "guys"
+  ],
+  "cn": "各位，如果喜欢今天的视频",
+  "level": 2,
+  "video": "media/st/e5/s163.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s164",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "make sure to subscribe for plenty more",
+  "lines": [
+   "make sure to subscribe for plenty more"
+  ],
+  "vocab": [
+   "subscribe",
+   "plenty"
+  ],
+  "cn": "一定要订阅，获取更多",
+  "level": 2,
+  "video": "media/st/e5/s164.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e5-s165",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e5",
+  "unitTitle": "E5 一个意外的生日",
+  "title": "of this content That's a parachute",
+  "lines": [
+   "of this content That's a parachute"
+  ],
+  "vocab": [
+   "content",
+   "s",
+   "parachute"
+  ],
+  "cn": "这类内容。那是降落伞",
+  "level": 2,
+  "video": "media/st/e5/s165.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s01",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "Suddenly I'm 33, oh, 30 years old",
+  "lines": [
+   "Suddenly I'm 33, oh, 30 years old"
+  ],
+  "vocab": [
+   "suddenly",
+   "m",
+   "years"
+  ],
+  "cn": "突然间我就33……哦，30岁了",
+  "level": 2,
+  "video": "media/st/e9/s01.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s02",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "Where did time go",
+  "lines": [
+   "Where did time go"
+  ],
+  "vocab": [
+   "time"
+  ],
+  "cn": "时间都去哪儿了",
+  "level": 2,
+  "video": "media/st/e9/s02.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s03",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "When it comes to being 30",
+  "lines": [
+   "When it comes to being 30"
+  ],
+  "vocab": [
+   "comes"
+  ],
+  "cn": "说到30岁这件事",
+  "level": 2,
+  "video": "media/st/e9/s03.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s04",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "there are a lot of things that I'm thinking of right now",
+  "lines": [
+   "there are a lot of things that I'm thinking of right now"
+  ],
+  "vocab": [
+   "lot",
+   "m",
+   "thinking"
+  ],
+  "cn": "我现在有很多事情在想",
+  "level": 2,
+  "video": "media/st/e9/s04.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s05",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "There's a lot of pressure to figure things out",
+  "lines": [
+   "There's a lot of pressure to figure things out"
+  ],
+  "vocab": [
+   "s",
+   "lot",
+   "pressure",
+   "figure"
+  ],
+  "cn": "有很大的压力要把事情想清楚",
+  "level": 2,
+  "video": "media/st/e9/s05.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s06",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "to settle down, to buy a house",
+  "lines": [
+   "to settle down, to buy a house"
+  ],
+  "vocab": [
+   "settle",
+   "buy",
+   "house"
+  ],
+  "cn": "要安定下来，要买房子",
+  "level": 2,
+  "video": "media/st/e9/s06.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s07",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "to think about kids",
+  "lines": [
+   "to think about kids"
+  ],
+  "vocab": [
+   "about",
+   "kids"
+  ],
+  "cn": "要考虑生孩子",
+  "level": 2,
+  "video": "media/st/e9/s07.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s08",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "to think about finding someone",
+  "lines": [
+   "to think about finding someone"
+  ],
+  "vocab": [
+   "about",
+   "finding",
+   "someone"
+  ],
+  "cn": "要考虑找到一个人",
+  "level": 2,
+  "video": "media/st/e9/s08.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s09",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "finding the love of my life and getting married",
+  "lines": [
+   "finding the love of my life and getting married"
+  ],
+  "vocab": [
+   "finding",
+   "life",
+   "getting",
+   "married"
+  ],
+  "cn": "找到此生挚爱然后结婚",
+  "level": 2,
+  "video": "media/st/e9/s09.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s10",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "There are so many things",
+  "lines": [
+   "There are so many things"
+  ],
+  "vocab": [],
+  "cn": "有太多太多事情了",
+  "level": 2,
+  "video": "media/st/e9/s10.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s11",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "But the truth is, like, at least for me",
+  "lines": [
+   "But the truth is, like, at least for me"
+  ],
+  "vocab": [
+   "truth",
+   "least"
+  ],
+  "cn": "但事实是，至少对我来说",
+  "level": 2,
+  "video": "media/st/e9/s11.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s12",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "at least in my life, I don't have any of these things",
+  "lines": [
+   "at least in my life, I don't have any of these things"
+  ],
+  "vocab": [
+   "least",
+   "life",
+   "don",
+   "t"
+  ],
+  "cn": "至少在我的生活里，这些我一样都没有",
+  "level": 2,
+  "video": "media/st/e9/s12.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s13",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "I don't have a house now",
+  "lines": [
+   "I don't have a house now"
+  ],
+  "vocab": [
+   "don",
+   "t",
+   "house"
+  ],
+  "cn": "我现在没有房子",
+  "level": 2,
+  "video": "media/st/e9/s13.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s14",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "I don't even know where I want to live",
+  "lines": [
+   "I don't even know where I want to live"
+  ],
+  "vocab": [
+   "don",
+   "t",
+   "even"
+  ],
+  "cn": "我甚至不知道我想住在哪里",
+  "level": 2,
+  "video": "media/st/e9/s14.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s15",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "It's very complicated, it's very confusing",
+  "lines": [
+   "It's very complicated, it's very confusing"
+  ],
+  "vocab": [
+   "s",
+   "complicated",
+   "s",
+   "confusing"
+  ],
+  "cn": "这非常复杂，非常让人困惑",
+  "level": 2,
+  "video": "media/st/e9/s15.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s16",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "I don't know where home is",
+  "lines": [
+   "I don't know where home is"
+  ],
+  "vocab": [
+   "don",
+   "t",
+   "home"
+  ],
+  "cn": "我不知道家在哪里",
+  "level": 2,
+  "video": "media/st/e9/s16.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s17",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "I don't know if I wanna have kids",
+  "lines": [
+   "I don't know if I wanna have kids"
+  ],
+  "vocab": [
+   "don",
+   "t",
+   "if",
+   "kids"
+  ],
+  "cn": "我不知道我是否想要孩子",
+  "level": 2,
+  "video": "media/st/e9/s17.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s18",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "I know there's this biological clock",
+  "lines": [
+   "I know there's this biological clock"
+  ],
+  "vocab": [
+   "s",
+   "biological",
+   "clock"
+  ],
+  "cn": "我知道有这个生物钟的存在",
+  "level": 2,
+  "video": "media/st/e9/s18.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s19",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "and I'm a bit afraid of it, I'm a bit scared",
+  "lines": [
+   "and I'm a bit afraid of it, I'm a bit scared"
+  ],
+  "vocab": [
+   "m",
+   "bit",
+   "afraid",
+   "m",
+   "bit",
+   "scared"
+  ],
+  "cn": "我有点害怕它，我有点恐惧",
+  "level": 2,
+  "video": "media/st/e9/s19.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s20",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "But I really don't know right now",
+  "lines": [
+   "But I really don't know right now"
+  ],
+  "vocab": [
+   "don",
+   "t"
+  ],
+  "cn": "但我现在真的不知道",
+  "level": 2,
+  "video": "media/st/e9/s20.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s21",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "I don't wanna have kids",
+  "lines": [
+   "I don't wanna have kids"
+  ],
+  "vocab": [
+   "don",
+   "t",
+   "kids"
+  ],
+  "cn": "我不想要孩子",
+  "level": 2,
+  "video": "media/st/e9/s21.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s22",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "So I don't even know if it's in three years",
+  "lines": [
+   "So I don't even know if it's in three years"
+  ],
+  "vocab": [
+   "don",
+   "t",
+   "even",
+   "if",
+   "s",
+   "years"
+  ],
+  "cn": "所以我甚至不知道是三年后",
+  "level": 2,
+  "video": "media/st/e9/s22.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s23",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "if it's in five years, I really don't know",
+  "lines": [
+   "if it's in five years, I really don't know"
+  ],
+  "vocab": [
+   "if",
+   "s",
+   "five",
+   "years",
+   "don",
+   "t"
+  ],
+  "cn": "还是五年后，我真的不知道",
+  "level": 2,
+  "video": "media/st/e9/s23.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s24",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "In so many areas right now I feel",
+  "lines": [
+   "In so many areas right now I feel"
+  ],
+  "vocab": [
+   "areas"
+  ],
+  "cn": "在现在这么多方面我觉得",
+  "level": 2,
+  "video": "media/st/e9/s24.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s25",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "I feel behind, I feel behind in life",
+  "lines": [
+   "I feel behind, I feel behind in life"
+  ],
+  "vocab": [
+   "behind",
+   "behind",
+   "life"
+  ],
+  "cn": "我觉得落后了，我觉得人生落后了",
+  "level": 2,
+  "video": "media/st/e9/s25.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s26",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "And I'm sure many of you can relate",
+  "lines": [
+   "And I'm sure many of you can relate"
+  ],
+  "vocab": [
+   "m",
+   "relate"
+  ],
+  "cn": "我相信你们很多人都有同感",
+  "level": 2,
+  "video": "media/st/e9/s26.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s27",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "There are two reasons I think",
+  "lines": [
+   "There are two reasons I think"
+  ],
+  "vocab": [
+   "reasons"
+  ],
+  "cn": "我认为有两个原因",
+  "level": 2,
+  "video": "media/st/e9/s27.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s28",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "why a lot of us feel behind in life",
+  "lines": [
+   "why a lot of us feel behind in life"
+  ],
+  "vocab": [
+   "lot",
+   "behind",
+   "life"
+  ],
+  "cn": "让我们很多人觉得人生落后了",
+  "level": 2,
+  "video": "media/st/e9/s28.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s29",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "And the first thing that I want to talk about today",
+  "lines": [
+   "And the first thing that I want to talk about today"
+  ],
+  "vocab": [
+   "first",
+   "talk",
+   "about"
+  ],
+  "cn": "今天我想聊的第一件事",
+  "level": 2,
+  "video": "media/st/e9/s29.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s30",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "is this social clock",
+  "lines": [
+   "is this social clock"
+  ],
+  "vocab": [
+   "social",
+   "clock"
+  ],
+  "cn": "就是这个社会时钟",
+  "level": 2,
+  "video": "media/st/e9/s30.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s31",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "this timeline that society gives us",
+  "lines": [
+   "this timeline that society gives us"
+  ],
+  "vocab": [
+   "timeline",
+   "society",
+   "gives"
+  ],
+  "cn": "这个社会给我们的时间线",
+  "level": 2,
+  "video": "media/st/e9/s31.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s32",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "especially for women in our 50s",
+  "lines": [
+   "especially for women in our 50s"
+  ],
+  "vocab": [
+   "especially",
+   "women",
+   "s"
+  ],
+  "cn": "尤其是对我们50多岁的女性",
+  "level": 2,
+  "video": "media/st/e9/s32.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s33",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "Like, we have so much pressure",
+  "lines": [
+   "Like, we have so much pressure"
+  ],
+  "vocab": [
+   "pressure"
+  ],
+  "cn": "我们承受着巨大的压力",
+  "level": 2,
+  "video": "media/st/e9/s33.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s34",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "to fit into this perfect role",
+  "lines": [
+   "to fit into this perfect role"
+  ],
+  "vocab": [
+   "fit",
+   "into",
+   "perfect",
+   "role"
+  ],
+  "cn": "要去适应这个完美的角色",
+  "level": 2,
+  "video": "media/st/e9/s34.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s35",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "or to adapt to this timeline that society gives us",
+  "lines": [
+   "or to adapt to this timeline that society gives us"
+  ],
+  "vocab": [
+   "adapt",
+   "timeline",
+   "society",
+   "gives"
+  ],
+  "cn": "或者去适应社会给我们的时间线",
+  "level": 2,
+  "video": "media/st/e9/s35.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s36",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "But let me tell you, it's not possible for all of us",
+  "lines": [
+   "But let me tell you, it's not possible for all of us"
+  ],
+  "vocab": [
+   "s",
+   "possible"
+  ],
+  "cn": "但我告诉你，这对我们所有人来说都不现实",
+  "level": 2,
+  "video": "media/st/e9/s36.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s37",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "because we all are so individual",
+  "lines": [
+   "because we all are so individual"
+  ],
+  "vocab": [
+   "because",
+   "individual"
+  ],
+  "cn": "因为我们每个人都是独特的",
+  "level": 2,
+  "video": "media/st/e9/s37.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s38",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "we all are so different",
+  "lines": [
+   "we all are so different"
+  ],
+  "vocab": [
+   "different"
+  ],
+  "cn": "我们每个人都如此不同",
+  "level": 2,
+  "video": "media/st/e9/s38.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s39",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "And also this timeline is from like years ago",
+  "lines": [
+   "And also this timeline is from like years ago"
+  ],
+  "vocab": [
+   "timeline",
+   "years",
+   "ago"
+  ],
+  "cn": "而且这个时间线是很多年前的了",
+  "level": 2,
+  "video": "media/st/e9/s39.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s40",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "like it's from like 50 or 100",
+  "lines": [
+   "like it's from like 50 or 100"
+  ],
+  "vocab": [
+   "s"
+  ],
+  "cn": "就像是50年前还是100年前",
+  "level": 2,
+  "video": "media/st/e9/s40.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s41",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "or I don't know, like it's from ages ago",
+  "lines": [
+   "or I don't know, like it's from ages ago"
+  ],
+  "vocab": [
+   "don",
+   "t",
+   "s",
+   "ages",
+   "ago"
+  ],
+  "cn": "我也不知道，反正是很久以前的",
+  "level": 2,
+  "video": "media/st/e9/s41.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s42",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "And I don't even know who made this timeline",
+  "lines": [
+   "And I don't even know who made this timeline"
+  ],
+  "vocab": [
+   "don",
+   "t",
+   "even",
+   "made",
+   "timeline"
+  ],
+  "cn": "我甚至不知道谁制定了这个时间线",
+  "level": 2,
+  "video": "media/st/e9/s42.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s43",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "I really don't know",
+  "lines": [
+   "I really don't know"
+  ],
+  "vocab": [
+   "don",
+   "t"
+  ],
+  "cn": "我真的不知道",
+  "level": 2,
+  "video": "media/st/e9/s43.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s44",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "Because who said that we have to be married",
+  "lines": [
+   "Because who said that we have to be married"
+  ],
+  "vocab": [
+   "because",
+   "married"
+  ],
+  "cn": "因为谁说我们必须在某个年龄",
+  "level": 2,
+  "video": "media/st/e9/s44.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s45",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "by a certain age",
+  "lines": [
+   "by a certain age"
+  ],
+  "vocab": [
+   "certain",
+   "age"
+  ],
+  "cn": "之前结婚的",
+  "level": 2,
+  "video": "media/st/e9/s45.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s46",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "If I want to get married by the age of like 75 or 80",
+  "lines": [
+   "If I want to get married by the age of like 75 or 80"
+  ],
+  "vocab": [
+   "if",
+   "married",
+   "age"
+  ],
+  "cn": "如果我想在75岁或80岁结婚",
+  "level": 2,
+  "video": "media/st/e9/s46.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s47",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "then please let me do it",
+  "lines": [
+   "then please let me do it"
+  ],
+  "vocab": [],
+  "cn": "那请让我去做吧",
+  "level": 2,
+  "video": "media/st/e9/s47.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s48",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "And I think it's super cool",
+  "lines": [
+   "And I think it's super cool"
+  ],
+  "vocab": [
+   "s",
+   "super",
+   "cool"
+  ],
+  "cn": "我觉得超酷的是",
+  "level": 2,
+  "video": "media/st/e9/s48.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s49",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "if you don't have this like time limit",
+  "lines": [
+   "if you don't have this like time limit"
+  ],
+  "vocab": [
+   "if",
+   "don",
+   "t",
+   "time",
+   "limit"
+  ],
+  "cn": "如果你对人生中任何事情",
+  "level": 2,
+  "video": "media/st/e9/s49.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s50",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "for anything in life",
+  "lines": [
+   "for anything in life"
+  ],
+  "vocab": [
+   "anything",
+   "life"
+  ],
+  "cn": "都没有这种时间限制",
+  "level": 2,
+  "video": "media/st/e9/s50.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s51",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "The only thing, yes, with kids",
+  "lines": [
+   "The only thing, yes, with kids"
+  ],
+  "vocab": [
+   "kids"
+  ],
+  "cn": "唯一的事情，是的，关于孩子",
+  "level": 2,
+  "video": "media/st/e9/s51.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s52",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "that is something we as women we can't ignore",
+  "lines": [
+   "that is something we as women we can't ignore"
+  ],
+  "vocab": [
+   "something",
+   "as",
+   "women",
+   "t",
+   "ignore"
+  ],
+  "cn": "这是我们作为女性无法忽视的",
+  "level": 2,
+  "video": "media/st/e9/s52.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s53",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "Like there will be one point in our lives",
+  "lines": [
+   "Like there will be one point in our lives"
+  ],
+  "vocab": [
+   "point",
+   "lives"
+  ],
+  "cn": "在我们生命中会有那么一个时刻",
+  "level": 2,
+  "video": "media/st/e9/s53.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s54",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "when we can't get kids anymore",
+  "lines": [
+   "when we can't get kids anymore"
+  ],
+  "vocab": [
+   "t",
+   "kids",
+   "anymore"
+  ],
+  "cn": "我们再也不能生孩子了",
+  "level": 2,
+  "video": "media/st/e9/s54.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s55",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "and then it might be too late",
+  "lines": [
+   "and then it might be too late"
+  ],
+  "vocab": [
+   "late"
+  ],
+  "cn": "那时可能就太迟了",
+  "level": 2,
+  "video": "media/st/e9/s55.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s56",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "and then maybe one day we regret it",
+  "lines": [
+   "and then maybe one day we regret it"
+  ],
+  "vocab": [
+   "maybe",
+   "regret"
+  ],
+  "cn": "也许有一天我们会后悔",
+  "level": 2,
+  "video": "media/st/e9/s56.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s57",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "But also I'm now 30",
+  "lines": [
+   "But also I'm now 30"
+  ],
+  "vocab": [
+   "m"
+  ],
+  "cn": "但我现在30岁了",
+  "level": 2,
+  "video": "media/st/e9/s57.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s58",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "and I really don't, at this point",
+  "lines": [
+   "and I really don't, at this point"
+  ],
+  "vocab": [
+   "don",
+   "t",
+   "point"
+  ],
+  "cn": "而我真的不想，在这个时刻",
+  "level": 2,
+  "video": "media/st/e9/s58.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s59",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "like right now in this moment",
+  "lines": [
+   "like right now in this moment"
+  ],
+  "vocab": [
+   "moment"
+  ],
+  "cn": "就像现在此时此刻",
+  "level": 2,
+  "video": "media/st/e9/s59.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s60",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "I don't wanna think about it",
+  "lines": [
+   "I don't wanna think about it"
+  ],
+  "vocab": [
+   "don",
+   "t",
+   "about"
+  ],
+  "cn": "我不想去想这件事",
+  "level": 2,
+  "video": "media/st/e9/s60.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s61",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "I don't have the right partner for it",
+  "lines": [
+   "I don't have the right partner for it"
+  ],
+  "vocab": [
+   "don",
+   "t",
+   "partner"
+  ],
+  "cn": "我没有合适的伴侣",
+  "level": 2,
+  "video": "media/st/e9/s61.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s62",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "and I'm not even ready for it",
+  "lines": [
+   "and I'm not even ready for it"
+  ],
+  "vocab": [
+   "m",
+   "even",
+   "ready"
+  ],
+  "cn": "而且我甚至还没准备好",
+  "level": 2,
+  "video": "media/st/e9/s62.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s63",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "Like, not even if I would have the right partner",
+  "lines": [
+   "Like, not even if I would have the right partner"
+  ],
+  "vocab": [
+   "even",
+   "if",
+   "partner"
+  ],
+  "cn": "就算我有合适的伴侣",
+  "level": 2,
+  "video": "media/st/e9/s63.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s64",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "if I would be in a relationship",
+  "lines": [
+   "if I would be in a relationship"
+  ],
+  "vocab": [
+   "if",
+   "relationship"
+  ],
+  "cn": "就算我在一段感情中",
+  "level": 2,
+  "video": "media/st/e9/s64.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s65",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "I wouldn't be ready for kids right now",
+  "lines": [
+   "I wouldn't be ready for kids right now"
+  ],
+  "vocab": [
+   "wouldn",
+   "t",
+   "ready",
+   "kids"
+  ],
+  "cn": "我现在也没准备好要孩子",
+  "level": 2,
+  "video": "media/st/e9/s65.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s66",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "My lifestyle, all of it, it doesn't make sense",
+  "lines": [
+   "My lifestyle, all of it, it doesn't make sense"
+  ],
+  "vocab": [
+   "lifestyle",
+   "doesn",
+   "t",
+   "sense"
+  ],
+  "cn": "我的生活方式，所有的一切，都不合适",
+  "level": 2,
+  "video": "media/st/e9/s66.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s67",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "And I really feel like a kid myself",
+  "lines": [
+   "And I really feel like a kid myself"
+  ],
+  "vocab": [
+   "kid",
+   "myself"
+  ],
+  "cn": "我自己都觉得自己还是个孩子",
+  "level": 2,
+  "video": "media/st/e9/s67.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s68",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "I have to take care of myself first right now",
+  "lines": [
+   "I have to take care of myself first right now"
+  ],
+  "vocab": [
+   "care",
+   "myself",
+   "first"
+  ],
+  "cn": "我现在必须先照顾好自己",
+  "level": 2,
+  "video": "media/st/e9/s68.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s69",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "and I want to fill up my cup",
+  "lines": [
+   "and I want to fill up my cup"
+  ],
+  "vocab": [
+   "fill",
+   "cup"
+  ],
+  "cn": "我想先把自己的杯子填满",
+  "level": 2,
+  "video": "media/st/e9/s69.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s70",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "and love myself so much",
+  "lines": [
+   "and love myself so much"
+  ],
+  "vocab": [
+   "myself"
+  ],
+  "cn": "好好爱自己",
+  "level": 2,
+  "video": "media/st/e9/s70.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s71",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "that I can give so much love to someone else",
+  "lines": [
+   "that I can give so much love to someone else"
+  ],
+  "vocab": [
+   "someone",
+   "else"
+  ],
+  "cn": "这样我才能给别人很多很多的爱",
+  "level": 2,
+  "video": "media/st/e9/s71.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e9-s72",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e9",
+  "unitTitle": "E9 三十岁生活感悟",
+  "title": "So yeah, I'm not ready",
+  "lines": [
+   "So yeah, I'm not ready"
+  ],
+  "vocab": [
+   "m",
+   "ready"
+  ],
+  "cn": "所以是的，我还没准备好",
+  "level": 2,
+  "video": "media/st/e9/s72.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s01",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Ah, this box is full of old clothes and magazines",
+  "lines": [
+   "Ah, this box is full of old clothes and magazines"
+  ],
+  "vocab": [
+   "ah",
+   "box",
+   "full",
+   "clothes",
+   "magazines"
+  ],
+  "cn": "啊，这个箱子里满是旧衣服和杂志",
+  "level": 2,
+  "video": "media/st/e15/s01.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s02",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "and today I've decided to reuse them",
+  "lines": [
+   "and today I've decided to reuse them"
+  ],
+  "vocab": [
+   "ve",
+   "decided",
+   "reuse"
+  ],
+  "cn": "今天我决定把它们重新利用起来",
+  "level": 2,
+  "video": "media/st/e15/s02.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s03",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "and help you guys learn some clothes English",
+  "lines": [
+   "and help you guys learn some clothes English"
+  ],
+  "vocab": [
+   "guys",
+   "learn",
+   "clothes",
+   "english"
+  ],
+  "cn": "帮你们学一些关于衣服的英语",
+  "level": 2,
+  "video": "media/st/e15/s03.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s04",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "But first, what do we need",
+  "lines": [
+   "But first, what do we need"
+  ],
+  "vocab": [
+   "first"
+  ],
+  "cn": "但首先，我们需要什么呢",
+  "level": 2,
+  "video": "media/st/e15/s04.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s05",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "A pair of scissors, some colored pens",
+  "lines": [
+   "A pair of scissors, some colored pens"
+  ],
+  "vocab": [
+   "pair",
+   "scissors",
+   "colored",
+   "pens"
+  ],
+  "cn": "一把剪刀、一些彩色笔、",
+  "level": 2,
+  "video": "media/st/e15/s05.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s06",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "a glue stick, a magazine",
+  "lines": [
+   "a glue stick, a magazine"
+  ],
+  "vocab": [
+   "glue",
+   "stick",
+   "magazine"
+  ],
+  "cn": "一支胶棒、一本杂志",
+  "level": 2,
+  "video": "media/st/e15/s06.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s07",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "and last but not least, a sketchbook",
+  "lines": [
+   "and last but not least, a sketchbook"
+  ],
+  "vocab": [
+   "last",
+   "least",
+   "sketchbook"
+  ],
+  "cn": "最后同样重要的，一本素描本",
+  "level": 2,
+  "video": "media/st/e15/s07.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s08",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "The plan for today is to make my own magazine",
+  "lines": [
+   "The plan for today is to make my own magazine"
+  ],
+  "vocab": [
+   "plan",
+   "own",
+   "magazine"
+  ],
+  "cn": "今天的计划是用这本素描本",
+  "level": 2,
+  "video": "media/st/e15/s08.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s09",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "using this sketchbook and these old magazines",
+  "lines": [
+   "using this sketchbook and these old magazines"
+  ],
+  "vocab": [
+   "using",
+   "sketchbook",
+   "magazines"
+  ],
+  "cn": "和这些旧杂志做一本我自己的杂志",
+  "level": 2,
+  "video": "media/st/e15/s09.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s10",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "I'm going to use my pair of scissors",
+  "lines": [
+   "I'm going to use my pair of scissors"
+  ],
+  "vocab": [
+   "m",
+   "going",
+   "use",
+   "pair",
+   "scissors"
+  ],
+  "cn": "我会用我的剪刀",
+  "level": 2,
+  "video": "media/st/e15/s10.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s11",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "to cut up or cut out different sections",
+  "lines": [
+   "to cut up or cut out different sections"
+  ],
+  "vocab": [
+   "cut",
+   "cut",
+   "different",
+   "sections"
+  ],
+  "cn": "剪碎或剪下不同的部分",
+  "level": 2,
+  "video": "media/st/e15/s11.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s12",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "and I'm going to use the glue stick",
+  "lines": [
+   "and I'm going to use the glue stick"
+  ],
+  "vocab": [
+   "m",
+   "going",
+   "use",
+   "glue",
+   "stick"
+  ],
+  "cn": "然后用胶棒",
+  "level": 2,
+  "video": "media/st/e15/s12.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s13",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "to stick the cutouts in my sketchbook",
+  "lines": [
+   "to stick the cutouts in my sketchbook"
+  ],
+  "vocab": [
+   "stick",
+   "cutouts",
+   "sketchbook"
+  ],
+  "cn": "把剪下来的东西粘到素描本上",
+  "level": 2,
+  "video": "media/st/e15/s13.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s14",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "So let's jump in",
+  "lines": [
+   "So let's jump in"
+  ],
+  "vocab": [
+   "s",
+   "jump"
+  ],
+  "cn": "那我们开始吧",
+  "level": 2,
+  "video": "media/st/e15/s14.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s15",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Right now I'm flicking through the magazine",
+  "lines": [
+   "Right now I'm flicking through the magazine"
+  ],
+  "vocab": [
+   "m",
+   "flicking",
+   "through",
+   "magazine"
+  ],
+  "cn": "现在我正在翻阅杂志",
+  "level": 2,
+  "video": "media/st/e15/s15.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s16",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "to find a page or a design that catches my eye",
+  "lines": [
+   "to find a page or a design that catches my eye"
+  ],
+  "vocab": [
+   "find",
+   "page",
+   "design",
+   "catches",
+   "eye"
+  ],
+  "cn": "想找到一个吸引我眼球的页面或设计",
+  "level": 2,
+  "video": "media/st/e15/s16.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s17",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "When something catches my eye, it gets my attention",
+  "lines": [
+   "When something catches my eye, it gets my attention"
+  ],
+  "vocab": [
+   "something",
+   "catches",
+   "eye",
+   "gets",
+   "attention"
+  ],
+  "cn": "当某样东西吸引我的眼球，就是引起了我的注意",
+  "level": 2,
+  "video": "media/st/e15/s17.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s18",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "And I think I found something already",
+  "lines": [
+   "And I think I found something already"
+  ],
+  "vocab": [
+   "found",
+   "something",
+   "already"
+  ],
+  "cn": "我觉得我已经找到了",
+  "level": 2,
+  "video": "media/st/e15/s18.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s19",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "I'm going to take my pair of scissors",
+  "lines": [
+   "I'm going to take my pair of scissors"
+  ],
+  "vocab": [
+   "m",
+   "going",
+   "pair",
+   "scissors"
+  ],
+  "cn": "我要拿起剪刀",
+  "level": 2,
+  "video": "media/st/e15/s19.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s20",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "and cut out the trainers",
+  "lines": [
+   "and cut out the trainers"
+  ],
+  "vocab": [
+   "cut",
+   "trainers"
+  ],
+  "cn": "把这双运动鞋剪下来",
+  "level": 2,
+  "video": "media/st/e15/s20.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s21",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "I'm gonna take my sketchbook of London",
+  "lines": [
+   "I'm gonna take my sketchbook of London"
+  ],
+  "vocab": [
+   "m",
+   "sketchbook",
+   "london"
+  ],
+  "cn": "我要拿出我的伦敦素描本",
+  "level": 2,
+  "video": "media/st/e15/s21.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s22",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "This is Big Ben, because obviously England",
+  "lines": [
+   "This is Big Ben, because obviously England"
+  ],
+  "vocab": [
+   "ben",
+   "because",
+   "obviously",
+   "england"
+  ],
+  "cn": "这是大本钟，因为显然是英国嘛",
+  "level": 2,
+  "video": "media/st/e15/s22.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s23",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Why is it called a sketchbook",
+  "lines": [
+   "Why is it called a sketchbook"
+  ],
+  "vocab": [
+   "called",
+   "sketchbook"
+  ],
+  "cn": "为什么它叫素描本",
+  "level": 2,
+  "video": "media/st/e15/s23.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s24",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Okay, nice. Thank you for that question",
+  "lines": [
+   "Okay, nice. Thank you for that question"
+  ],
+  "vocab": [
+   "question"
+  ],
+  "cn": "好的，不错。谢谢你提这个问题",
+  "level": 2,
+  "video": "media/st/e15/s24.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s25",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "It's called a sketchbook because we sketch in it",
+  "lines": [
+   "It's called a sketchbook because we sketch in it"
+  ],
+  "vocab": [
+   "s",
+   "called",
+   "sketchbook",
+   "because",
+   "sketch"
+  ],
+  "cn": "它叫素描本是因为我们在里面画素描",
+  "level": 2,
+  "video": "media/st/e15/s25.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s26",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "we draw in it",
+  "lines": [
+   "we draw in it"
+  ],
+  "vocab": [
+   "draw"
+  ],
+  "cn": "我们在里面画画",
+  "level": 2,
+  "video": "media/st/e15/s26.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s27",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "If you'll notice, the pages are blank",
+  "lines": [
+   "If you'll notice, the pages are blank"
+  ],
+  "vocab": [
+   "if",
+   "ll",
+   "notice",
+   "pages",
+   "blank"
+  ],
+  "cn": "如果你注意到的话，这些页面都是空白的",
+  "level": 2,
+  "video": "media/st/e15/s27.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s28",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "This is perfect for sketching",
+  "lines": [
+   "This is perfect for sketching"
+  ],
+  "vocab": [
+   "perfect",
+   "sketching"
+  ],
+  "cn": "这非常适合用来画草图",
+  "level": 2,
+  "video": "media/st/e15/s28.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s29",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "which is rough drawing",
+  "lines": [
+   "which is rough drawing"
+  ],
+  "vocab": [
+   "which",
+   "rough",
+   "drawing"
+  ],
+  "cn": "也就是粗略的画",
+  "level": 2,
+  "video": "media/st/e15/s29.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s30",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Do I want my magazine vertical or horizontal",
+  "lines": [
+   "Do I want my magazine vertical or horizontal"
+  ],
+  "vocab": [
+   "magazine",
+   "vertical",
+   "horizontal"
+  ],
+  "cn": "我想让杂志竖着还是横着呢",
+  "level": 2,
+  "video": "media/st/e15/s30.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s31",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Normally a magazine is portrait, vertical",
+  "lines": [
+   "Normally a magazine is portrait, vertical"
+  ],
+  "vocab": [
+   "normally",
+   "magazine",
+   "portrait",
+   "vertical"
+  ],
+  "cn": "通常杂志是纵向的，竖着的",
+  "level": 2,
+  "video": "media/st/e15/s31.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s32",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Okay, I have drawn my title",
+  "lines": [
+   "Okay, I have drawn my title"
+  ],
+  "vocab": [
+   "drawn",
+   "title"
+  ],
+  "cn": "好了，我画好了标题",
+  "level": 2,
+  "video": "media/st/e15/s32.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s33",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "and we've called it Casual",
+  "lines": [
+   "and we've called it Casual"
+  ],
+  "vocab": [
+   "ve",
+   "called",
+   "casual"
+  ],
+  "cn": "我们把它叫做 Casual",
+  "level": 2,
+  "video": "media/st/e15/s33.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s34",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "And that represents casual clothes",
+  "lines": [
+   "And that represents casual clothes"
+  ],
+  "vocab": [
+   "represents",
+   "casual",
+   "clothes"
+  ],
+  "cn": "这代表休闲服装",
+  "level": 2,
+  "video": "media/st/e15/s34.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s35",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "clothes that you wear every day",
+  "lines": [
+   "clothes that you wear every day"
+  ],
+  "vocab": [
+   "clothes",
+   "wear",
+   "every"
+  ],
+  "cn": "就是你每天穿的衣服",
+  "level": 2,
+  "video": "media/st/e15/s35.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s36",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "I have my trainer or my sneaker",
+  "lines": [
+   "I have my trainer or my sneaker"
+  ],
+  "vocab": [
+   "trainer",
+   "sneaker"
+  ],
+  "cn": "我有我的运动鞋",
+  "level": 2,
+  "video": "media/st/e15/s36.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s37",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "My glue stick, taking off the lid of the glue stick",
+  "lines": [
+   "My glue stick, taking off the lid of the glue stick"
+  ],
+  "vocab": [
+   "glue",
+   "stick",
+   "taking",
+   "off",
+   "lid",
+   "glue",
+   "stick"
+  ],
+  "cn": "我的胶棒，拧开胶棒的盖子",
+  "level": 2,
+  "video": "media/st/e15/s37.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s38",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "and I'm using my fingers to press it down",
+  "lines": [
+   "and I'm using my fingers to press it down"
+  ],
+  "vocab": [
+   "m",
+   "using",
+   "fingers",
+   "press"
+  ],
+  "cn": "然后用手指把它按下去",
+  "level": 2,
+  "video": "media/st/e15/s38.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s39",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "That trainer is stuck to the page",
+  "lines": [
+   "That trainer is stuck to the page"
+  ],
+  "vocab": [
+   "trainer",
+   "stuck",
+   "page"
+  ],
+  "cn": "那只运动鞋粘在页面上了",
+  "level": 2,
+  "video": "media/st/e15/s39.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s40",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "And now I'm going to label it",
+  "lines": [
+   "And now I'm going to label it"
+  ],
+  "vocab": [
+   "m",
+   "going",
+   "label"
+  ],
+  "cn": "现在我要给它做标注",
+  "level": 2,
+  "video": "media/st/e15/s40.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s41",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "The front part of the trainer",
+  "lines": [
+   "The front part of the trainer"
+  ],
+  "vocab": [
+   "front",
+   "part",
+   "trainer"
+  ],
+  "cn": "运动鞋的前面部分",
+  "level": 2,
+  "video": "media/st/e15/s41.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s42",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "the things that you tie are called laces",
+  "lines": [
+   "the things that you tie are called laces"
+  ],
+  "vocab": [
+   "tie",
+   "called",
+   "laces"
+  ],
+  "cn": "你用来系的那些东西叫鞋带",
+  "level": 2,
+  "video": "media/st/e15/s42.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s43",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "That part of the shoe is called the tongue",
+  "lines": [
+   "That part of the shoe is called the tongue"
+  ],
+  "vocab": [
+   "part",
+   "shoe",
+   "called",
+   "tongue"
+  ],
+  "cn": "鞋子的那个部分叫做鞋舌",
+  "level": 2,
+  "video": "media/st/e15/s43.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s44",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "And just like the tongue that you have in your mouth",
+  "lines": [
+   "And just like the tongue that you have in your mouth"
+  ],
+  "vocab": [
+   "tongue",
+   "mouth"
+  ],
+  "cn": "就像你嘴巴里的舌头一样",
+  "level": 2,
+  "video": "media/st/e15/s44.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s45",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "that's the tongue of the trainer",
+  "lines": [
+   "that's the tongue of the trainer"
+  ],
+  "vocab": [
+   "s",
+   "tongue",
+   "trainer"
+  ],
+  "cn": "那就是运动鞋的鞋舌",
+  "level": 2,
+  "video": "media/st/e15/s45.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s46",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "This back part of the trainer is called the heel",
+  "lines": [
+   "This back part of the trainer is called the heel"
+  ],
+  "vocab": [
+   "back",
+   "part",
+   "trainer",
+   "called",
+   "heel"
+  ],
+  "cn": "运动鞋后面这个部分叫做鞋跟",
+  "level": 2,
+  "video": "media/st/e15/s46.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s47",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "And the front part of the trainer",
+  "lines": [
+   "And the front part of the trainer"
+  ],
+  "vocab": [
+   "front",
+   "part",
+   "trainer"
+  ],
+  "cn": "而运动鞋的前面部分",
+  "level": 2,
+  "video": "media/st/e15/s47.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s48",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "just like on your foot, is called the toe",
+  "lines": [
+   "just like on your foot, is called the toe"
+  ],
+  "vocab": [
+   "foot",
+   "called",
+   "toe"
+  ],
+  "cn": "就像你脚上的脚趾一样，叫做鞋头",
+  "level": 2,
+  "video": "media/st/e15/s48.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s49",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "The bottom part of the trainer is called the sole",
+  "lines": [
+   "The bottom part of the trainer is called the sole"
+  ],
+  "vocab": [
+   "bottom",
+   "part",
+   "trainer",
+   "called",
+   "sole"
+  ],
+  "cn": "运动鞋底部叫做鞋底",
+  "level": 2,
+  "video": "media/st/e15/s49.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s50",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "S-O-L-E, sole",
+  "lines": [
+   "S-O-L-E, sole"
+  ],
+  "vocab": [
+   "s",
+   "o",
+   "l",
+   "e",
+   "sole"
+  ],
+  "cn": "S-O-L-E，sole",
+  "level": 2,
+  "video": "media/st/e15/s50.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s51",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Not like your soul or your spirit",
+  "lines": [
+   "Not like your soul or your spirit"
+  ],
+  "vocab": [
+   "soul",
+   "spirit"
+  ],
+  "cn": "不是你的灵魂那个 soul",
+  "level": 2,
+  "video": "media/st/e15/s51.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s52",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "First part done",
+  "lines": [
+   "First part done"
+  ],
+  "vocab": [
+   "first",
+   "part",
+   "done"
+  ],
+  "cn": "第一部分完成了",
+  "level": 2,
+  "video": "media/st/e15/s52.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s53",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Here I have stuck the trainer to the page",
+  "lines": [
+   "Here I have stuck the trainer to the page"
+  ],
+  "vocab": [
+   "stuck",
+   "trainer",
+   "page"
+  ],
+  "cn": "这里我已经把运动鞋贴到页面上了",
+  "level": 2,
+  "video": "media/st/e15/s53.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s54",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "This is my first part in my fashion collection",
+  "lines": [
+   "This is my first part in my fashion collection"
+  ],
+  "vocab": [
+   "first",
+   "part",
+   "fashion",
+   "collection"
+  ],
+  "cn": "这是我时尚集里的第一部分",
+  "level": 2,
+  "video": "media/st/e15/s54.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s55",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Back to the magazine, let's flick through the magazine",
+  "lines": [
+   "Back to the magazine, let's flick through the magazine"
+  ],
+  "vocab": [
+   "back",
+   "magazine",
+   "s",
+   "flick",
+   "through",
+   "magazine"
+  ],
+  "cn": "回到杂志，让我们翻一翻杂志",
+  "level": 2,
+  "video": "media/st/e15/s55.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s56",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Alright, I found the perfect thing",
+  "lines": [
+   "Alright, I found the perfect thing"
+  ],
+  "vocab": [
+   "alright",
+   "found",
+   "perfect"
+  ],
+  "cn": "好了，我找到了完美的东西",
+  "level": 2,
+  "video": "media/st/e15/s56.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s57",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "a pair of trousers",
+  "lines": [
+   "a pair of trousers"
+  ],
+  "vocab": [
+   "pair",
+   "trousers"
+  ],
+  "cn": "一条裤子",
+  "level": 2,
+  "video": "media/st/e15/s57.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s58",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "These trousers are quite skinny, quite slim",
+  "lines": [
+   "These trousers are quite skinny, quite slim"
+  ],
+  "vocab": [
+   "trousers",
+   "quite",
+   "skinny",
+   "quite",
+   "slim"
+  ],
+  "cn": "这条裤子挺紧身的，很修身",
+  "level": 2,
+  "video": "media/st/e15/s58.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s59",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "And I used to wear skinny trousers",
+  "lines": [
+   "And I used to wear skinny trousers"
+  ],
+  "vocab": [
+   "used",
+   "wear",
+   "skinny",
+   "trousers"
+  ],
+  "cn": "我以前穿紧身裤",
+  "level": 2,
+  "video": "media/st/e15/s59.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s60",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "but for my birthday Chang bought me",
+  "lines": [
+   "but for my birthday Chang bought me"
+  ],
+  "vocab": [
+   "birthday",
+   "chang",
+   "bought"
+  ],
+  "cn": "但过生日的时候 Chang 给我买了",
+  "level": 2,
+  "video": "media/st/e15/s60.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s61",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "some loose trousers, some baggy trousers",
+  "lines": [
+   "some loose trousers, some baggy trousers"
+  ],
+  "vocab": [
+   "loose",
+   "trousers",
+   "baggy",
+   "trousers"
+  ],
+  "cn": "一些宽松的裤子，肥大的裤子",
+  "level": 2,
+  "video": "media/st/e15/s61.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s62",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "I wasn't sure about them initially",
+  "lines": [
+   "I wasn't sure about them initially"
+  ],
+  "vocab": [
+   "wasn",
+   "t",
+   "about",
+   "initially"
+  ],
+  "cn": "一开始我不太确定",
+  "level": 2,
+  "video": "media/st/e15/s62.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s63",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "but when I tried them on",
+  "lines": [
+   "but when I tried them on"
+  ],
+  "vocab": [
+   "tried"
+  ],
+  "cn": "但是当我试穿之后",
+  "level": 2,
+  "video": "media/st/e15/s63.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s64",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "I thought these are great, lovely",
+  "lines": [
+   "I thought these are great, lovely"
+  ],
+  "vocab": [
+   "thought",
+   "lovely"
+  ],
+  "cn": "我觉得这些太棒了，很好看",
+  "level": 2,
+  "video": "media/st/e15/s64.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s65",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Now I'm going to take my glue stick",
+  "lines": [
+   "Now I'm going to take my glue stick"
+  ],
+  "vocab": [
+   "m",
+   "going",
+   "glue",
+   "stick"
+  ],
+  "cn": "现在我要拿胶棒",
+  "level": 2,
+  "video": "media/st/e15/s65.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s66",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "and stick these in my English magazine",
+  "lines": [
+   "and stick these in my English magazine"
+  ],
+  "vocab": [
+   "stick",
+   "english",
+   "magazine"
+  ],
+  "cn": "把它们粘到我的英语杂志里",
+  "level": 2,
+  "video": "media/st/e15/s66.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s67",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "I'm sticking the trousers",
+  "lines": [
+   "I'm sticking the trousers"
+  ],
+  "vocab": [
+   "m",
+   "sticking",
+   "trousers"
+  ],
+  "cn": "我正在粘裤子",
+  "level": 2,
+  "video": "media/st/e15/s67.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s68",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Okay, where am I gonna put these",
+  "lines": [
+   "Okay, where am I gonna put these"
+  ],
+  "vocab": [],
+  "cn": "好，我要把这些放在哪里呢",
+  "level": 2,
+  "video": "media/st/e15/s68.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s69",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "I'm gonna put these nice and straight",
+  "lines": [
+   "I'm gonna put these nice and straight"
+  ],
+  "vocab": [
+   "m",
+   "straight"
+  ],
+  "cn": "我要把它们放得又正又直",
+  "level": 2,
+  "video": "media/st/e15/s69.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s70",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Alright, trousers done. I need to label them",
+  "lines": [
+   "Alright, trousers done. I need to label them"
+  ],
+  "vocab": [
+   "alright",
+   "trousers",
+   "done",
+   "label"
+  ],
+  "cn": "好了，裤子搞定了。我需要标注它们",
+  "level": 2,
+  "video": "media/st/e15/s70.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s71",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Next item of clothing",
+  "lines": [
+   "Next item of clothing"
+  ],
+  "vocab": [
+   "next",
+   "item",
+   "clothing"
+  ],
+  "cn": "下一件衣服",
+  "level": 2,
+  "video": "media/st/e15/s71.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s72",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "I'm gonna flick through the magazine once more",
+  "lines": [
+   "I'm gonna flick through the magazine once more"
+  ],
+  "vocab": [
+   "m",
+   "flick",
+   "through",
+   "magazine",
+   "once"
+  ],
+  "cn": "我再翻一翻杂志",
+  "level": 2,
+  "video": "media/st/e15/s72.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s73",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Oh, alright, we have a jacket",
+  "lines": [
+   "Oh, alright, we have a jacket"
+  ],
+  "vocab": [
+   "alright",
+   "jacket"
+  ],
+  "cn": "哦，好的，我们有一件夹克",
+  "level": 2,
+  "video": "media/st/e15/s73.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s74",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "And the material that this jacket is made from",
+  "lines": [
+   "And the material that this jacket is made from"
+  ],
+  "vocab": [
+   "material",
+   "jacket",
+   "made"
+  ],
+  "cn": "这件夹克的材质",
+  "level": 2,
+  "video": "media/st/e15/s74.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s75",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "is called denim",
+  "lines": [
+   "is called denim"
+  ],
+  "vocab": [
+   "called",
+   "denim"
+  ],
+  "cn": "叫做牛仔布",
+  "level": 2,
+  "video": "media/st/e15/s75.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s76",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Bob's your uncle, denim jacket",
+  "lines": [
+   "Bob's your uncle, denim jacket"
+  ],
+  "vocab": [
+   "bob",
+   "s",
+   "uncle",
+   "denim",
+   "jacket"
+  ],
+  "cn": "就这么简单，牛仔夹克",
+  "level": 2,
+  "video": "media/st/e15/s76.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s77",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "It's very common for denim to be used in jeans",
+  "lines": [
+   "It's very common for denim to be used in jeans"
+  ],
+  "vocab": [
+   "s",
+   "common",
+   "denim",
+   "used",
+   "jeans"
+  ],
+  "cn": "牛仔布很常用来做牛仔裤",
+  "level": 2,
+  "video": "media/st/e15/s77.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s78",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Here is the pocket where you put your pen inside",
+  "lines": [
+   "Here is the pocket where you put your pen inside"
+  ],
+  "vocab": [
+   "pocket",
+   "pen",
+   "inside"
+  ],
+  "cn": "这是口袋，你可以把笔放在里面",
+  "level": 2,
+  "video": "media/st/e15/s78.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s79",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "or your phone",
+  "lines": [
+   "or your phone"
+  ],
+  "vocab": [
+   "phone"
+  ],
+  "cn": "或者放手机",
+  "level": 2,
+  "video": "media/st/e15/s79.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s80",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "And these jeans are from Levi's",
+  "lines": [
+   "And these jeans are from Levi's"
+  ],
+  "vocab": [
+   "jeans",
+   "levi",
+   "s"
+  ],
+  "cn": "这些牛仔裤是 Levi's 的",
+  "level": 2,
+  "video": "media/st/e15/s80.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s81",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Levi original five oh ones",
+  "lines": [
+   "Levi original five oh ones"
+  ],
+  "vocab": [
+   "levi",
+   "original",
+   "five",
+   "ones"
+  ],
+  "cn": "Levi 原版 501",
+  "level": 2,
+  "video": "media/st/e15/s81.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s82",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "If you know, you know",
+  "lines": [
+   "If you know, you know"
+  ],
+  "vocab": [
+   "if"
+  ],
+  "cn": "懂的都懂",
+  "level": 2,
+  "video": "media/st/e15/s82.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s83",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "These are very good quality jeans",
+  "lines": [
+   "These are very good quality jeans"
+  ],
+  "vocab": [
+   "quality",
+   "jeans"
+  ],
+  "cn": "这些牛仔裤质量很好",
+  "level": 2,
+  "video": "media/st/e15/s83.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s84",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "but they're quite old now",
+  "lines": [
+   "but they're quite old now"
+  ],
+  "vocab": [
+   "re",
+   "quite"
+  ],
+  "cn": "但是现在挺旧了",
+  "level": 2,
+  "video": "media/st/e15/s84.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s85",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "And actually, uh, they're ripped",
+  "lines": [
+   "And actually, uh, they're ripped"
+  ],
+  "vocab": [
+   "actually",
+   "uh",
+   "re",
+   "ripped"
+  ],
+  "cn": "实际上，呃，它们破了",
+  "level": 2,
+  "video": "media/st/e15/s85.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s86",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "There's a rip in the jeans. You can see here",
+  "lines": [
+   "There's a rip in the jeans. You can see here"
+  ],
+  "vocab": [
+   "s",
+   "rip",
+   "jeans"
+  ],
+  "cn": "牛仔裤上有个破洞。你可以看到这里",
+  "level": 2,
+  "video": "media/st/e15/s86.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s87",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "there is a small hole. We call that a rip in my jeans",
+  "lines": [
+   "there is a small hole. We call that a rip in my jeans"
+  ],
+  "vocab": [
+   "hole",
+   "call",
+   "rip",
+   "jeans"
+  ],
+  "cn": "有一个小洞。我们把它叫做牛仔裤上的破洞",
+  "level": 2,
+  "video": "media/st/e15/s87.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s88",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "So they need to be fixed",
+  "lines": [
+   "So they need to be fixed"
+  ],
+  "vocab": [
+   "fixed"
+  ],
+  "cn": "所以它们需要修补",
+  "level": 2,
+  "video": "media/st/e15/s88.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s89",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "This is a sewing needle and this is the thread",
+  "lines": [
+   "This is a sewing needle and this is the thread"
+  ],
+  "vocab": [
+   "sewing",
+   "needle",
+   "thread"
+  ],
+  "cn": "这是一根缝衣针，这是线",
+  "level": 2,
+  "video": "media/st/e15/s89.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s90",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Chang is sewing the hole with a needle and thread",
+  "lines": [
+   "Chang is sewing the hole with a needle and thread"
+  ],
+  "vocab": [
+   "chang",
+   "sewing",
+   "hole",
+   "needle",
+   "thread"
+  ],
+  "cn": "Chang 正在用针线缝补这个洞",
+  "level": 2,
+  "video": "media/st/e15/s90.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s91",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "The thread is red. It's red thread. Beautiful",
+  "lines": [
+   "The thread is red. It's red thread. Beautiful"
+  ],
+  "vocab": [
+   "thread",
+   "red",
+   "s",
+   "red",
+   "thread",
+   "beautiful"
+  ],
+  "cn": "线是红色的。红色的线。漂亮",
+  "level": 2,
+  "video": "media/st/e15/s91.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s92",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Next we have a stripy shirt",
+  "lines": [
+   "Next we have a stripy shirt"
+  ],
+  "vocab": [
+   "next",
+   "stripy",
+   "shirt"
+  ],
+  "cn": "接下来我们有一件条纹衬衫",
+  "level": 2,
+  "video": "media/st/e15/s92.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s93",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "This is a long-sleeved shirt",
+  "lines": [
+   "This is a long-sleeved shirt"
+  ],
+  "vocab": [
+   "sleeved",
+   "shirt"
+  ],
+  "cn": "这是一件长袖衬衫",
+  "level": 2,
+  "video": "media/st/e15/s93.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s94",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "just like the one I am wearing right now",
+  "lines": [
+   "just like the one I am wearing right now"
+  ],
+  "vocab": [
+   "wearing"
+  ],
+  "cn": "就像我现在穿的这件",
+  "level": 2,
+  "video": "media/st/e15/s94.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s95",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "This top part of the shirt is called the collar",
+  "lines": [
+   "This top part of the shirt is called the collar"
+  ],
+  "vocab": [
+   "top",
+   "part",
+   "shirt",
+   "called",
+   "collar"
+  ],
+  "cn": "衬衫上面这个部分叫做衣领",
+  "level": 2,
+  "video": "media/st/e15/s95.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s96",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "The end of the shirt, this part here",
+  "lines": [
+   "The end of the shirt, this part here"
+  ],
+  "vocab": [
+   "end",
+   "shirt",
+   "part"
+  ],
+  "cn": "衬衫的末端，这个部分",
+  "level": 2,
+  "video": "media/st/e15/s96.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s97",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "is called the cuff. Cuff",
+  "lines": [
+   "is called the cuff. Cuff"
+  ],
+  "vocab": [
+   "called",
+   "cuff",
+   "cuff"
+  ],
+  "cn": "叫做袖口。Cuff",
+  "level": 2,
+  "video": "media/st/e15/s97.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s98",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "This is the button",
+  "lines": [
+   "This is the button"
+  ],
+  "vocab": [
+   "button"
+  ],
+  "cn": "这是纽扣",
+  "level": 2,
+  "video": "media/st/e15/s98.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s99",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "And I've shared this in my last video",
+  "lines": [
+   "And I've shared this in my last video"
+  ],
+  "vocab": [
+   "ve",
+   "shared",
+   "last",
+   "video"
+  ],
+  "cn": "我在上一期视频里分享过",
+  "level": 2,
+  "video": "media/st/e15/s99.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s100",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "but if you want to undo your shirt",
+  "lines": [
+   "but if you want to undo your shirt"
+  ],
+  "vocab": [
+   "if",
+   "undo",
+   "shirt"
+  ],
+  "cn": "如果你想解开衬衫",
+  "level": 2,
+  "video": "media/st/e15/s100.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s101",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "you unbutton it",
+  "lines": [
+   "you unbutton it"
+  ],
+  "vocab": [
+   "unbutton"
+  ],
+  "cn": "你就解开扣子",
+  "level": 2,
+  "video": "media/st/e15/s101.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s102",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Unbuttoning my shirt. Hairy belly",
+  "lines": [
+   "Unbuttoning my shirt. Hairy belly"
+  ],
+  "vocab": [
+   "unbuttoning",
+   "shirt",
+   "hairy",
+   "belly"
+  ],
+  "cn": "解开我的衬衫。毛茸茸的肚子",
+  "level": 2,
+  "video": "media/st/e15/s102.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s103",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "And buttoning up my shirt",
+  "lines": [
+   "And buttoning up my shirt"
+  ],
+  "vocab": [
+   "buttoning",
+   "shirt"
+  ],
+  "cn": "然后扣上我的衬衫",
+  "level": 2,
+  "video": "media/st/e15/s103.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s104",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Now let's compare this shirt to my t-shirts",
+  "lines": [
+   "Now let's compare this shirt to my t-shirts"
+  ],
+  "vocab": [
+   "s",
+   "compare",
+   "shirt",
+   "t",
+   "shirts"
+  ],
+  "cn": "现在让我们把这件衬衫和我的T恤对比一下",
+  "level": 2,
+  "video": "media/st/e15/s104.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s105",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "This is a short-sleeved t-shirt",
+  "lines": [
+   "This is a short-sleeved t-shirt"
+  ],
+  "vocab": [
+   "sleeved",
+   "t",
+   "shirt"
+  ],
+  "cn": "这是一件短袖T恤",
+  "level": 2,
+  "video": "media/st/e15/s105.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s106",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "and the color of this t-shirt is navy blue or dark blue",
+  "lines": [
+   "and the color of this t-shirt is navy blue or dark blue"
+  ],
+  "vocab": [
+   "color",
+   "t",
+   "shirt",
+   "navy",
+   "blue",
+   "dark",
+   "blue"
+  ],
+  "cn": "这件T恤的颜色是海军蓝或深蓝色",
+  "level": 2,
+  "video": "media/st/e15/s106.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s107",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Alright, moving on",
+  "lines": [
+   "Alright, moving on"
+  ],
+  "vocab": [
+   "alright",
+   "moving"
+  ],
+  "cn": "好的，继续",
+  "level": 2,
+  "video": "media/st/e15/s107.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s108",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Let's talk about women's clothes",
+  "lines": [
+   "Let's talk about women's clothes"
+  ],
+  "vocab": [
+   "s",
+   "talk",
+   "about",
+   "women",
+   "s",
+   "clothes"
+  ],
+  "cn": "我们来聊聊女装",
+  "level": 2,
+  "video": "media/st/e15/s108.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s109",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Chang is wearing a black tube top",
+  "lines": [
+   "Chang is wearing a black tube top"
+  ],
+  "vocab": [
+   "chang",
+   "wearing",
+   "black",
+   "tube",
+   "top"
+  ],
+  "cn": "Chang 穿着一件黑色抹胸",
+  "level": 2,
+  "video": "media/st/e15/s109.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s110",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "a red bag, and a polka dot skirt",
+  "lines": [
+   "a red bag, and a polka dot skirt"
+  ],
+  "vocab": [
+   "red",
+   "bag",
+   "polka",
+   "dot",
+   "skirt"
+  ],
+  "cn": "背着一个红色包，穿着波点裙",
+  "level": 2,
+  "video": "media/st/e15/s110.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s111",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Now she's wearing a blue flowery dress",
+  "lines": [
+   "Now she's wearing a blue flowery dress"
+  ],
+  "vocab": [
+   "s",
+   "wearing",
+   "blue",
+   "flowery",
+   "dress"
+  ],
+  "cn": "现在她穿着一条蓝色碎花连衣裙",
+  "level": 2,
+  "video": "media/st/e15/s111.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s112",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Thank you, Chang",
+  "lines": [
+   "Thank you, Chang"
+  ],
+  "vocab": [
+   "chang"
+  ],
+  "cn": "谢谢你，Chang",
+  "level": 2,
+  "video": "media/st/e15/s112.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s113",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Now let's talk about fancy clothes",
+  "lines": [
+   "Now let's talk about fancy clothes"
+  ],
+  "vocab": [
+   "s",
+   "talk",
+   "about",
+   "fancy",
+   "clothes"
+  ],
+  "cn": "现在来聊聊正式服装",
+  "level": 2,
+  "video": "media/st/e15/s113.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s114",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Fancy clothes",
+  "lines": [
+   "Fancy clothes"
+  ],
+  "vocab": [
+   "fancy",
+   "clothes"
+  ],
+  "cn": "正式服装",
+  "level": 2,
+  "video": "media/st/e15/s114.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s115",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "When a man puts on a suit for an event",
+  "lines": [
+   "When a man puts on a suit for an event"
+  ],
+  "vocab": [
+   "man",
+   "puts",
+   "suit",
+   "event"
+  ],
+  "cn": "当一个男人为某个场合穿上西装",
+  "level": 2,
+  "video": "media/st/e15/s115.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s116",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "you can say he's suited and booted",
+  "lines": [
+   "you can say he's suited and booted"
+  ],
+  "vocab": [
+   "s",
+   "suited",
+   "booted"
+  ],
+  "cn": "你可以说他 suited and booted",
+  "level": 2,
+  "video": "media/st/e15/s116.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s117",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "It means he's dressed in a suit",
+  "lines": [
+   "It means he's dressed in a suit"
+  ],
+  "vocab": [
+   "means",
+   "s",
+   "dressed",
+   "suit"
+  ],
+  "cn": "意思是他穿着西装",
+  "level": 2,
+  "video": "media/st/e15/s117.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s118",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "ready for an event, like a wedding",
+  "lines": [
+   "ready for an event, like a wedding"
+  ],
+  "vocab": [
+   "ready",
+   "event",
+   "wedding"
+  ],
+  "cn": "准备好参加一个活动，比如婚礼",
+  "level": 2,
+  "video": "media/st/e15/s118.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s119",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "So for my fancy page, I'm gonna do it horizontal",
+  "lines": [
+   "So for my fancy page, I'm gonna do it horizontal"
+  ],
+  "vocab": [
+   "fancy",
+   "page",
+   "m",
+   "horizontal"
+  ],
+  "cn": "所以我的正式服装页，我要横着做",
+  "level": 2,
+  "video": "media/st/e15/s119.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s120",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Hey, it's James Bond",
+  "lines": [
+   "Hey, it's James Bond"
+  ],
+  "vocab": [
+   "hey",
+   "s",
+   "james",
+   "bond"
+  ],
+  "cn": "嘿，是詹姆斯·邦德",
+  "level": 2,
+  "video": "media/st/e15/s120.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s121",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "I'm gonna cut out James Bond",
+  "lines": [
+   "I'm gonna cut out James Bond"
+  ],
+  "vocab": [
+   "m",
+   "cut",
+   "james",
+   "bond"
+  ],
+  "cn": "我要把詹姆斯·邦德剪下来",
+  "level": 2,
+  "video": "media/st/e15/s121.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s122",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Seven oh seven",
+  "lines": [
+   "Seven oh seven"
+  ],
+  "vocab": [
+   "seven",
+   "seven"
+  ],
+  "cn": "007",
+  "level": 2,
+  "video": "media/st/e15/s122.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s123",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Has anyone ever seen James Bond",
+  "lines": [
+   "Has anyone ever seen James Bond"
+  ],
+  "vocab": [
+   "anyone",
+   "ever",
+   "seen",
+   "james",
+   "bond"
+  ],
+  "cn": "有人看过詹姆斯·邦德的电影吗",
+  "level": 2,
+  "video": "media/st/e15/s123.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s124",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "My favorite James Bond film with Daniel Craig",
+  "lines": [
+   "My favorite James Bond film with Daniel Craig"
+  ],
+  "vocab": [
+   "favorite",
+   "james",
+   "bond",
+   "film",
+   "daniel",
+   "craig"
+  ],
+  "cn": "我最喜欢的丹尼尔·克雷格主演的邦德电影",
+  "level": 2,
+  "video": "media/st/e15/s124.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s125",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "is called Casino Royale",
+  "lines": [
+   "is called Casino Royale"
+  ],
+  "vocab": [
+   "called",
+   "casino",
+   "royale"
+  ],
+  "cn": "叫做《皇家赌场》",
+  "level": 2,
+  "video": "media/st/e15/s125.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s126",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "There we go. Daniel Craig is wearing a full black suit",
+  "lines": [
+   "There we go. Daniel Craig is wearing a full black suit"
+  ],
+  "vocab": [
+   "daniel",
+   "craig",
+   "wearing",
+   "full",
+   "black",
+   "suit"
+  ],
+  "cn": "好了。丹尼尔·克雷格穿着一身全黑西装",
+  "level": 2,
+  "video": "media/st/e15/s126.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s127",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "black leather gloves. Looks funny",
+  "lines": [
+   "black leather gloves. Looks funny"
+  ],
+  "vocab": [
+   "black",
+   "leather",
+   "gloves",
+   "looks",
+   "funny"
+  ],
+  "cn": "黑色皮手套。看起来好搞笑",
+  "level": 2,
+  "video": "media/st/e15/s127.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s128",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "License to kill",
+  "lines": [
+   "License to kill"
+  ],
+  "vocab": [
+   "license",
+   "kill"
+  ],
+  "cn": "杀人执照",
+  "level": 2,
+  "video": "media/st/e15/s128.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s129",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Oh, I have found a kilt",
+  "lines": [
+   "Oh, I have found a kilt"
+  ],
+  "vocab": [
+   "found",
+   "kilt"
+  ],
+  "cn": "哦，我找到了一件苏格兰短裙",
+  "level": 2,
+  "video": "media/st/e15/s129.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s130",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "A kilt is a traditional Scottish outfit",
+  "lines": [
+   "A kilt is a traditional Scottish outfit"
+  ],
+  "vocab": [
+   "kilt",
+   "traditional",
+   "scottish",
+   "outfit"
+  ],
+  "cn": "苏格兰短裙是传统的苏格兰服饰",
+  "level": 2,
+  "video": "media/st/e15/s130.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s131",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Scottish men will wear a kilt at a wedding",
+  "lines": [
+   "Scottish men will wear a kilt at a wedding"
+  ],
+  "vocab": [
+   "scottish",
+   "men",
+   "wear",
+   "kilt",
+   "wedding"
+  ],
+  "cn": "苏格兰男人会在婚礼上穿苏格兰短裙",
+  "level": 2,
+  "video": "media/st/e15/s131.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s132",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "This is a Highland cow",
+  "lines": [
+   "This is a Highland cow"
+  ],
+  "vocab": [
+   "highland",
+   "cow"
+  ],
+  "cn": "这是一头高地牛",
+  "level": 2,
+  "video": "media/st/e15/s132.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s133",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "A coo is a cow in the Scottish accent",
+  "lines": [
+   "A coo is a cow in the Scottish accent"
+  ],
+  "vocab": [
+   "coo",
+   "cow",
+   "scottish",
+   "accent"
+  ],
+  "cn": "Coo 是苏格兰口音里牛的说法",
+  "level": 2,
+  "video": "media/st/e15/s133.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s134",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "And this Highland coo is wearing a tartan kilt",
+  "lines": [
+   "And this Highland coo is wearing a tartan kilt"
+  ],
+  "vocab": [
+   "highland",
+   "coo",
+   "wearing",
+   "tartan",
+   "kilt"
+  ],
+  "cn": "这头高地牛穿着一件格纹苏格兰短裙",
+  "level": 2,
+  "video": "media/st/e15/s134.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s135",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "A kilt",
+  "lines": [
+   "A kilt"
+  ],
+  "vocab": [
+   "kilt"
+  ],
+  "cn": "一件苏格兰短裙",
+  "level": 2,
+  "video": "media/st/e15/s135.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s136",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "I've just cut out this man's torso",
+  "lines": [
+   "I've just cut out this man's torso"
+  ],
+  "vocab": [
+   "ve",
+   "cut",
+   "man",
+   "s",
+   "torso"
+  ],
+  "cn": "我刚把这个男人的上半身剪下来了",
+  "level": 2,
+  "video": "media/st/e15/s136.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s137",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "and he's wearing a maroon or burgundy blazer",
+  "lines": [
+   "and he's wearing a maroon or burgundy blazer"
+  ],
+  "vocab": [
+   "s",
+   "wearing",
+   "maroon",
+   "burgundy",
+   "blazer"
+  ],
+  "cn": "他穿着一件栗色或酒红色西装外套",
+  "level": 2,
+  "video": "media/st/e15/s137.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s138",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "with a black tie",
+  "lines": [
+   "with a black tie"
+  ],
+  "vocab": [
+   "black",
+   "tie"
+  ],
+  "cn": "配着一条黑色领带",
+  "level": 2,
+  "video": "media/st/e15/s138.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s139",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "And in his suit pocket or his blazer pocket",
+  "lines": [
+   "And in his suit pocket or his blazer pocket"
+  ],
+  "vocab": [
+   "suit",
+   "pocket",
+   "blazer",
+   "pocket"
+  ],
+  "cn": "在他的西装口袋或外套口袋里",
+  "level": 2,
+  "video": "media/st/e15/s139.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s140",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "we have a pocket square",
+  "lines": [
+   "we have a pocket square"
+  ],
+  "vocab": [
+   "pocket",
+   "square"
+  ],
+  "cn": "我们有一个口袋方巾",
+  "level": 2,
+  "video": "media/st/e15/s140.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s141",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "which is that little piece of fabric",
+  "lines": [
+   "which is that little piece of fabric"
+  ],
+  "vocab": [
+   "which",
+   "little",
+   "piece",
+   "fabric"
+  ],
+  "cn": "就是那一小块布料",
+  "level": 2,
+  "video": "media/st/e15/s141.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s142",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "that goes inside a men's or a man's suit pocket",
+  "lines": [
+   "that goes inside a men's or a man's suit pocket"
+  ],
+  "vocab": [
+   "goes",
+   "inside",
+   "men",
+   "s",
+   "man",
+   "s",
+   "suit",
+   "pocket"
+  ],
+  "cn": "放在男士西装口袋里的",
+  "level": 2,
+  "video": "media/st/e15/s142.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s143",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Tie can also be a verb",
+  "lines": [
+   "Tie can also be a verb"
+  ],
+  "vocab": [
+   "tie",
+   "verb"
+  ],
+  "cn": "Tie 也可以做动词",
+  "level": 2,
+  "video": "media/st/e15/s143.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s144",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "You can tie your laces",
+  "lines": [
+   "You can tie your laces"
+  ],
+  "vocab": [
+   "tie",
+   "laces"
+  ],
+  "cn": "你可以系鞋带",
+  "level": 2,
+  "video": "media/st/e15/s144.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s145",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "you can tie a knot in something",
+  "lines": [
+   "you can tie a knot in something"
+  ],
+  "vocab": [
+   "tie",
+   "knot",
+   "something"
+  ],
+  "cn": "你可以在什么东西上打个结",
+  "level": 2,
+  "video": "media/st/e15/s145.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s146",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "And actually an idiom, to tie the knot",
+  "lines": [
+   "And actually an idiom, to tie the knot"
+  ],
+  "vocab": [
+   "actually",
+   "idiom",
+   "tie",
+   "knot"
+  ],
+  "cn": "实际上有一个习语，tie the knot",
+  "level": 2,
+  "video": "media/st/e15/s146.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s147",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "is to get married",
+  "lines": [
+   "is to get married"
+  ],
+  "vocab": [
+   "married"
+  ],
+  "cn": "意思是结婚",
+  "level": 2,
+  "video": "media/st/e15/s147.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s148",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "This man is holding a briefcase",
+  "lines": [
+   "This man is holding a briefcase"
+  ],
+  "vocab": [
+   "man",
+   "holding",
+   "briefcase"
+  ],
+  "cn": "这个男人拿着一个公文包",
+  "level": 2,
+  "video": "media/st/e15/s148.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s149",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "If a man or a gentleman is looking very handsome",
+  "lines": [
+   "If a man or a gentleman is looking very handsome"
+  ],
+  "vocab": [
+   "if",
+   "man",
+   "gentleman",
+   "looking",
+   "handsome"
+  ],
+  "cn": "如果一个男人或绅士看起来非常帅气",
+  "level": 2,
+  "video": "media/st/e15/s149.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s150",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "well dressed, a good compliment you can give him",
+  "lines": [
+   "well dressed, a good compliment you can give him"
+  ],
+  "vocab": [
+   "dressed",
+   "compliment"
+  ],
+  "cn": "穿着得体，你可以给他一个好的赞美",
+  "level": 2,
+  "video": "media/st/e15/s150.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s151",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "is calling him suave",
+  "lines": [
+   "is calling him suave"
+  ],
+  "vocab": [
+   "calling",
+   "suave"
+  ],
+  "cn": "就是说他很 suave（温文尔雅）",
+  "level": 2,
+  "video": "media/st/e15/s151.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s152",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Fancy",
+  "lines": [
+   "Fancy"
+  ],
+  "vocab": [
+   "fancy"
+  ],
+  "cn": "正式",
+  "level": 2,
+  "video": "media/st/e15/s152.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s153",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Next, for the accessories",
+  "lines": [
+   "Next, for the accessories"
+  ],
+  "vocab": [
+   "next",
+   "accessories"
+  ],
+  "cn": "接下来，配饰部分",
+  "level": 2,
+  "video": "media/st/e15/s153.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s154",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "The first accessory is a watch",
+  "lines": [
+   "The first accessory is a watch"
+  ],
+  "vocab": [
+   "first",
+   "accessory",
+   "watch"
+  ],
+  "cn": "第一个配饰是一块手表",
+  "level": 2,
+  "video": "media/st/e15/s154.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s155",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "and it's going around my wrist",
+  "lines": [
+   "and it's going around my wrist"
+  ],
+  "vocab": [
+   "s",
+   "going",
+   "around",
+   "wrist"
+  ],
+  "cn": "它戴在我的手腕上",
+  "level": 2,
+  "video": "media/st/e15/s155.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s156",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Here I have stuck a watch to the page",
+  "lines": [
+   "Here I have stuck a watch to the page"
+  ],
+  "vocab": [
+   "stuck",
+   "watch",
+   "page"
+  ],
+  "cn": "这里我把一块手表贴在了页面上",
+  "level": 2,
+  "video": "media/st/e15/s156.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s157",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "and written some times",
+  "lines": [
+   "and written some times"
+  ],
+  "vocab": [
+   "written",
+   "times"
+  ],
+  "cn": "并写了一些时间",
+  "level": 2,
+  "video": "media/st/e15/s157.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s158",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Seven o'clock. Seven o'clock",
+  "lines": [
+   "Seven o'clock. Seven o'clock"
+  ],
+  "vocab": [
+   "seven",
+   "o",
+   "clock",
+   "seven",
+   "o",
+   "clock"
+  ],
+  "cn": "七点。七点",
+  "level": 2,
+  "video": "media/st/e15/s158.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s159",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "For seven fifteen, we say quarter past seven",
+  "lines": [
+   "For seven fifteen, we say quarter past seven"
+  ],
+  "vocab": [
+   "seven",
+   "fifteen",
+   "quarter",
+   "past",
+   "seven"
+  ],
+  "cn": "七点十五，我们说 seven fifteen",
+  "level": 2,
+  "video": "media/st/e15/s159.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s160",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "For seven thirty, we can say half seven",
+  "lines": [
+   "For seven thirty, we can say half seven"
+  ],
+  "vocab": [
+   "seven",
+   "thirty",
+   "half",
+   "seven"
+  ],
+  "cn": "七点三十，我们可以说 half seven",
+  "level": 2,
+  "video": "media/st/e15/s160.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s161",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "What time is it? Uh, half seven",
+  "lines": [
+   "What time is it? Uh, half seven"
+  ],
+  "vocab": [
+   "time",
+   "uh",
+   "half",
+   "seven"
+  ],
+  "cn": "几点了？呃，七点半",
+  "level": 2,
+  "video": "media/st/e15/s161.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s162",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Hmm, I would say half seven",
+  "lines": [
+   "Hmm, I would say half seven"
+  ],
+  "vocab": [
+   "half",
+   "seven"
+  ],
+  "cn": "嗯，我会说 half seven",
+  "level": 2,
+  "video": "media/st/e15/s162.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s163",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Seven forty-five is quarter to eight",
+  "lines": [
+   "Seven forty-five is quarter to eight"
+  ],
+  "vocab": [
+   "seven",
+   "forty",
+   "five",
+   "quarter",
+   "eight"
+  ],
+  "cn": "七点四十五就是 seven forty-five",
+  "level": 2,
+  "video": "media/st/e15/s163.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s164",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "It's fifteen minutes until eight o'clock",
+  "lines": [
+   "It's fifteen minutes until eight o'clock"
+  ],
+  "vocab": [
+   "s",
+   "fifteen",
+   "minutes",
+   "until",
+   "eight",
+   "o",
+   "clock"
+  ],
+  "cn": "距离八点还有十五分钟",
+  "level": 2,
+  "video": "media/st/e15/s164.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s165",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "We say quarter to eight",
+  "lines": [
+   "We say quarter to eight"
+  ],
+  "vocab": [
+   "quarter",
+   "eight"
+  ],
+  "cn": "我们说 quarter to eight",
+  "level": 2,
+  "video": "media/st/e15/s165.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s166",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "And seven fifty-five, here it's five minutes to eight o'clock",
+  "lines": [
+   "And seven fifty-five, here it's five minutes to eight o'clock"
+  ],
+  "vocab": [
+   "seven",
+   "fifty",
+   "five",
+   "s",
+   "five",
+   "minutes",
+   "eight",
+   "o"
+  ],
+  "cn": "七点五十五，这里是距离八点还有五分钟",
+  "level": 2,
+  "video": "media/st/e15/s166.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s167",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "so we say five to eight",
+  "lines": [
+   "so we say five to eight"
+  ],
+  "vocab": [
+   "five",
+   "eight"
+  ],
+  "cn": "所以我们说 five to eight",
+  "level": 2,
+  "video": "media/st/e15/s167.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s168",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "This man is wearing a beanie hat",
+  "lines": [
+   "This man is wearing a beanie hat"
+  ],
+  "vocab": [
+   "man",
+   "wearing",
+   "beanie",
+   "hat"
+  ],
+  "cn": "这个男人戴着一顶毛线帽",
+  "level": 2,
+  "video": "media/st/e15/s168.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s169",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "and above him are a pair of sunglasses",
+  "lines": [
+   "and above him are a pair of sunglasses"
+  ],
+  "vocab": [
+   "above",
+   "pair",
+   "sunglasses"
+  ],
+  "cn": "他上面是一副太阳镜",
+  "level": 2,
+  "video": "media/st/e15/s169.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s170",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Speaking of hats, what do you think about this one",
+  "lines": [
+   "Speaking of hats, what do you think about this one"
+  ],
+  "vocab": [
+   "speaking",
+   "hats",
+   "about"
+  ],
+  "cn": "说到帽子，你觉得这顶怎么样",
+  "level": 2,
+  "video": "media/st/e15/s170.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s171",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "The front part of the cap is called the peak",
+  "lines": [
+   "The front part of the cap is called the peak"
+  ],
+  "vocab": [
+   "front",
+   "part",
+   "cap",
+   "called",
+   "peak"
+  ],
+  "cn": "帽子前面的部分叫做帽檐",
+  "level": 2,
+  "video": "media/st/e15/s171.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s172",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "The peak of the cap",
+  "lines": [
+   "The peak of the cap"
+  ],
+  "vocab": [
+   "peak",
+   "cap"
+  ],
+  "cn": "帽子的帽檐",
+  "level": 2,
+  "video": "media/st/e15/s172.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s173",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "which is the same word for the top of a mountain",
+  "lines": [
+   "which is the same word for the top of a mountain"
+  ],
+  "vocab": [
+   "which",
+   "same",
+   "word",
+   "top",
+   "mountain"
+  ],
+  "cn": "这个词也用来指山顶",
+  "level": 2,
+  "video": "media/st/e15/s173.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s174",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "the peak of the mountain or the summit of a mountain",
+  "lines": [
+   "the peak of the mountain or the summit of a mountain"
+  ],
+  "vocab": [
+   "peak",
+   "mountain",
+   "summit",
+   "mountain"
+  ],
+  "cn": "山的顶峰或山的最高点",
+  "level": 2,
+  "video": "media/st/e15/s174.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s175",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Another word for sunglasses is sunnies",
+  "lines": [
+   "Another word for sunglasses is sunnies"
+  ],
+  "vocab": [
+   "another",
+   "word",
+   "sunglasses",
+   "sunnies"
+  ],
+  "cn": "太阳镜的另一个说法是 sunnies",
+  "level": 2,
+  "video": "media/st/e15/s175.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s176",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "as we say in the UK",
+  "lines": [
+   "as we say in the UK"
+  ],
+  "vocab": [
+   "as",
+   "uk"
+  ],
+  "cn": "我们在英国这么说",
+  "level": 2,
+  "video": "media/st/e15/s176.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s177",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "And the part around the edge, the structure",
+  "lines": [
+   "And the part around the edge, the structure"
+  ],
+  "vocab": [
+   "part",
+   "around",
+   "edge",
+   "structure"
+  ],
+  "cn": "周围边缘的那个部分，那个结构",
+  "level": 2,
+  "video": "media/st/e15/s177.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s178",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "is called the frame",
+  "lines": [
+   "is called the frame"
+  ],
+  "vocab": [
+   "called",
+   "frame"
+  ],
+  "cn": "叫做镜框",
+  "level": 2,
+  "video": "media/st/e15/s178.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s179",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "The part in the middle is called the lens",
+  "lines": [
+   "The part in the middle is called the lens"
+  ],
+  "vocab": [
+   "part",
+   "middle",
+   "called",
+   "lens"
+  ],
+  "cn": "中间的部分叫做镜片",
+  "level": 2,
+  "video": "media/st/e15/s179.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s180",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Oh, there's some perfume and aftershave",
+  "lines": [
+   "Oh, there's some perfume and aftershave"
+  ],
+  "vocab": [
+   "s",
+   "perfume",
+   "aftershave"
+  ],
+  "cn": "哦，这里有一些香水和须后水",
+  "level": 2,
+  "video": "media/st/e15/s180.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s181",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Let's do that",
+  "lines": [
+   "Let's do that"
+  ],
+  "vocab": [
+   "s"
+  ],
+  "cn": "我们来做这个",
+  "level": 2,
+  "video": "media/st/e15/s181.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s182",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "So in this image we have a bag",
+  "lines": [
+   "So in this image we have a bag"
+  ],
+  "vocab": [
+   "image",
+   "bag"
+  ],
+  "cn": "在这张图里我们有一个包",
+  "level": 2,
+  "video": "media/st/e15/s182.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s183",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "and at the top here we have some women's perfume",
+  "lines": [
+   "and at the top here we have some women's perfume"
+  ],
+  "vocab": [
+   "top",
+   "women",
+   "s",
+   "perfume"
+  ],
+  "cn": "上面这里有一些女士香水",
+  "level": 2,
+  "video": "media/st/e15/s183.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s184",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Jane, can you go get your perfume",
+  "lines": [
+   "Jane, can you go get your perfume"
+  ],
+  "vocab": [
+   "jane",
+   "perfume"
+  ],
+  "cn": "Jane，你能去拿一下你的香水吗",
+  "level": 2,
+  "video": "media/st/e15/s184.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s185",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "In the UK in general, we tend to refer to",
+  "lines": [
+   "In the UK in general, we tend to refer to"
+  ],
+  "vocab": [
+   "uk",
+   "general",
+   "tend",
+   "refer"
+  ],
+  "cn": "在英国，通常我们倾向于把",
+  "level": 2,
+  "video": "media/st/e15/s185.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s186",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "a man's cologne as aftershave",
+  "lines": [
+   "a man's cologne as aftershave"
+  ],
+  "vocab": [
+   "man",
+   "s",
+   "cologne",
+   "as",
+   "aftershave"
+  ],
+  "cn": "男士古龙水称为须后水",
+  "level": 2,
+  "video": "media/st/e15/s186.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s187",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "And I'm gonna spritz myself or spray myself",
+  "lines": [
+   "And I'm gonna spritz myself or spray myself"
+  ],
+  "vocab": [
+   "m",
+   "spritz",
+   "myself",
+   "spray",
+   "myself"
+  ],
+  "cn": "我要给自己喷一喷",
+  "level": 2,
+  "video": "media/st/e15/s187.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s188",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "And this one is a woman's",
+  "lines": [
+   "And this one is a woman's"
+  ],
+  "vocab": [
+   "woman",
+   "s"
+  ],
+  "cn": "而这一瓶是女士的",
+  "level": 2,
+  "video": "media/st/e15/s188.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s189",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "so we call this perfume",
+  "lines": [
+   "so we call this perfume"
+  ],
+  "vocab": [
+   "call",
+   "perfume"
+  ],
+  "cn": "所以我们叫它香水",
+  "level": 2,
+  "video": "media/st/e15/s189.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s190",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "And it's in a bottle",
+  "lines": [
+   "And it's in a bottle"
+  ],
+  "vocab": [
+   "s",
+   "bottle"
+  ],
+  "cn": "它装在一个瓶子里",
+  "level": 2,
+  "video": "media/st/e15/s190.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s191",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "This at the top is called the nozzle",
+  "lines": [
+   "This at the top is called the nozzle"
+  ],
+  "vocab": [
+   "top",
+   "called",
+   "nozzle"
+  ],
+  "cn": "顶部这个叫做喷嘴",
+  "level": 2,
+  "video": "media/st/e15/s191.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s192",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "And I would... can I spray it",
+  "lines": [
+   "And I would... can I spray it"
+  ],
+  "vocab": [
+   "spray"
+  ],
+  "cn": "我想……我能喷一下吗",
+  "level": 2,
+  "video": "media/st/e15/s192.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s193",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Spray the perfume",
+  "lines": [
+   "Spray the perfume"
+  ],
+  "vocab": [
+   "spray",
+   "perfume"
+  ],
+  "cn": "喷一下香水",
+  "level": 2,
+  "video": "media/st/e15/s193.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s194",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Just have to ask Chang before I spray it",
+  "lines": [
+   "Just have to ask Chang before I spray it"
+  ],
+  "vocab": [
+   "chang",
+   "before",
+   "spray"
+  ],
+  "cn": "在喷之前得先问问 Chang",
+  "level": 2,
+  "video": "media/st/e15/s194.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s195",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "because it's very fancy",
+  "lines": [
+   "because it's very fancy"
+  ],
+  "vocab": [
+   "because",
+   "s",
+   "fancy"
+  ],
+  "cn": "因为它很贵",
+  "level": 2,
+  "video": "media/st/e15/s195.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s196",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Oh, that's cool. It's like it's magnetic",
+  "lines": [
+   "Oh, that's cool. It's like it's magnetic"
+  ],
+  "vocab": [
+   "s",
+   "cool",
+   "s",
+   "s",
+   "magnetic"
+  ],
+  "cn": "哦，好酷。它好像是磁吸的",
+  "level": 2,
+  "video": "media/st/e15/s196.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s197",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Look at that. And it pops off and on like that",
+  "lines": [
+   "Look at that. And it pops off and on like that"
+  ],
+  "vocab": [
+   "pops",
+   "off"
+  ],
+  "cn": "你看。它就这样弹开又吸上",
+  "level": 2,
+  "video": "media/st/e15/s197.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s198",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Wow, I love the design of these things",
+  "lines": [
+   "Wow, I love the design of these things"
+  ],
+  "vocab": [
+   "wow",
+   "design"
+  ],
+  "cn": "哇，我好喜欢这些东西的设计",
+  "level": 2,
+  "video": "media/st/e15/s198.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s199",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Hmm, smells beautiful",
+  "lines": [
+   "Hmm, smells beautiful"
+  ],
+  "vocab": [
+   "smells",
+   "beautiful"
+  ],
+  "cn": "嗯，闻起来好香",
+  "level": 2,
+  "video": "media/st/e15/s199.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s200",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "A sip of tea",
+  "lines": [
+   "A sip of tea"
+  ],
+  "vocab": [
+   "sip",
+   "tea"
+  ],
+  "cn": "喝一口茶",
+  "level": 2,
+  "video": "media/st/e15/s200.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s201",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Why did I decide to create my own English magazine today",
+  "lines": [
+   "Why did I decide to create my own English magazine today"
+  ],
+  "vocab": [
+   "decide",
+   "create",
+   "own",
+   "english",
+   "magazine"
+  ],
+  "cn": "为什么我今天决定做自己的英语杂志呢",
+  "level": 2,
+  "video": "media/st/e15/s201.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s202",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "I believe in being creative",
+  "lines": [
+   "I believe in being creative"
+  ],
+  "vocab": [
+   "believe",
+   "creative"
+  ],
+  "cn": "我相信创造力",
+  "level": 2,
+  "video": "media/st/e15/s202.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s203",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "It is a wonderful way to express ourselves",
+  "lines": [
+   "It is a wonderful way to express ourselves"
+  ],
+  "vocab": [
+   "wonderful",
+   "express",
+   "ourselves"
+  ],
+  "cn": "这是表达自我",
+  "level": 2,
+  "video": "media/st/e15/s203.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s204",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "and actually feel better",
+  "lines": [
+   "and actually feel better"
+  ],
+  "vocab": [
+   "actually",
+   "better"
+  ],
+  "cn": "并让自己感觉更好的美妙方式",
+  "level": 2,
+  "video": "media/st/e15/s204.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s205",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Which leads me on to the final word of the day",
+  "lines": [
+   "Which leads me on to the final word of the day"
+  ],
+  "vocab": [
+   "which",
+   "leads",
+   "final",
+   "word"
+  ],
+  "cn": "这就引出了今天的最后一个词",
+  "level": 2,
+  "video": "media/st/e15/s205.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s206",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "catharsis",
+  "lines": [
+   "catharsis"
+  ],
+  "vocab": [
+   "catharsis"
+  ],
+  "cn": "catharsis（宣泄）",
+  "level": 2,
+  "video": "media/st/e15/s206.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s207",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Catharsis is an emotional release",
+  "lines": [
+   "Catharsis is an emotional release"
+  ],
+  "vocab": [
+   "catharsis",
+   "emotional",
+   "release"
+  ],
+  "cn": "Catharsis 是一种情感释放",
+  "level": 2,
+  "video": "media/st/e15/s207.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s208",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "when you do something artistic",
+  "lines": [
+   "when you do something artistic"
+  ],
+  "vocab": [
+   "something",
+   "artistic"
+  ],
+  "cn": "当你做一些艺术创作的时候",
+  "level": 2,
+  "video": "media/st/e15/s208.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s209",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "So making this English magazine",
+  "lines": [
+   "So making this English magazine"
+  ],
+  "vocab": [
+   "making",
+   "english",
+   "magazine"
+  ],
+  "cn": "所以制作这本英语杂志",
+  "level": 2,
+  "video": "media/st/e15/s209.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s210",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "has given me a sense of catharsis",
+  "lines": [
+   "has given me a sense of catharsis"
+  ],
+  "vocab": [
+   "given",
+   "sense",
+   "catharsis"
+  ],
+  "cn": "给了我一种宣泄的感觉",
+  "level": 2,
+  "video": "media/st/e15/s210.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s211",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Thank you so much for watching",
+  "lines": [
+   "Thank you so much for watching"
+  ],
+  "vocab": [
+   "watching"
+  ],
+  "cn": "非常感谢你的观看",
+  "level": 2,
+  "video": "media/st/e15/s211.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e15-s212",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e15",
+  "unitTitle": "E15 学习英语服装词汇",
+  "title": "Have a lovely day. See you next time. Peace",
+  "lines": [
+   "Have a lovely day. See you next time. Peace"
+  ],
+  "vocab": [
+   "lovely",
+   "next",
+   "time",
+   "peace"
+  ],
+  "cn": "祝你有美好的一天。下次见。和平",
+  "level": 2,
+  "video": "media/st/e15/s212.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s01",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "Today is all about good habits and bad habits",
+  "lines": [
+   "Today is all about good habits and bad habits"
+  ],
+  "vocab": [
+   "about",
+   "habits",
+   "habits"
+  ],
+  "cn": "今天的主题是好习惯和坏习惯",
+  "level": 2,
+  "video": "media/st/e22/s01.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s02",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "These are my habit socks",
+  "lines": [
+   "These are my habit socks"
+  ],
+  "vocab": [
+   "habit",
+   "socks"
+  ],
+  "cn": "这些是我的习惯袜子",
+  "level": 2,
+  "video": "media/st/e22/s02.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s03",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "I'll be putting good habits and bad habits inside these socks",
+  "lines": [
+   "I'll be putting good habits and bad habits inside these socks"
+  ],
+  "vocab": [
+   "ll",
+   "putting",
+   "habits",
+   "habits",
+   "inside",
+   "socks"
+  ],
+  "cn": "我会把好习惯和坏习惯放进这些袜子里",
+  "level": 2,
+  "video": "media/st/e22/s03.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s04",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "and throughout this video I'll be sharing my top tips with you guys",
+  "lines": [
+   "and throughout this video I'll be sharing my top tips with you guys"
+  ],
+  "vocab": [
+   "throughout",
+   "video",
+   "ll",
+   "sharing",
+   "top",
+   "tips",
+   "guys"
+  ],
+  "cn": "在整个视频中我会和你们分享我的顶级技巧",
+  "level": 2,
+  "video": "media/st/e22/s04.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s05",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "to help you speak about habits in real natural English conversation",
+  "lines": [
+   "to help you speak about habits in real natural English conversation"
+  ],
+  "vocab": [
+   "speak",
+   "about",
+   "habits",
+   "real",
+   "natural",
+   "english",
+   "conversation"
+  ],
+  "cn": "帮助你们在真实自然的英语对话中谈论习惯",
+  "level": 2,
+  "video": "media/st/e22/s05.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s06",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "Let's go",
+  "lines": [
+   "Let's go"
+  ],
+  "vocab": [
+   "s"
+  ],
+  "cn": "开始吧",
+  "level": 2,
+  "video": "media/st/e22/s06.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s07",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "First habit of the day, I am taking a brisk walk on the beach",
+  "lines": [
+   "First habit of the day, I am taking a brisk walk on the beach"
+  ],
+  "vocab": [
+   "first",
+   "habit",
+   "taking",
+   "brisk",
+   "walk",
+   "beach"
+  ],
+  "cn": "今天的第一个习惯，我在海滩上快步走",
+  "level": 2,
+  "video": "media/st/e22/s07.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s08",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "A brisk walk is a quick walk",
+  "lines": [
+   "A brisk walk is a quick walk"
+  ],
+  "vocab": [
+   "brisk",
+   "walk",
+   "quick",
+   "walk"
+  ],
+  "cn": "brisk walk 就是快步走",
+  "level": 2,
+  "video": "media/st/e22/s08.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s09",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "Unlike taking a stroll, a stroll is a gentle walk",
+  "lines": [
+   "Unlike taking a stroll, a stroll is a gentle walk"
+  ],
+  "vocab": [
+   "unlike",
+   "taking",
+   "stroll",
+   "stroll",
+   "gentle",
+   "walk"
+  ],
+  "cn": "不同于 stroll，stroll 是悠闲地散步",
+  "level": 2,
+  "video": "media/st/e22/s09.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s10",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "Oh, what a beautiful morning to stroll",
+  "lines": [
+   "Oh, what a beautiful morning to stroll"
+  ],
+  "vocab": [
+   "beautiful",
+   "morning",
+   "stroll"
+  ],
+  "cn": "哦，多美好的早晨适合散步",
+  "level": 2,
+  "video": "media/st/e22/s10.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s11",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "So is taking a walk a good habit or a bad habit",
+  "lines": [
+   "So is taking a walk a good habit or a bad habit"
+  ],
+  "vocab": [
+   "taking",
+   "walk",
+   "habit",
+   "habit"
+  ],
+  "cn": "那么散步是好习惯还是坏习惯",
+  "level": 2,
+  "video": "media/st/e22/s11.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s12",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "For me it's a logical choice, it's a good habit",
+  "lines": [
+   "For me it's a logical choice, it's a good habit"
+  ],
+  "vocab": [
+   "s",
+   "logical",
+   "choice",
+   "s",
+   "habit"
+  ],
+  "cn": "对我来说这是显而易见的，是好习惯",
+  "level": 2,
+  "video": "media/st/e22/s12.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s13",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "Right now it's eight oh five in the morning",
+  "lines": [
+   "Right now it's eight oh five in the morning"
+  ],
+  "vocab": [
+   "s",
+   "eight",
+   "five",
+   "morning"
+  ],
+  "cn": "现在是早上八点零五分",
+  "level": 2,
+  "video": "media/st/e22/s13.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s14",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "it's five past eight and I'm taking a walk along the shore",
+  "lines": [
+   "it's five past eight and I'm taking a walk along the shore"
+  ],
+  "vocab": [
+   "s",
+   "five",
+   "past",
+   "eight",
+   "m",
+   "taking",
+   "walk",
+   "along"
+  ],
+  "cn": "八点零五，我正沿着海岸散步",
+  "level": 2,
+  "video": "media/st/e22/s14.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s15",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "The shore is the place where the ocean meets the sand",
+  "lines": [
+   "The shore is the place where the ocean meets the sand"
+  ],
+  "vocab": [
+   "shore",
+   "place",
+   "ocean",
+   "meets",
+   "sand"
+  ],
+  "cn": "shore 就是海洋与沙滩交汇的地方",
+  "level": 2,
+  "video": "media/st/e22/s15.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s16",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "But I'm not just here for a walk, I am collecting shells",
+  "lines": [
+   "But I'm not just here for a walk, I am collecting shells"
+  ],
+  "vocab": [
+   "m",
+   "walk",
+   "collecting",
+   "shells"
+  ],
+  "cn": "但我不只是来散步的，我在捡贝壳",
+  "level": 2,
+  "video": "media/st/e22/s16.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s17",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "Wow, what a shell that is",
+  "lines": [
+   "Wow, what a shell that is"
+  ],
+  "vocab": [
+   "wow",
+   "shell"
+  ],
+  "cn": "哇，这个贝壳真漂亮",
+  "level": 2,
+  "video": "media/st/e22/s17.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s18",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "And it looks like a unicorn horn, very cool",
+  "lines": [
+   "And it looks like a unicorn horn, very cool"
+  ],
+  "vocab": [
+   "looks",
+   "unicorn",
+   "horn",
+   "cool"
+  ],
+  "cn": "它看起来像独角兽的角，太酷了",
+  "level": 2,
+  "video": "media/st/e22/s18.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s19",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "Hmm, rope. Nope",
+  "lines": [
+   "Hmm, rope. Nope"
+  ],
+  "vocab": [
+   "rope",
+   "nope"
+  ],
+  "cn": "嗯，绳子。不要",
+  "level": 2,
+  "video": "media/st/e22/s19.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s20",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "Right, we've got our shells",
+  "lines": [
+   "Right, we've got our shells"
+  ],
+  "vocab": [
+   "ve",
+   "shells"
+  ],
+  "cn": "好了，我们捡到贝壳了",
+  "level": 2,
+  "video": "media/st/e22/s20.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s21",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "Now we're gonna head home",
+  "lines": [
+   "Now we're gonna head home"
+  ],
+  "vocab": [
+   "re",
+   "head",
+   "home"
+  ],
+  "cn": "现在我们要回家了",
+  "level": 2,
+  "video": "media/st/e22/s21.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s22",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "and to do that I need to cross the roads",
+  "lines": [
+   "and to do that I need to cross the roads"
+  ],
+  "vocab": [
+   "cross",
+   "roads"
+  ],
+  "cn": "要回家我得过马路",
+  "level": 2,
+  "video": "media/st/e22/s22.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s23",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "But before we do, this is white paint on the trunk of a tree",
+  "lines": [
+   "But before we do, this is white paint on the trunk of a tree"
+  ],
+  "vocab": [
+   "before",
+   "white",
+   "paint",
+   "trunk",
+   "tree"
+  ],
+  "cn": "但在那之前，这是树干上的白色涂料",
+  "level": 2,
+  "video": "media/st/e22/s23.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s24",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "and that is to protect the trunk from the midday sun",
+  "lines": [
+   "and that is to protect the trunk from the midday sun"
+  ],
+  "vocab": [
+   "protect",
+   "trunk",
+   "midday",
+   "sun"
+  ],
+  "cn": "那是为了保护树干不被正午的阳光灼伤",
+  "level": 2,
+  "video": "media/st/e22/s24.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s25",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "Now very carefully I'm crossing the road",
+  "lines": [
+   "Now very carefully I'm crossing the road"
+  ],
+  "vocab": [
+   "carefully",
+   "m",
+   "crossing",
+   "road"
+  ],
+  "cn": "现在我非常小心地过马路",
+  "level": 2,
+  "video": "media/st/e22/s25.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e22-s26",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e22",
+  "unitTitle": "E22 好习惯和坏习惯",
+  "title": "and I made it safely",
+  "lines": [
+   "and I made it safely"
+  ],
+  "vocab": [
+   "made",
+   "safely"
+  ],
+  "cn": "我安全过来了",
+  "level": 2,
+  "video": "media/st/e22/s26.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s01",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "So before we go to the beach",
+  "lines": [
+   "So before we go to the beach"
+  ],
+  "vocab": [
+   "before",
+   "beach"
+  ],
+  "cn": "所以在我们去海滩之前",
+  "level": 2,
+  "video": "media/st/e26/s01.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s02",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "we have to pack our bag",
+  "lines": [
+   "we have to pack our bag"
+  ],
+  "vocab": [
+   "pack",
+   "bag"
+  ],
+  "cn": "我们得收拾好包",
+  "level": 2,
+  "video": "media/st/e26/s02.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s03",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "Pack our bag",
+  "lines": [
+   "Pack our bag"
+  ],
+  "vocab": [
+   "pack",
+   "bag"
+  ],
+  "cn": "收拾好包",
+  "level": 2,
+  "video": "media/st/e26/s03.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s04",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "So this is my bag, my beach bag",
+  "lines": [
+   "So this is my bag, my beach bag"
+  ],
+  "vocab": [
+   "bag",
+   "beach",
+   "bag"
+  ],
+  "cn": "这是我的包，我的沙滩包",
+  "level": 2,
+  "video": "media/st/e26/s04.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s05",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "because it's waterproof",
+  "lines": [
+   "because it's waterproof"
+  ],
+  "vocab": [
+   "because",
+   "s",
+   "waterproof"
+  ],
+  "cn": "因为它是防水的",
+  "level": 2,
+  "video": "media/st/e26/s05.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s06",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "Waterproof",
+  "lines": [
+   "Waterproof"
+  ],
+  "vocab": [
+   "waterproof"
+  ],
+  "cn": "防水的",
+  "level": 2,
+  "video": "media/st/e26/s06.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s07",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "And it's got lots of flowers",
+  "lines": [
+   "And it's got lots of flowers"
+  ],
+  "vocab": [
+   "s",
+   "lots",
+   "flowers"
+  ],
+  "cn": "而且上面有很多花",
+  "level": 2,
+  "video": "media/st/e26/s07.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s08",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "Flowers on my bag",
+  "lines": [
+   "Flowers on my bag"
+  ],
+  "vocab": [
+   "flowers",
+   "bag"
+  ],
+  "cn": "我包上的花",
+  "level": 2,
+  "video": "media/st/e26/s08.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s09",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "So what do we need for the beach",
+  "lines": [
+   "So what do we need for the beach"
+  ],
+  "vocab": [
+   "beach"
+  ],
+  "cn": "那我们去海滩需要什么呢",
+  "level": 2,
+  "video": "media/st/e26/s09.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s10",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "So right now it's empty",
+  "lines": [
+   "So right now it's empty"
+  ],
+  "vocab": [
+   "s",
+   "empty"
+  ],
+  "cn": "现在它是空的",
+  "level": 2,
+  "video": "media/st/e26/s10.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s11",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "Empty bag",
+  "lines": [
+   "Empty bag"
+  ],
+  "vocab": [
+   "empty",
+   "bag"
+  ],
+  "cn": "空包",
+  "level": 2,
+  "video": "media/st/e26/s11.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s12",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "Let's fill my bag",
+  "lines": [
+   "Let's fill my bag"
+  ],
+  "vocab": [
+   "s",
+   "fill",
+   "bag"
+  ],
+  "cn": "让我们来装满我的包",
+  "level": 2,
+  "video": "media/st/e26/s12.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s13",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "So I think the first thing",
+  "lines": [
+   "So I think the first thing"
+  ],
+  "vocab": [
+   "first"
+  ],
+  "cn": "我觉得第一样东西",
+  "level": 2,
+  "video": "media/st/e26/s13.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s14",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "because I'm going to go swimming",
+  "lines": [
+   "because I'm going to go swimming"
+  ],
+  "vocab": [
+   "because",
+   "m",
+   "going",
+   "swimming"
+  ],
+  "cn": "因为我要去游泳",
+  "level": 2,
+  "video": "media/st/e26/s14.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s15",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "swimming, is my towel",
+  "lines": [
+   "swimming, is my towel"
+  ],
+  "vocab": [
+   "swimming",
+   "towel"
+  ],
+  "cn": "游泳，是我的毛巾",
+  "level": 2,
+  "video": "media/st/e26/s15.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s16",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "Towel",
+  "lines": [
+   "Towel"
+  ],
+  "vocab": [
+   "towel"
+  ],
+  "cn": "毛巾",
+  "level": 2,
+  "video": "media/st/e26/s16.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s17",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "So this is a beach towel",
+  "lines": [
+   "So this is a beach towel"
+  ],
+  "vocab": [
+   "beach",
+   "towel"
+  ],
+  "cn": "这是一条沙滩巾",
+  "level": 2,
+  "video": "media/st/e26/s17.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s18",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "I'm going to fold, fold my beach towel",
+  "lines": [
+   "I'm going to fold, fold my beach towel"
+  ],
+  "vocab": [
+   "m",
+   "going",
+   "fold",
+   "fold",
+   "beach",
+   "towel"
+  ],
+  "cn": "我要叠，叠好我的沙滩巾",
+  "level": 2,
+  "video": "media/st/e26/s18.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s19",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "So this is red, white and yellow beach towel",
+  "lines": [
+   "So this is red, white and yellow beach towel"
+  ],
+  "vocab": [
+   "red",
+   "white",
+   "yellow",
+   "beach",
+   "towel"
+  ],
+  "cn": "这是红白黄三色的沙滩巾",
+  "level": 2,
+  "video": "media/st/e26/s19.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s20",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "It's going in my bag",
+  "lines": [
+   "It's going in my bag"
+  ],
+  "vocab": [
+   "s",
+   "going",
+   "bag"
+  ],
+  "cn": "它放进我的包里",
+  "level": 2,
+  "video": "media/st/e26/s20.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s21",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "Next, my swimming suit",
+  "lines": [
+   "Next, my swimming suit"
+  ],
+  "vocab": [
+   "next",
+   "swimming",
+   "suit"
+  ],
+  "cn": "接下来，我的泳衣",
+  "level": 2,
+  "video": "media/st/e26/s21.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s22",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "Swimming suits, I'm also wearing some of it",
+  "lines": [
+   "Swimming suits, I'm also wearing some of it"
+  ],
+  "vocab": [
+   "swimming",
+   "suits",
+   "m",
+   "wearing"
+  ],
+  "cn": "泳衣，我身上也穿着一部分",
+  "level": 2,
+  "video": "media/st/e26/s22.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s23",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "And this is a swimming T-shirt",
+  "lines": [
+   "And this is a swimming T-shirt"
+  ],
+  "vocab": [
+   "swimming",
+   "t",
+   "shirt"
+  ],
+  "cn": "这是一件游泳T恤",
+  "level": 2,
+  "video": "media/st/e26/s23.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s24",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "because I need to protect my skin",
+  "lines": [
+   "because I need to protect my skin"
+  ],
+  "vocab": [
+   "because",
+   "protect",
+   "skin"
+  ],
+  "cn": "因为我需要保护我的皮肤",
+  "level": 2,
+  "video": "media/st/e26/s24.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s25",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "So swimming suit",
+  "lines": [
+   "So swimming suit"
+  ],
+  "vocab": [
+   "swimming",
+   "suit"
+  ],
+  "cn": "所以泳衣",
+  "level": 2,
+  "video": "media/st/e26/s25.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s26",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "And with protecting my skin",
+  "lines": [
+   "And with protecting my skin"
+  ],
+  "vocab": [
+   "protecting",
+   "skin"
+  ],
+  "cn": "说到保护皮肤",
+  "level": 2,
+  "video": "media/st/e26/s26.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s27",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "most important thing, sun cream",
+  "lines": [
+   "most important thing, sun cream"
+  ],
+  "vocab": [
+   "important",
+   "sun",
+   "cream"
+  ],
+  "cn": "最重要的东西，防晒霜",
+  "level": 2,
+  "video": "media/st/e26/s27.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s28",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "Sun cream",
+  "lines": [
+   "Sun cream"
+  ],
+  "vocab": [
+   "sun",
+   "cream"
+  ],
+  "cn": "防晒霜",
+  "level": 2,
+  "video": "media/st/e26/s28.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s29",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "And this is factor fifty, fifty plus",
+  "lines": [
+   "And this is factor fifty, fifty plus"
+  ],
+  "vocab": [
+   "factor",
+   "fifty",
+   "fifty",
+   "plus"
+  ],
+  "cn": "这是五十倍的，五十倍以上",
+  "level": 2,
+  "video": "media/st/e26/s29.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s30",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "because I have very pale skin, white skin",
+  "lines": [
+   "because I have very pale skin, white skin"
+  ],
+  "vocab": [
+   "because",
+   "pale",
+   "skin",
+   "white",
+   "skin"
+  ],
+  "cn": "因为我皮肤很白，非常白",
+  "level": 2,
+  "video": "media/st/e26/s30.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s31",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "So that means I burn very quickly",
+  "lines": [
+   "So that means I burn very quickly"
+  ],
+  "vocab": [
+   "means",
+   "burn",
+   "quickly"
+  ],
+  "cn": "所以我很容易晒伤",
+  "level": 2,
+  "video": "media/st/e26/s31.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s32",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "I burn like this apple, red",
+  "lines": [
+   "I burn like this apple, red"
+  ],
+  "vocab": [
+   "burn",
+   "apple",
+   "red"
+  ],
+  "cn": "我会像这个苹果一样，变红",
+  "level": 2,
+  "video": "media/st/e26/s32.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s33",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "So I need sun cream",
+  "lines": [
+   "So I need sun cream"
+  ],
+  "vocab": [
+   "sun",
+   "cream"
+  ],
+  "cn": "所以我需要防晒霜",
+  "level": 2,
+  "video": "media/st/e26/s33.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s34",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "And then also to protect my shoulders",
+  "lines": [
+   "And then also to protect my shoulders"
+  ],
+  "vocab": [
+   "protect",
+   "shoulders"
+  ],
+  "cn": "然后为了保护我的肩膀",
+  "level": 2,
+  "video": "media/st/e26/s34.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s35",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "I wear a swimming T-shirt to protect my shoulders",
+  "lines": [
+   "I wear a swimming T-shirt to protect my shoulders"
+  ],
+  "vocab": [
+   "wear",
+   "swimming",
+   "t",
+   "shirt",
+   "protect",
+   "shoulders"
+  ],
+  "cn": "我穿游泳T恤来保护肩膀",
+  "level": 2,
+  "video": "media/st/e26/s35.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s36",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "So very important",
+  "lines": [
+   "So very important"
+  ],
+  "vocab": [
+   "important"
+  ],
+  "cn": "所以非常重要",
+  "level": 2,
+  "video": "media/st/e26/s36.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s37",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "Let me know what factor do you wear",
+  "lines": [
+   "Let me know what factor do you wear"
+  ],
+  "vocab": [
+   "factor",
+   "wear"
+  ],
+  "cn": "告诉我你用多少倍的防晒",
+  "level": 2,
+  "video": "media/st/e26/s37.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s38",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "I wear factor fifty",
+  "lines": [
+   "I wear factor fifty"
+  ],
+  "vocab": [
+   "wear",
+   "factor",
+   "fifty"
+  ],
+  "cn": "我用五十倍的",
+  "level": 2,
+  "video": "media/st/e26/s38.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s39",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "And I'm going to spray, spray",
+  "lines": [
+   "And I'm going to spray, spray"
+  ],
+  "vocab": [
+   "m",
+   "going",
+   "spray",
+   "spray"
+  ],
+  "cn": "我到海滩后会喷，喷",
+  "level": 2,
+  "video": "media/st/e26/s39.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s40",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "when I get to the beach",
+  "lines": [
+   "when I get to the beach"
+  ],
+  "vocab": [
+   "beach"
+  ],
+  "cn": "到了海滩再喷",
+  "level": 2,
+  "video": "media/st/e26/s40.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s41",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "In my bag, important",
+  "lines": [
+   "In my bag, important"
+  ],
+  "vocab": [
+   "bag",
+   "important"
+  ],
+  "cn": "放进包里，很重要",
+  "level": 2,
+  "video": "media/st/e26/s41.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s42",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "Also on a hot day",
+  "lines": [
+   "Also on a hot day"
+  ],
+  "vocab": [
+   "hot"
+  ],
+  "cn": "在大热天里",
+  "level": 2,
+  "video": "media/st/e26/s42.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s43",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "next most important thing, water",
+  "lines": [
+   "next most important thing, water"
+  ],
+  "vocab": [
+   "next",
+   "important",
+   "water"
+  ],
+  "cn": "下一样最重要的东西，水",
+  "level": 2,
+  "video": "media/st/e26/s43.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s44",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "Water",
+  "lines": [
+   "Water"
+  ],
+  "vocab": [
+   "water"
+  ],
+  "cn": "水",
+  "level": 2,
+  "video": "media/st/e26/s44.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s45",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "This is my water bottle",
+  "lines": [
+   "This is my water bottle"
+  ],
+  "vocab": [
+   "water",
+   "bottle"
+  ],
+  "cn": "这是我的水壶",
+  "level": 2,
+  "video": "media/st/e26/s45.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s46",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "So it keeps, it's metal",
+  "lines": [
+   "So it keeps, it's metal"
+  ],
+  "vocab": [
+   "keeps",
+   "s",
+   "metal"
+  ],
+  "cn": "它能保温，是金属的",
+  "level": 2,
+  "video": "media/st/e26/s46.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s47",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "so keeps my water cold",
+  "lines": [
+   "so keeps my water cold"
+  ],
+  "vocab": [
+   "keeps",
+   "water",
+   "cold"
+  ],
+  "cn": "所以能让水保持冰凉",
+  "level": 2,
+  "video": "media/st/e26/s47.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s48",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "Cold water on the beach",
+  "lines": [
+   "Cold water on the beach"
+  ],
+  "vocab": [
+   "cold",
+   "water",
+   "beach"
+  ],
+  "cn": "在海滩上喝冰水",
+  "level": 2,
+  "video": "media/st/e26/s48.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s49",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "Another thing to keep cool, my fan",
+  "lines": [
+   "Another thing to keep cool, my fan"
+  ],
+  "vocab": [
+   "another",
+   "cool",
+   "fan"
+  ],
+  "cn": "另一样保持凉爽的东西，扇子",
+  "level": 2,
+  "video": "media/st/e26/s49.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s50",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "Fan",
+  "lines": [
+   "Fan"
+  ],
+  "vocab": [
+   "fan"
+  ],
+  "cn": "扇子",
+  "level": 2,
+  "video": "media/st/e26/s50.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s51",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "If it gets too hot",
+  "lines": [
+   "If it gets too hot"
+  ],
+  "vocab": [
+   "if",
+   "gets",
+   "hot"
+  ],
+  "cn": "如果太热了",
+  "level": 2,
+  "video": "media/st/e26/s51.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s52",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "I can air, air myself with the fan",
+  "lines": [
+   "I can air, air myself with the fan"
+  ],
+  "vocab": [
+   "air",
+   "air",
+   "myself",
+   "fan"
+  ],
+  "cn": "我可以扇，给自己扇风",
+  "level": 2,
+  "video": "media/st/e26/s52.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s53",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "So my fan has lots of flowers",
+  "lines": [
+   "So my fan has lots of flowers"
+  ],
+  "vocab": [
+   "fan",
+   "lots",
+   "flowers"
+  ],
+  "cn": "我的扇子上有很多花",
+  "level": 2,
+  "video": "media/st/e26/s53.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s54",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "and it's red",
+  "lines": [
+   "and it's red"
+  ],
+  "vocab": [
+   "s",
+   "red"
+  ],
+  "cn": "而且是红色的",
+  "level": 2,
+  "video": "media/st/e26/s54.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s55",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "and I bought that in Spain",
+  "lines": [
+   "and I bought that in Spain"
+  ],
+  "vocab": [
+   "bought",
+   "spain"
+  ],
+  "cn": "我在西班牙买的",
+  "level": 2,
+  "video": "media/st/e26/s55.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e26-s56",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e26",
+  "unitTitle": "E26 去沙滩的实用英语",
+  "title": "So if I get too hot",
+  "lines": [
+   "So if I get too hot"
+  ],
+  "vocab": [
+   "if",
+   "hot"
+  ],
+  "cn": "如果我太热的话",
+  "level": 2,
+  "video": "media/st/e26/s56.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s01",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "I love a good pear for lunch",
+  "lines": [
+   "I love a good pear for lunch"
+  ],
+  "vocab": [
+   "pear",
+   "lunch"
+  ],
+  "cn": "我午餐很喜欢吃一个好梨",
+  "level": 1,
+  "video": "media/st/e34/s01.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s02",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "I also had an apple",
+  "lines": [
+   "I also had an apple"
+  ],
+  "vocab": [
+   "apple"
+  ],
+  "cn": "我还带了一个苹果",
+  "level": 1,
+  "video": "media/st/e34/s02.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s03",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "but I already ate it because I needed some energy",
+  "lines": [
+   "but I already ate it because I needed some energy"
+  ],
+  "vocab": [
+   "already",
+   "ate",
+   "because",
+   "needed",
+   "energy"
+  ],
+  "cn": "但我已经吃掉了，因为我需要补充能量",
+  "level": 1,
+  "video": "media/st/e34/s03.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s04",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "And I also have a few grapes",
+  "lines": [
+   "And I also have a few grapes"
+  ],
+  "vocab": [
+   "few",
+   "grapes"
+  ],
+  "cn": "我还有几颗葡萄",
+  "level": 1,
+  "video": "media/st/e34/s04.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s05",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "I've eaten a lot of these grapes as well",
+  "lines": [
+   "I've eaten a lot of these grapes as well"
+  ],
+  "vocab": [
+   "ve",
+   "eaten",
+   "lot",
+   "grapes",
+   "as"
+  ],
+  "cn": "这些葡萄我也已经吃了不少",
+  "level": 1,
+  "video": "media/st/e34/s05.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s06",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "We have red, red grapes",
+  "lines": [
+   "We have red, red grapes"
+  ],
+  "vocab": [
+   "red",
+   "red",
+   "grapes"
+  ],
+  "cn": "我们有红色的，红葡萄",
+  "level": 1,
+  "video": "media/st/e34/s06.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s07",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "No, a lot of fruit",
+  "lines": [
+   "No, a lot of fruit"
+  ],
+  "vocab": [
+   "lot",
+   "fruit"
+  ],
+  "cn": "不，很多水果",
+  "level": 1,
+  "video": "media/st/e34/s07.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s08",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "Also a banana for lunch",
+  "lines": [
+   "Also a banana for lunch"
+  ],
+  "vocab": [
+   "banana",
+   "lunch"
+  ],
+  "cn": "午餐还有一根香蕉",
+  "level": 1,
+  "video": "media/st/e34/s08.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s09",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "so lots of fruit",
+  "lines": [
+   "so lots of fruit"
+  ],
+  "vocab": [
+   "lots",
+   "fruit"
+  ],
+  "cn": "所以水果很多",
+  "level": 1,
+  "video": "media/st/e34/s09.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s10",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "Then for the main lunch I have a toasty",
+  "lines": [
+   "Then for the main lunch I have a toasty"
+  ],
+  "vocab": [
+   "main",
+   "lunch",
+   "toasty"
+  ],
+  "cn": "然后正餐我有一个烤三明治",
+  "level": 1,
+  "video": "media/st/e34/s10.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s11",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "Toasty, toasties are my favorite lunch",
+  "lines": [
+   "Toasty, toasties are my favorite lunch"
+  ],
+  "vocab": [
+   "toasty",
+   "toasties",
+   "favorite",
+   "lunch"
+  ],
+  "cn": "烤三明治，烤三明治是我最爱的午餐",
+  "level": 1,
+  "video": "media/st/e34/s11.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s12",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "Just a simple cheese toasty",
+  "lines": [
+   "Just a simple cheese toasty"
+  ],
+  "vocab": [
+   "simple",
+   "cheese",
+   "toasty"
+  ],
+  "cn": "就是一个简单的芝士烤三明治",
+  "level": 1,
+  "video": "media/st/e34/s12.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s13",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "So what we get are two slices",
+  "lines": [
+   "So what we get are two slices"
+  ],
+  "vocab": [
+   "slices"
+  ],
+  "cn": "我们需要的是两片",
+  "level": 1,
+  "video": "media/st/e34/s13.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s14",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "so this is a slice, a slice of bread",
+  "lines": [
+   "so this is a slice, a slice of bread"
+  ],
+  "vocab": [
+   "slice",
+   "slice",
+   "bread"
+  ],
+  "cn": "这就是一片，一片面包",
+  "level": 1,
+  "video": "media/st/e34/s14.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s15",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "Two slices of bread",
+  "lines": [
+   "Two slices of bread"
+  ],
+  "vocab": [
+   "slices",
+   "bread"
+  ],
+  "cn": "两片面包",
+  "level": 1,
+  "video": "media/st/e34/s15.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s16",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "and white bread is my favorite",
+  "lines": [
+   "and white bread is my favorite"
+  ],
+  "vocab": [
+   "white",
+   "bread",
+   "favorite"
+  ],
+  "cn": "白面包是我的最爱",
+  "level": 1,
+  "video": "media/st/e34/s16.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s17",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "I love white bread",
+  "lines": [
+   "I love white bread"
+  ],
+  "vocab": [
+   "white",
+   "bread"
+  ],
+  "cn": "我喜欢白面包",
+  "level": 1,
+  "video": "media/st/e34/s17.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s18",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "I hold it in my hand",
+  "lines": [
+   "I hold it in my hand"
+  ],
+  "vocab": [
+   "hold",
+   "hand"
+  ],
+  "cn": "我把它拿在手里",
+  "level": 1,
+  "video": "media/st/e34/s18.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s19",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "Then I get the cheese",
+  "lines": [
+   "Then I get the cheese"
+  ],
+  "vocab": [
+   "cheese"
+  ],
+  "cn": "然后我拿出芝士",
+  "level": 1,
+  "video": "media/st/e34/s19.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s20",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "Now this is called red cheese",
+  "lines": [
+   "Now this is called red cheese"
+  ],
+  "vocab": [
+   "called",
+   "red",
+   "cheese"
+  ],
+  "cn": "这个叫红芝士",
+  "level": 1,
+  "video": "media/st/e34/s20.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s21",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "because it's quite orange",
+  "lines": [
+   "because it's quite orange"
+  ],
+  "vocab": [
+   "because",
+   "s",
+   "quite",
+   "orange"
+  ],
+  "cn": "因为它颜色偏橙色",
+  "level": 1,
+  "video": "media/st/e34/s21.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s22",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "And I put cheese on the slice of bread",
+  "lines": [
+   "And I put cheese on the slice of bread"
+  ],
+  "vocab": [
+   "cheese",
+   "slice",
+   "bread"
+  ],
+  "cn": "我把芝士放在面包片上",
+  "level": 1,
+  "video": "media/st/e34/s22.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s23",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "so I just cover my bread",
+  "lines": [
+   "so I just cover my bread"
+  ],
+  "vocab": [
+   "cover",
+   "bread"
+  ],
+  "cn": "把面包铺满",
+  "level": 1,
+  "video": "media/st/e34/s23.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s24",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "So this might not look that nice to some people, I guess",
+  "lines": [
+   "So this might not look that nice to some people, I guess"
+  ],
+  "vocab": [
+   "people",
+   "guess"
+  ],
+  "cn": "所以这对有些人来说可能不太好看",
+  "level": 1,
+  "video": "media/st/e34/s24.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s25",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "but when it melts it's good. Okay",
+  "lines": [
+   "but when it melts it's good. Okay"
+  ],
+  "vocab": [
+   "melts",
+   "s"
+  ],
+  "cn": "但融化之后就很好吃了。好的",
+  "level": 1,
+  "video": "media/st/e34/s25.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s26",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "Then I get the bread, the other bit of bread",
+  "lines": [
+   "Then I get the bread, the other bit of bread"
+  ],
+  "vocab": [
+   "bread",
+   "other",
+   "bit",
+   "bread"
+  ],
+  "cn": "然后我拿起面包，另一片面包",
+  "level": 1,
+  "video": "media/st/e34/s26.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s27",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "and I put it on top",
+  "lines": [
+   "and I put it on top"
+  ],
+  "vocab": [
+   "top"
+  ],
+  "cn": "把它放在上面",
+  "level": 1,
+  "video": "media/st/e34/s27.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s28",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "Other people might like to add things to their toasty",
+  "lines": [
+   "Other people might like to add things to their toasty"
+  ],
+  "vocab": [
+   "other",
+   "people",
+   "add",
+   "toasty"
+  ],
+  "cn": "其他人可能喜欢往烤三明治里加东西",
+  "level": 1,
+  "video": "media/st/e34/s28.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s29",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "like ham or onions or other things",
+  "lines": [
+   "like ham or onions or other things"
+  ],
+  "vocab": [
+   "ham",
+   "onions",
+   "other"
+  ],
+  "cn": "比如火腿、洋葱或别的",
+  "level": 1,
+  "video": "media/st/e34/s29.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s30",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "but I just like cheese",
+  "lines": [
+   "but I just like cheese"
+  ],
+  "vocab": [
+   "cheese"
+  ],
+  "cn": "但我只喜欢芝士",
+  "level": 1,
+  "video": "media/st/e34/s30.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s31",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "Now we're gonna toast it, toast my toasty",
+  "lines": [
+   "Now we're gonna toast it, toast my toasty"
+  ],
+  "vocab": [
+   "re",
+   "toast",
+   "toast",
+   "toasty"
+  ],
+  "cn": "现在我们来烤它，烤我的三明治",
+  "level": 1,
+  "video": "media/st/e34/s31.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s32",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "This is how I toast my toasty",
+  "lines": [
+   "This is how I toast my toasty"
+  ],
+  "vocab": [
+   "toast",
+   "toasty"
+  ],
+  "cn": "这就是我烤三明治的方法",
+  "level": 1,
+  "video": "media/st/e34/s32.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s33",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "I get these two things",
+  "lines": [
+   "I get these two things"
+  ],
+  "vocab": [],
+  "cn": "我拿出这两个东西",
+  "level": 1,
+  "video": "media/st/e34/s33.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s34",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "I don't even know what it's called, a toaster maybe",
+  "lines": [
+   "I don't even know what it's called, a toaster maybe"
+  ],
+  "vocab": [
+   "don",
+   "t",
+   "even",
+   "s",
+   "called",
+   "toaster",
+   "maybe"
+  ],
+  "cn": "我都不知道它叫什么，也许叫烤面包机",
+  "level": 1,
+  "video": "media/st/e34/s34.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s35",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "I get my sandwich, put it on top",
+  "lines": [
+   "I get my sandwich, put it on top"
+  ],
+  "vocab": [
+   "sandwich",
+   "top"
+  ],
+  "cn": "我把三明治放上去",
+  "level": 1,
+  "video": "media/st/e34/s35.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s36",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "Then I get the other half of this toasty machine. Okay",
+  "lines": [
+   "Then I get the other half of this toasty machine. Okay"
+  ],
+  "vocab": [
+   "other",
+   "half",
+   "toasty",
+   "machine"
+  ],
+  "cn": "然后合上这个烤三明治机的另一半。好",
+  "level": 1,
+  "video": "media/st/e34/s36.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s37",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "And this is my toasty",
+  "lines": [
+   "And this is my toasty"
+  ],
+  "vocab": [
+   "toasty"
+  ],
+  "cn": "这就是我的烤三明治",
+  "level": 1,
+  "video": "media/st/e34/s37.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s38",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "and now I'm gonna put it in the oven",
+  "lines": [
+   "and now I'm gonna put it in the oven"
+  ],
+  "vocab": [
+   "m",
+   "oven"
+  ],
+  "cn": "现在我要把它放进烤箱里",
+  "level": 1,
+  "video": "media/st/e34/s38.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e34-s39",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e34",
+  "unitTitle": "E34 和我一起做午餐",
+  "title": "Let me show you how it works. Toast",
+  "lines": [
+   "Let me show you how it works. Toast"
+  ],
+  "vocab": [
+   "works",
+   "toast"
+  ],
+  "cn": "让我给你们看看怎么用。烤",
+  "level": 1,
+  "video": "media/st/e34/s39.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s01",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "Did you know that British people drink",
+  "lines": [
+   "Did you know that British people drink"
+  ],
+  "vocab": [
+   "british",
+   "people",
+   "drink"
+  ],
+  "cn": "你知道英国人每天喝",
+  "level": 2,
+  "video": "media/st/e44/s01.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s02",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "a hundred million cups of tea every day",
+  "lines": [
+   "a hundred million cups of tea every day"
+  ],
+  "vocab": [
+   "hundred",
+   "million",
+   "cups",
+   "tea",
+   "every"
+  ],
+  "cn": "一亿杯茶吗",
+  "level": 2,
+  "video": "media/st/e44/s02.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s03",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "and ninety-eight percent of that is served with milk",
+  "lines": [
+   "and ninety-eight percent of that is served with milk"
+  ],
+  "vocab": [
+   "ninety",
+   "eight",
+   "percent",
+   "served",
+   "milk"
+  ],
+  "cn": "其中百分之九十八都会加牛奶",
+  "level": 2,
+  "video": "media/st/e44/s03.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s04",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "I wanna share with you guys",
+  "lines": [
+   "I wanna share with you guys"
+  ],
+  "vocab": [
+   "share",
+   "guys"
+  ],
+  "cn": "我想和大家分享",
+  "level": 2,
+  "video": "media/st/e44/s04.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s05",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "a mix of British culture and language",
+  "lines": [
+   "a mix of British culture and language"
+  ],
+  "vocab": [
+   "mix",
+   "british",
+   "culture",
+   "language"
+  ],
+  "cn": "英国文化和语言的结合",
+  "level": 2,
+  "video": "media/st/e44/s05.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s06",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "I will give you five phrases",
+  "lines": [
+   "I will give you five phrases"
+  ],
+  "vocab": [
+   "five",
+   "phrases"
+  ],
+  "cn": "我会给你们五个短语",
+  "level": 2,
+  "video": "media/st/e44/s06.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s07",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "that British people use every day",
+  "lines": [
+   "that British people use every day"
+  ],
+  "vocab": [
+   "british",
+   "people",
+   "use",
+   "every"
+  ],
+  "cn": "英国人每天都在用的",
+  "level": 2,
+  "video": "media/st/e44/s07.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s08",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "and if you use these phrases",
+  "lines": [
+   "and if you use these phrases"
+  ],
+  "vocab": [
+   "if",
+   "use",
+   "phrases"
+  ],
+  "cn": "如果你用了这些短语",
+  "level": 2,
+  "video": "media/st/e44/s08.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s09",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "people might just think you're British",
+  "lines": [
+   "people might just think you're British"
+  ],
+  "vocab": [
+   "people",
+   "re",
+   "british"
+  ],
+  "cn": "人们可能会觉得你是英国人",
+  "level": 2,
+  "video": "media/st/e44/s09.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s10",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "At number one, we have put the kettle on",
+  "lines": [
+   "At number one, we have put the kettle on"
+  ],
+  "vocab": [
+   "number",
+   "kettle"
+  ],
+  "cn": "第一个，我们有\"烧水壶\"",
+  "level": 2,
+  "video": "media/st/e44/s10.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s11",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "In British social culture",
+  "lines": [
+   "In British social culture"
+  ],
+  "vocab": [
+   "british",
+   "social",
+   "culture"
+  ],
+  "cn": "在英国社交文化中",
+  "level": 2,
+  "video": "media/st/e44/s11.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s12",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "putting the kettle on is like saying",
+  "lines": [
+   "putting the kettle on is like saying"
+  ],
+  "vocab": [
+   "putting",
+   "kettle",
+   "saying"
+  ],
+  "cn": "烧水壶就像是在说",
+  "level": 2,
+  "video": "media/st/e44/s12.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s13",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "let's relax and take a moment together",
+  "lines": [
+   "let's relax and take a moment together"
+  ],
+  "vocab": [
+   "s",
+   "relax",
+   "moment",
+   "together"
+  ],
+  "cn": "让我们放松一下，一起歇会儿",
+  "level": 2,
+  "video": "media/st/e44/s13.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s14",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "For example, you've just come home",
+  "lines": [
+   "For example, you've just come home"
+  ],
+  "vocab": [
+   "example",
+   "ve",
+   "home"
+  ],
+  "cn": "比如说，你刚从漫长辛苦的",
+  "level": 2,
+  "video": "media/st/e44/s14.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s15",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "from a long hard day",
+  "lines": [
+   "from a long hard day"
+  ],
+  "vocab": [
+   "hard"
+  ],
+  "cn": "一天回到家",
+  "level": 2,
+  "video": "media/st/e44/s15.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s16",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "and your friend says to you",
+  "lines": [
+   "and your friend says to you"
+  ],
+  "vocab": [
+   "friend",
+   "says"
+  ],
+  "cn": "你的朋友对你说",
+  "level": 2,
+  "video": "media/st/e44/s16.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s17",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "you look knackered, mate",
+  "lines": [
+   "you look knackered, mate"
+  ],
+  "vocab": [
+   "knackered",
+   "mate"
+  ],
+  "cn": "哥们儿，你看起来累坏了",
+  "level": 2,
+  "video": "media/st/e44/s17.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s18",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "let me put the kettle on",
+  "lines": [
+   "let me put the kettle on"
+  ],
+  "vocab": [
+   "kettle"
+  ],
+  "cn": "让我去烧壶水",
+  "level": 2,
+  "video": "media/st/e44/s18.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s19",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "It's a simple phrase",
+  "lines": [
+   "It's a simple phrase"
+  ],
+  "vocab": [
+   "s",
+   "simple",
+   "phrase"
+  ],
+  "cn": "这是一个简单的短语",
+  "level": 2,
+  "video": "media/st/e44/s19.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s20",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "but it carries a lot of warmth",
+  "lines": [
+   "but it carries a lot of warmth"
+  ],
+  "vocab": [
+   "carries",
+   "lot",
+   "warmth"
+  ],
+  "cn": "但在英式英语中",
+  "level": 2,
+  "video": "media/st/e44/s20.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s21",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "and meaning in British English",
+  "lines": [
+   "and meaning in British English"
+  ],
+  "vocab": [
+   "meaning",
+   "british",
+   "english"
+  ],
+  "cn": "它承载了很多温暖和含义",
+  "level": 2,
+  "video": "media/st/e44/s21.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s22",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "So next time you wanna offer support to somebody",
+  "lines": [
+   "So next time you wanna offer support to somebody"
+  ],
+  "vocab": [
+   "next",
+   "time",
+   "offer",
+   "support",
+   "somebody"
+  ],
+  "cn": "所以下次你想表达关心",
+  "level": 2,
+  "video": "media/st/e44/s22.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s23",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "or just enjoy a moment together",
+  "lines": [
+   "or just enjoy a moment together"
+  ],
+  "vocab": [
+   "enjoy",
+   "moment",
+   "together"
+  ],
+  "cn": "或者想一起享受片刻时光",
+  "level": 2,
+  "video": "media/st/e44/s23.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s24",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "remember to put the kettle on",
+  "lines": [
+   "remember to put the kettle on"
+  ],
+  "vocab": [
+   "remember",
+   "kettle"
+  ],
+  "cn": "记得去烧壶水吧",
+  "level": 2,
+  "video": "media/st/e44/s24.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s25",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "At number two, we have",
+  "lines": [
+   "At number two, we have"
+  ],
+  "vocab": [
+   "number"
+  ],
+  "cn": "第二个，我们有",
+  "level": 2,
+  "video": "media/st/e44/s25.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s26",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "it's not my cup of tea",
+  "lines": [
+   "it's not my cup of tea"
+  ],
+  "vocab": [
+   "s",
+   "cup",
+   "tea"
+  ],
+  "cn": "这不是我那杯茶",
+  "level": 2,
+  "video": "media/st/e44/s26.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s27",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "It's not my cup of tea",
+  "lines": [
+   "It's not my cup of tea"
+  ],
+  "vocab": [
+   "s",
+   "cup",
+   "tea"
+  ],
+  "cn": "这不是我那杯茶",
+  "level": 2,
+  "video": "media/st/e44/s27.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s28",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "simply means something that you don't like that much",
+  "lines": [
+   "simply means something that you don't like that much"
+  ],
+  "vocab": [
+   "simply",
+   "means",
+   "something",
+   "don",
+   "t"
+  ],
+  "cn": "意思就是你不太喜欢的东西",
+  "level": 2,
+  "video": "media/st/e44/s28.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s29",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "or something that you're not interested in",
+  "lines": [
+   "or something that you're not interested in"
+  ],
+  "vocab": [
+   "something",
+   "re",
+   "interested"
+  ],
+  "cn": "或者你不感兴趣的事情",
+  "level": 2,
+  "video": "media/st/e44/s29.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s30",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "For example, I don't really fancy",
+  "lines": [
+   "For example, I don't really fancy"
+  ],
+  "vocab": [
+   "example",
+   "don",
+   "t",
+   "fancy"
+  ],
+  "cn": "比如说，我今晚不太想去蹦迪",
+  "level": 2,
+  "video": "media/st/e44/s30.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s31",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "clubbing tonight, it's not my cup of tea",
+  "lines": [
+   "clubbing tonight, it's not my cup of tea"
+  ],
+  "vocab": [
+   "clubbing",
+   "tonight",
+   "s",
+   "cup",
+   "tea"
+  ],
+  "cn": "这不是我那杯茶",
+  "level": 2,
+  "video": "media/st/e44/s31.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s32",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "I prefer to go to a bar and drink cocktails",
+  "lines": [
+   "I prefer to go to a bar and drink cocktails"
+  ],
+  "vocab": [
+   "prefer",
+   "bar",
+   "drink",
+   "cocktails"
+  ],
+  "cn": "我更喜欢去酒吧喝鸡尾酒",
+  "level": 2,
+  "video": "media/st/e44/s32.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s33",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "So next time if one of your friends asks",
+  "lines": [
+   "So next time if one of your friends asks"
+  ],
+  "vocab": [
+   "next",
+   "time",
+   "if",
+   "friends",
+   "asks"
+  ],
+  "cn": "所以下次如果你朋友问你",
+  "level": 2,
+  "video": "media/st/e44/s33.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s34",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "if you want to do something",
+  "lines": [
+   "if you want to do something"
+  ],
+  "vocab": [
+   "if",
+   "something"
+  ],
+  "cn": "想不想做某件事",
+  "level": 2,
+  "video": "media/st/e44/s34.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s35",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "and you don't really fancy it",
+  "lines": [
+   "and you don't really fancy it"
+  ],
+  "vocab": [
+   "don",
+   "t",
+   "fancy"
+  ],
+  "cn": "而你不太感兴趣",
+  "level": 2,
+  "video": "media/st/e44/s35.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s36",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "you can say it's not my cup of tea",
+  "lines": [
+   "you can say it's not my cup of tea"
+  ],
+  "vocab": [
+   "s",
+   "cup",
+   "tea"
+  ],
+  "cn": "你可以说这不是我那杯茶",
+  "level": 2,
+  "video": "media/st/e44/s36.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s37",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "At number three, we have",
+  "lines": [
+   "At number three, we have"
+  ],
+  "vocab": [
+   "number"
+  ],
+  "cn": "第三个，我们有",
+  "level": 2,
+  "video": "media/st/e44/s37.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s38",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "I'm a big fan of",
+  "lines": [
+   "I'm a big fan of"
+  ],
+  "vocab": [
+   "m",
+   "fan"
+  ],
+  "cn": "我是……的忠实粉丝",
+  "level": 2,
+  "video": "media/st/e44/s38.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s39",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "I'm a big fan of English",
+  "lines": [
+   "I'm a big fan of English"
+  ],
+  "vocab": [
+   "m",
+   "fan",
+   "english"
+  ],
+  "cn": "我是英语的忠实粉丝",
+  "level": 2,
+  "video": "media/st/e44/s39.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s40",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "This is probably the most British way",
+  "lines": [
+   "This is probably the most British way"
+  ],
+  "vocab": [
+   "probably",
+   "british"
+  ],
+  "cn": "这大概是最英式的方式",
+  "level": 2,
+  "video": "media/st/e44/s40.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s41",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "of saying that you really like something",
+  "lines": [
+   "of saying that you really like something"
+  ],
+  "vocab": [
+   "saying",
+   "something"
+  ],
+  "cn": "来表达你真的很喜欢某样东西",
+  "level": 2,
+  "video": "media/st/e44/s41.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s42",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "you're interested in it, or you're into it",
+  "lines": [
+   "you're interested in it, or you're into it"
+  ],
+  "vocab": [
+   "re",
+   "interested",
+   "re",
+   "into"
+  ],
+  "cn": "你对它感兴趣，或者你很迷它",
+  "level": 2,
+  "video": "media/st/e44/s42.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s43",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "I'm a big fan of it",
+  "lines": [
+   "I'm a big fan of it"
+  ],
+  "vocab": [
+   "m",
+   "fan"
+  ],
+  "cn": "我是它的忠实粉丝",
+  "level": 2,
+  "video": "media/st/e44/s43.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s44",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "For example, I'm a big fan of fiction books",
+  "lines": [
+   "For example, I'm a big fan of fiction books"
+  ],
+  "vocab": [
+   "example",
+   "m",
+   "fan",
+   "fiction",
+   "books"
+  ],
+  "cn": "比如，我是小说书的忠实粉丝",
+  "level": 2,
+  "video": "media/st/e44/s44.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s45",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "I'm also a big fan of music",
+  "lines": [
+   "I'm also a big fan of music"
+  ],
+  "vocab": [
+   "m",
+   "fan",
+   "music"
+  ],
+  "cn": "我也是音乐的忠实粉丝",
+  "level": 2,
+  "video": "media/st/e44/s45.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s46",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "I'm a big fan",
+  "lines": [
+   "I'm a big fan"
+  ],
+  "vocab": [
+   "m",
+   "fan"
+  ],
+  "cn": "我是忠实粉丝",
+  "level": 2,
+  "video": "media/st/e44/s46.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s47",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "Number four, we have bits and bobs",
+  "lines": [
+   "Number four, we have bits and bobs"
+  ],
+  "vocab": [
+   "number",
+   "four",
+   "bits",
+   "bobs"
+  ],
+  "cn": "第四个，我们有零零碎碎",
+  "level": 2,
+  "video": "media/st/e44/s47.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s48",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "Bits and bobs just means",
+  "lines": [
+   "Bits and bobs just means"
+  ],
+  "vocab": [
+   "bits",
+   "bobs",
+   "means"
+  ],
+  "cn": "Bits and bobs 意思就是",
+  "level": 2,
+  "video": "media/st/e44/s48.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s49",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "a mix of random items or small things",
+  "lines": [
+   "a mix of random items or small things"
+  ],
+  "vocab": [
+   "mix",
+   "random",
+   "items"
+  ],
+  "cn": "各种随机物件或小东西的组合",
+  "level": 2,
+  "video": "media/st/e44/s49.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s50",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "For example, grandma",
+  "lines": [
+   "For example, grandma"
+  ],
+  "vocab": [
+   "example",
+   "grandma"
+  ],
+  "cn": "比如说，奶奶",
+  "level": 2,
+  "video": "media/st/e44/s50.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s51",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "I'm just nipping to the shop",
+  "lines": [
+   "I'm just nipping to the shop"
+  ],
+  "vocab": [
+   "m",
+   "nipping",
+   "shop"
+  ],
+  "cn": "我去趟商店",
+  "level": 2,
+  "video": "media/st/e44/s51.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s52",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "to get some bits and bobs",
+  "lines": [
+   "to get some bits and bobs"
+  ],
+  "vocab": [
+   "bits",
+   "bobs"
+  ],
+  "cn": "买点零碎的东西",
+  "level": 2,
+  "video": "media/st/e44/s52.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s53",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "do you want anything",
+  "lines": [
+   "do you want anything"
+  ],
+  "vocab": [
+   "anything"
+  ],
+  "cn": "你要什么吗",
+  "level": 2,
+  "video": "media/st/e44/s53.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s54",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "All right, see you later",
+  "lines": [
+   "All right, see you later"
+  ],
+  "vocab": [
+   "later"
+  ],
+  "cn": "好的，回头见",
+  "level": 2,
+  "video": "media/st/e44/s54.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s55",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "Or you could say",
+  "lines": [
+   "Or you could say"
+  ],
+  "vocab": [],
+  "cn": "或者你可以说",
+  "level": 2,
+  "video": "media/st/e44/s55.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s56",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "my coffee table is full of bits and bobs",
+  "lines": [
+   "my coffee table is full of bits and bobs"
+  ],
+  "vocab": [
+   "coffee",
+   "table",
+   "full",
+   "bits",
+   "bobs"
+  ],
+  "cn": "我的茶几上全是零碎东西",
+  "level": 2,
+  "video": "media/st/e44/s56.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s57",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "A tripod, a pair of chopsticks",
+  "lines": [
+   "A tripod, a pair of chopsticks"
+  ],
+  "vocab": [
+   "tripod",
+   "pair",
+   "chopsticks"
+  ],
+  "cn": "一个三脚架、一双筷子、",
+  "level": 2,
+  "video": "media/st/e44/s57.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s58",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "a pine cone, a pair of glasses",
+  "lines": [
+   "a pine cone, a pair of glasses"
+  ],
+  "vocab": [
+   "pine",
+   "cone",
+   "pair",
+   "glasses"
+  ],
+  "cn": "一个松果、一副眼镜、",
+  "level": 2,
+  "video": "media/st/e44/s58.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s59",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "and a Vietnam hat",
+  "lines": [
+   "and a Vietnam hat"
+  ],
+  "vocab": [
+   "vietnam",
+   "hat"
+  ],
+  "cn": "还有一顶越南帽",
+  "level": 2,
+  "video": "media/st/e44/s59.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s60",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "Bits and bobs is a classic phrase",
+  "lines": [
+   "Bits and bobs is a classic phrase"
+  ],
+  "vocab": [
+   "bits",
+   "bobs",
+   "classic",
+   "phrase"
+  ],
+  "cn": "Bits and bobs 是一个经典短语",
+  "level": 2,
+  "video": "media/st/e44/s60.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s61",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "you'll hear in everyday British English",
+  "lines": [
+   "you'll hear in everyday British English"
+  ],
+  "vocab": [
+   "ll",
+   "hear",
+   "everyday",
+   "british",
+   "english"
+  ],
+  "cn": "你在日常英式英语中会经常听到",
+  "level": 2,
+  "video": "media/st/e44/s61.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s62",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "especially when someone's talking about something",
+  "lines": [
+   "especially when someone's talking about something"
+  ],
+  "vocab": [
+   "especially",
+   "someone",
+   "s",
+   "talking",
+   "about",
+   "something"
+  ],
+  "cn": "特别是当某人在谈论",
+  "level": 2,
+  "video": "media/st/e44/s62.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s63",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "that they want to organize or buy",
+  "lines": [
+   "that they want to organize or buy"
+  ],
+  "vocab": [
+   "organize",
+   "buy"
+  ],
+  "cn": "他们想整理或购买的东西时",
+  "level": 2,
+  "video": "media/st/e44/s63.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s64",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "Last but not least, we have knackered",
+  "lines": [
+   "Last but not least, we have knackered"
+  ],
+  "vocab": [
+   "last",
+   "least",
+   "knackered"
+  ],
+  "cn": "最后但同样重要的，我们有累瘫了",
+  "level": 2,
+  "video": "media/st/e44/s64.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s65",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "This is the most British way",
+  "lines": [
+   "This is the most British way"
+  ],
+  "vocab": [
+   "british"
+  ],
+  "cn": "这是最英式的方式",
+  "level": 2,
+  "video": "media/st/e44/s65.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s66",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "of saying you're really tired",
+  "lines": [
+   "of saying you're really tired"
+  ],
+  "vocab": [
+   "saying",
+   "re",
+   "tired"
+  ],
+  "cn": "来表达你真的很累",
+  "level": 2,
+  "video": "media/st/e44/s66.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s67",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "Imagine you've just been out",
+  "lines": [
+   "Imagine you've just been out"
+  ],
+  "vocab": [
+   "imagine",
+   "ve"
+  ],
+  "cn": "想象一下你刚和朋友",
+  "level": 2,
+  "video": "media/st/e44/s67.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s68",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "with friends all day",
+  "lines": [
+   "with friends all day"
+  ],
+  "vocab": [
+   "friends"
+  ],
+  "cn": "出去了一整天",
+  "level": 2,
+  "video": "media/st/e44/s68.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s69",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "or you've been at work",
+  "lines": [
+   "or you've been at work"
+  ],
+  "vocab": [
+   "ve"
+  ],
+  "cn": "或者你一直在上班",
+  "level": 2,
+  "video": "media/st/e44/s69.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s70",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "and you come home and you're worn out",
+  "lines": [
+   "and you come home and you're worn out"
+  ],
+  "vocab": [
+   "home",
+   "re",
+   "worn"
+  ],
+  "cn": "然后你回到家筋疲力尽",
+  "level": 2,
+  "video": "media/st/e44/s70.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e44-s71",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e44",
+  "unitTitle": "E44 5个必备的英国自然对话短语",
+  "title": "You'd say, I'm absolutely knackered",
+  "lines": [
+   "You'd say, I'm absolutely knackered"
+  ],
+  "vocab": [
+   "d",
+   "m",
+   "absolutely",
+   "knackered"
+  ],
+  "cn": "你会说，我真的累瘫了",
+  "level": 2,
+  "video": "media/st/e44/s71.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s01",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Can you guys guess where I'm at today",
+  "lines": [
+   "Can you guys guess where I'm at today"
+  ],
+  "vocab": [
+   "guys",
+   "guess",
+   "m"
+  ],
+  "cn": "你们能猜到我今天在哪吗",
+  "level": 2,
+  "video": "media/st/e45/s01.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s02",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Today I am at Starbucks",
+  "lines": [
+   "Today I am at Starbucks"
+  ],
+  "vocab": [
+   "starbucks"
+  ],
+  "cn": "今天我在星巴克",
+  "level": 2,
+  "video": "media/st/e45/s02.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s03",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "and as you can see behind me",
+  "lines": [
+   "and as you can see behind me"
+  ],
+  "vocab": [
+   "as",
+   "behind"
+  ],
+  "cn": "正如你们在我身后看到的",
+  "level": 2,
+  "video": "media/st/e45/s03.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s04",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "you can see the beautiful Starbucks logo that they have",
+  "lines": [
+   "you can see the beautiful Starbucks logo that they have"
+  ],
+  "vocab": [
+   "beautiful",
+   "starbucks",
+   "logo"
+  ],
+  "cn": "你们能看到他们漂亮的星巴克标志",
+  "level": 2,
+  "video": "media/st/e45/s04.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s05",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "And this logo is famous worldwide",
+  "lines": [
+   "And this logo is famous worldwide"
+  ],
+  "vocab": [
+   "logo",
+   "famous",
+   "worldwide"
+  ],
+  "cn": "这个标志在全世界都很有名",
+  "level": 2,
+  "video": "media/st/e45/s05.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s06",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "You all might be wondering, Adrianita",
+  "lines": [
+   "You all might be wondering, Adrianita"
+  ],
+  "vocab": [
+   "wondering",
+   "adrianita"
+  ],
+  "cn": "你们可能在想，Adrianita",
+  "level": 2,
+  "video": "media/st/e45/s06.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s07",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "why are you at Starbucks",
+  "lines": [
+   "why are you at Starbucks"
+  ],
+  "vocab": [
+   "starbucks"
+  ],
+  "cn": "你为什么在星巴克",
+  "level": 2,
+  "video": "media/st/e45/s07.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s08",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Well today I'm at Starbucks because",
+  "lines": [
+   "Well today I'm at Starbucks because"
+  ],
+  "vocab": [
+   "m",
+   "starbucks",
+   "because"
+  ],
+  "cn": "今天我在星巴克是因为",
+  "level": 2,
+  "video": "media/st/e45/s08.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s09",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "I want to teach you guys some coffee vocabulary",
+  "lines": [
+   "I want to teach you guys some coffee vocabulary"
+  ],
+  "vocab": [
+   "teach",
+   "guys",
+   "coffee",
+   "vocabulary"
+  ],
+  "cn": "我想教你们一些咖啡相关的词汇",
+  "level": 2,
+  "video": "media/st/e45/s09.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s10",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "And you guys might be wondering",
+  "lines": [
+   "And you guys might be wondering"
+  ],
+  "vocab": [
+   "guys",
+   "wondering"
+  ],
+  "cn": "你们可能会想",
+  "level": 2,
+  "video": "media/st/e45/s10.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s11",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "wait, it's really easy to order coffee",
+  "lines": [
+   "wait, it's really easy to order coffee"
+  ],
+  "vocab": [
+   "wait",
+   "s",
+   "easy",
+   "order",
+   "coffee"
+  ],
+  "cn": "等等，点咖啡不是很简单吗",
+  "level": 2,
+  "video": "media/st/e45/s11.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s12",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Actually it can be pretty difficult",
+  "lines": [
+   "Actually it can be pretty difficult"
+  ],
+  "vocab": [
+   "actually",
+   "pretty",
+   "difficult"
+  ],
+  "cn": "其实点咖啡可能挺难的",
+  "level": 2,
+  "video": "media/st/e45/s12.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s13",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "especially at Starbucks",
+  "lines": [
+   "especially at Starbucks"
+  ],
+  "vocab": [
+   "especially",
+   "starbucks"
+  ],
+  "cn": "尤其是在星巴克",
+  "level": 2,
+  "video": "media/st/e45/s13.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s14",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "because they have different sizes",
+  "lines": [
+   "because they have different sizes"
+  ],
+  "vocab": [
+   "because",
+   "different",
+   "sizes"
+  ],
+  "cn": "因为他们有不同的杯型",
+  "level": 2,
+  "video": "media/st/e45/s14.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s15",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "different coffee and different drinks altogether",
+  "lines": [
+   "different coffee and different drinks altogether"
+  ],
+  "vocab": [
+   "different",
+   "coffee",
+   "different",
+   "drinks",
+   "altogether"
+  ],
+  "cn": "不同的咖啡和完全不同的饮品",
+  "level": 2,
+  "video": "media/st/e45/s15.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s16",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "So come along with me and let's go learn",
+  "lines": [
+   "So come along with me and let's go learn"
+  ],
+  "vocab": [
+   "along",
+   "s",
+   "learn"
+  ],
+  "cn": "所以跟我一起来学习",
+  "level": 2,
+  "video": "media/st/e45/s16.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s17",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "some English vocab inside Starbucks",
+  "lines": [
+   "some English vocab inside Starbucks"
+  ],
+  "vocab": [
+   "english",
+   "vocab",
+   "inside",
+   "starbucks"
+  ],
+  "cn": "一些星巴克里的英语词汇吧",
+  "level": 2,
+  "video": "media/st/e45/s17.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s18",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Before walking inside this Starbucks store",
+  "lines": [
+   "Before walking inside this Starbucks store"
+  ],
+  "vocab": [
+   "before",
+   "walking",
+   "inside",
+   "starbucks",
+   "store"
+  ],
+  "cn": "在走进这家星巴克之前",
+  "level": 2,
+  "video": "media/st/e45/s18.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s19",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "I want to teach you guys some facts about Starbucks",
+  "lines": [
+   "I want to teach you guys some facts about Starbucks"
+  ],
+  "vocab": [
+   "teach",
+   "guys",
+   "facts",
+   "about",
+   "starbucks"
+  ],
+  "cn": "我想告诉你们一些关于星巴克的事实",
+  "level": 2,
+  "video": "media/st/e45/s19.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s20",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "The first original Starbucks opened in nineteen seventy-one",
+  "lines": [
+   "The first original Starbucks opened in nineteen seventy-one"
+  ],
+  "vocab": [
+   "first",
+   "original",
+   "starbucks",
+   "opened",
+   "nineteen",
+   "seventy"
+  ],
+  "cn": "第一家星巴克于一九七一年开业",
+  "level": 2,
+  "video": "media/st/e45/s20.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s21",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "in Seattle, Washington",
+  "lines": [
+   "in Seattle, Washington"
+  ],
+  "vocab": [
+   "seattle",
+   "washington"
+  ],
+  "cn": "地点在华盛顿州西雅图",
+  "level": 2,
+  "video": "media/st/e45/s21.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s22",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "And there are over thirty-three thousand eight hundred thirty-three stores worldwide",
+  "lines": [
+   "And there are over thirty-three thousand eight hundred thirty-three stores worldwide"
+  ],
+  "vocab": [
+   "over",
+   "thirty",
+   "thousand",
+   "eight",
+   "hundred",
+   "thirty",
+   "stores",
+   "worldwide"
+  ],
+  "cn": "全球有超过三万三千八百三十三家门店",
+  "level": 2,
+  "video": "media/st/e45/s22.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s23",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Fifteen thousand of those stores are located",
+  "lines": [
+   "Fifteen thousand of those stores are located"
+  ],
+  "vocab": [
+   "fifteen",
+   "thousand",
+   "stores",
+   "located"
+  ],
+  "cn": "其中一万五千家门店位于",
+  "level": 2,
+  "video": "media/st/e45/s23.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s24",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "right in the United States of America",
+  "lines": [
+   "right in the United States of America"
+  ],
+  "vocab": [
+   "united",
+   "states",
+   "america"
+  ],
+  "cn": "美利坚合众国境内",
+  "level": 2,
+  "video": "media/st/e45/s24.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s25",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "I have a question for you all",
+  "lines": [
+   "I have a question for you all"
+  ],
+  "vocab": [
+   "question"
+  ],
+  "cn": "我有一个问题想问你们",
+  "level": 2,
+  "video": "media/st/e45/s25.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s26",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Do you guys have Starbucks in your city or country",
+  "lines": [
+   "Do you guys have Starbucks in your city or country"
+  ],
+  "vocab": [
+   "guys",
+   "starbucks",
+   "city",
+   "country"
+  ],
+  "cn": "你们的城市或国家有星巴克吗",
+  "level": 2,
+  "video": "media/st/e45/s26.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s27",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Let me know down below",
+  "lines": [
+   "Let me know down below"
+  ],
+  "vocab": [
+   "below"
+  ],
+  "cn": "在下方评论告诉我吧",
+  "level": 2,
+  "video": "media/st/e45/s27.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s28",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Before walking inside the Starbucks store",
+  "lines": [
+   "Before walking inside the Starbucks store"
+  ],
+  "vocab": [
+   "before",
+   "walking",
+   "inside",
+   "starbucks",
+   "store"
+  ],
+  "cn": "在走进星巴克点一杯咖啡之前",
+  "level": 2,
+  "video": "media/st/e45/s28.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s29",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "and ordering a cup of coffee",
+  "lines": [
+   "and ordering a cup of coffee"
+  ],
+  "vocab": [
+   "ordering",
+   "cup",
+   "coffee"
+  ],
+  "cn": "点一杯咖啡之前，",
+  "level": 2,
+  "video": "media/st/e45/s29.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s30",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "I need to teach you guys one thing",
+  "lines": [
+   "I need to teach you guys one thing"
+  ],
+  "vocab": [
+   "teach",
+   "guys"
+  ],
+  "cn": "我需要先教你们一样东西",
+  "level": 2,
+  "video": "media/st/e45/s30.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s31",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "The first thing is a coffee bean",
+  "lines": [
+   "The first thing is a coffee bean"
+  ],
+  "vocab": [
+   "first",
+   "coffee",
+   "bean"
+  ],
+  "cn": "第一个是咖啡豆",
+  "level": 2,
+  "video": "media/st/e45/s31.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s32",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "What is a coffee bean",
+  "lines": [
+   "What is a coffee bean"
+  ],
+  "vocab": [
+   "coffee",
+   "bean"
+  ],
+  "cn": "什么是咖啡豆",
+  "level": 2,
+  "video": "media/st/e45/s32.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s33",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "A coffee bean is a seed from a coffee plant",
+  "lines": [
+   "A coffee bean is a seed from a coffee plant"
+  ],
+  "vocab": [
+   "coffee",
+   "bean",
+   "seed",
+   "coffee",
+   "plant"
+  ],
+  "cn": "咖啡豆是咖啡树的种子",
+  "level": 2,
+  "video": "media/st/e45/s33.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s34",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "And where do you find coffee plants",
+  "lines": [
+   "And where do you find coffee plants"
+  ],
+  "vocab": [
+   "find",
+   "coffee",
+   "plants"
+  ],
+  "cn": "那在哪里能找到咖啡树呢",
+  "level": 2,
+  "video": "media/st/e45/s34.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s35",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Coffee plants are most common in Venezuela",
+  "lines": [
+   "Coffee plants are most common in Venezuela"
+  ],
+  "vocab": [
+   "coffee",
+   "plants",
+   "common",
+   "venezuela"
+  ],
+  "cn": "咖啡树最常见于委内瑞拉、",
+  "level": 2,
+  "video": "media/st/e45/s35.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s36",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Colombia, Guatemala",
+  "lines": [
+   "Colombia, Guatemala"
+  ],
+  "vocab": [
+   "colombia",
+   "guatemala"
+  ],
+  "cn": "哥伦比亚、危地马拉",
+  "level": 2,
+  "video": "media/st/e45/s36.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s37",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "countries in South America and Central America",
+  "lines": [
+   "countries in South America and Central America"
+  ],
+  "vocab": [
+   "countries",
+   "south",
+   "america",
+   "central",
+   "america"
+  ],
+  "cn": "也就是南美洲和中美洲的国家",
+  "level": 2,
+  "video": "media/st/e45/s37.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s38",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "They are also found in Africa",
+  "lines": [
+   "They are also found in Africa"
+  ],
+  "vocab": [
+   "found",
+   "africa"
+  ],
+  "cn": "非洲也有咖啡树",
+  "level": 2,
+  "video": "media/st/e45/s38.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s39",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Countries like Ethiopia are rich with coffee plants",
+  "lines": [
+   "Countries like Ethiopia are rich with coffee plants"
+  ],
+  "vocab": [
+   "countries",
+   "ethiopia",
+   "rich",
+   "coffee",
+   "plants"
+  ],
+  "cn": "像埃塞俄比亚这样的国家咖啡树资源丰富",
+  "level": 2,
+  "video": "media/st/e45/s39.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s40",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Let's go ahead and walk inside",
+  "lines": [
+   "Let's go ahead and walk inside"
+  ],
+  "vocab": [
+   "s",
+   "ahead",
+   "walk",
+   "inside"
+  ],
+  "cn": "让我们走进去",
+  "level": 2,
+  "video": "media/st/e45/s40.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s41",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "and order a cup of coffee",
+  "lines": [
+   "and order a cup of coffee"
+  ],
+  "vocab": [
+   "order",
+   "cup",
+   "coffee"
+  ],
+  "cn": "点一杯咖啡",
+  "level": 2,
+  "video": "media/st/e45/s41.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s42",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "and learn some English vocab in Starbucks",
+  "lines": [
+   "and learn some English vocab in Starbucks"
+  ],
+  "vocab": [
+   "learn",
+   "english",
+   "vocab",
+   "starbucks"
+  ],
+  "cn": "并在星巴克学一些英语词汇",
+  "level": 2,
+  "video": "media/st/e45/s42.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s43",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "The next important thing about coffee is the roast",
+  "lines": [
+   "The next important thing about coffee is the roast"
+  ],
+  "vocab": [
+   "next",
+   "important",
+   "about",
+   "coffee",
+   "roast"
+  ],
+  "cn": "关于咖啡的下一个重要知识是烘焙",
+  "level": 2,
+  "video": "media/st/e45/s43.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s44",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "So what is a roast",
+  "lines": [
+   "So what is a roast"
+  ],
+  "vocab": [
+   "roast"
+  ],
+  "cn": "那什么是烘焙呢",
+  "level": 2,
+  "video": "media/st/e45/s44.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s45",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "A roast is the process of drying coffee beans",
+  "lines": [
+   "A roast is the process of drying coffee beans"
+  ],
+  "vocab": [
+   "roast",
+   "process",
+   "drying",
+   "coffee",
+   "beans"
+  ],
+  "cn": "烘焙是将咖啡豆烘干的过程",
+  "level": 2,
+  "video": "media/st/e45/s45.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s46",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "for their taste and appearance",
+  "lines": [
+   "for their taste and appearance"
+  ],
+  "vocab": [
+   "taste",
+   "appearance"
+  ],
+  "cn": "以获得特定的口味和外观",
+  "level": 2,
+  "video": "media/st/e45/s46.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s47",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "They have three different types of roast",
+  "lines": [
+   "They have three different types of roast"
+  ],
+  "vocab": [
+   "different",
+   "types",
+   "roast"
+  ],
+  "cn": "他们有三种不同类型的烘焙",
+  "level": 2,
+  "video": "media/st/e45/s47.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s48",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "They have a light roast",
+  "lines": [
+   "They have a light roast"
+  ],
+  "vocab": [
+   "light",
+   "roast"
+  ],
+  "cn": "有浅烘焙、",
+  "level": 2,
+  "video": "media/st/e45/s48.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s49",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "a medium roast, and a dark roast",
+  "lines": [
+   "a medium roast, and a dark roast"
+  ],
+  "vocab": [
+   "medium",
+   "roast",
+   "dark",
+   "roast"
+  ],
+  "cn": "中烘焙和深烘焙",
+  "level": 2,
+  "video": "media/st/e45/s49.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s50",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "And the nice thing about these roast is",
+  "lines": [
+   "And the nice thing about these roast is"
+  ],
+  "vocab": [
+   "about",
+   "roast"
+  ],
+  "cn": "这些烘焙咖啡的好处是",
+  "level": 2,
+  "video": "media/st/e45/s50.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s51",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "on the back of this package",
+  "lines": [
+   "on the back of this package"
+  ],
+  "vocab": [
+   "back",
+   "package"
+  ],
+  "cn": "在包装的背面",
+  "level": 2,
+  "video": "media/st/e45/s51.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s52",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "you can actually scan this barcode",
+  "lines": [
+   "you can actually scan this barcode"
+  ],
+  "vocab": [
+   "actually",
+   "scan",
+   "barcode"
+  ],
+  "cn": "你可以扫描这个条形码",
+  "level": 2,
+  "video": "media/st/e45/s52.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s53",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "and you can check out where your coffee beans are from",
+  "lines": [
+   "and you can check out where your coffee beans are from"
+  ],
+  "vocab": [
+   "check",
+   "coffee",
+   "beans"
+  ],
+  "cn": "然后查看你的咖啡豆产自哪里",
+  "level": 2,
+  "video": "media/st/e45/s53.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s54",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Right now I will scan this bag",
+  "lines": [
+   "Right now I will scan this bag"
+  ],
+  "vocab": [
+   "scan",
+   "bag"
+  ],
+  "cn": "现在我来扫描这袋咖啡",
+  "level": 2,
+  "video": "media/st/e45/s54.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s55",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "and I will trace where my coffee is from",
+  "lines": [
+   "and I will trace where my coffee is from"
+  ],
+  "vocab": [
+   "trace",
+   "coffee"
+  ],
+  "cn": "追溯一下我的咖啡来自哪里",
+  "level": 2,
+  "video": "media/st/e45/s55.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s56",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "I am scanning the code on the back of the package",
+  "lines": [
+   "I am scanning the code on the back of the package"
+  ],
+  "vocab": [
+   "scanning",
+   "code",
+   "back",
+   "package"
+  ],
+  "cn": "我正在扫描包装背面的二维码",
+  "level": 2,
+  "video": "media/st/e45/s56.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s57",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Anna says that this batch of",
+  "lines": [
+   "Anna says that this batch of"
+  ],
+  "vocab": [
+   "anna",
+   "says",
+   "batch"
+  ],
+  "cn": "它显示这批",
+  "level": 2,
+  "video": "media/st/e45/s57.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s58",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Starbucks Blonde Espresso Roast",
+  "lines": [
+   "Starbucks Blonde Espresso Roast"
+  ],
+  "vocab": [
+   "starbucks",
+   "blonde",
+   "espresso",
+   "roast"
+  ],
+  "cn": "星巴克金色浓缩烘焙咖啡",
+  "level": 2,
+  "video": "media/st/e45/s58.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s59",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "is from Honduras, Kenya, and Guatemala",
+  "lines": [
+   "is from Honduras, Kenya, and Guatemala"
+  ],
+  "vocab": [
+   "honduras",
+   "kenya",
+   "guatemala"
+  ],
+  "cn": "产自洪都拉斯、肯尼亚和危地马拉",
+  "level": 2,
+  "video": "media/st/e45/s59.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s60",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Now that you guys know what a coffee bean is",
+  "lines": [
+   "Now that you guys know what a coffee bean is"
+  ],
+  "vocab": [
+   "guys",
+   "coffee",
+   "bean"
+  ],
+  "cn": "现在你们知道了什么是咖啡豆",
+  "level": 2,
+  "video": "media/st/e45/s60.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s61",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "what a roast is",
+  "lines": [
+   "what a roast is"
+  ],
+  "vocab": [
+   "roast"
+  ],
+  "cn": "什么是烘焙",
+  "level": 2,
+  "video": "media/st/e45/s61.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s62",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "let's jump to the most exciting part",
+  "lines": [
+   "let's jump to the most exciting part"
+  ],
+  "vocab": [
+   "s",
+   "jump",
+   "exciting",
+   "part"
+  ],
+  "cn": "让我们跳到最令人兴奋的部分",
+  "level": 2,
+  "video": "media/st/e45/s62.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s63",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "the different types of coffee",
+  "lines": [
+   "the different types of coffee"
+  ],
+  "vocab": [
+   "different",
+   "types",
+   "coffee"
+  ],
+  "cn": "不同类型的咖啡",
+  "level": 2,
+  "video": "media/st/e45/s63.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s64",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "There are two types of coffee",
+  "lines": [
+   "There are two types of coffee"
+  ],
+  "vocab": [
+   "types",
+   "coffee"
+  ],
+  "cn": "咖啡有两种类型",
+  "level": 2,
+  "video": "media/st/e45/s64.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s65",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "There is hot coffee and cold coffee",
+  "lines": [
+   "There is hot coffee and cold coffee"
+  ],
+  "vocab": [
+   "hot",
+   "coffee",
+   "cold",
+   "coffee"
+  ],
+  "cn": "有热咖啡和冷咖啡",
+  "level": 2,
+  "video": "media/st/e45/s65.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s66",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Let's learn some of the different types",
+  "lines": [
+   "Let's learn some of the different types"
+  ],
+  "vocab": [
+   "s",
+   "learn",
+   "different",
+   "types"
+  ],
+  "cn": "让我们跟着你们的母语英语老师",
+  "level": 2,
+  "video": "media/st/e45/s66.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s67",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "of hot and cold coffees",
+  "lines": [
+   "of hot and cold coffees"
+  ],
+  "vocab": [
+   "hot",
+   "cold",
+   "coffees"
+  ],
+  "cn": "来学习一些不同类型的",
+  "level": 2,
+  "video": "media/st/e45/s67.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s68",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "with your native English teacher",
+  "lines": [
+   "with your native English teacher"
+  ],
+  "vocab": [
+   "native",
+   "english",
+   "teacher"
+  ],
+  "cn": "热咖啡和冷咖啡吧",
+  "level": 2,
+  "video": "media/st/e45/s68.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s69",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Adrianita La Gringa",
+  "lines": [
+   "Adrianita La Gringa"
+  ],
+  "vocab": [
+   "adrianita",
+   "la",
+   "gringa"
+  ],
+  "cn": "Adrianita La Gringa",
+  "level": 2,
+  "video": "media/st/e45/s69.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s70",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Here are some hot coffees",
+  "lines": [
+   "Here are some hot coffees"
+  ],
+  "vocab": [
+   "hot",
+   "coffees"
+  ],
+  "cn": "这里是一些热咖啡",
+  "level": 2,
+  "video": "media/st/e45/s70.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s71",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Americano. An Americano is two shots of espresso",
+  "lines": [
+   "Americano. An Americano is two shots of espresso"
+  ],
+  "vocab": [
+   "americano",
+   "americano",
+   "shots",
+   "espresso"
+  ],
+  "cn": "美式咖啡。美式是两份浓缩咖啡",
+  "level": 2,
+  "video": "media/st/e45/s71.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s72",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "with hot water",
+  "lines": [
+   "with hot water"
+  ],
+  "vocab": [
+   "hot",
+   "water"
+  ],
+  "cn": "加热水",
+  "level": 2,
+  "video": "media/st/e45/s72.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s73",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Macchiato. A macchiato is a shot of espresso",
+  "lines": [
+   "Macchiato. A macchiato is a shot of espresso"
+  ],
+  "vocab": [
+   "macchiato",
+   "macchiato",
+   "shot",
+   "espresso"
+  ],
+  "cn": "玛奇朵。玛奇朵是一份浓缩咖啡",
+  "level": 2,
+  "video": "media/st/e45/s73.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s74",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "with a little bit of foam milk",
+  "lines": [
+   "with a little bit of foam milk"
+  ],
+  "vocab": [
+   "little",
+   "bit",
+   "foam",
+   "milk"
+  ],
+  "cn": "加一点点奶泡",
+  "level": 2,
+  "video": "media/st/e45/s74.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s75",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Latte. A latte is espresso, steamed milk",
+  "lines": [
+   "Latte. A latte is espresso, steamed milk"
+  ],
+  "vocab": [
+   "latte",
+   "latte",
+   "espresso",
+   "steamed",
+   "milk"
+  ],
+  "cn": "拿铁。拿铁是浓缩咖啡、蒸汽牛奶",
+  "level": 2,
+  "video": "media/st/e45/s75.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s76",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "which is basically hot milk",
+  "lines": [
+   "which is basically hot milk"
+  ],
+  "vocab": [
+   "which",
+   "basically",
+   "hot",
+   "milk"
+  ],
+  "cn": "也就是加热的牛奶",
+  "level": 2,
+  "video": "media/st/e45/s76.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s77",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "and a little bit of foam milk on top",
+  "lines": [
+   "and a little bit of foam milk on top"
+  ],
+  "vocab": [
+   "little",
+   "bit",
+   "foam",
+   "milk",
+   "top"
+  ],
+  "cn": "上面再加一点奶泡",
+  "level": 2,
+  "video": "media/st/e45/s77.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s78",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Cappuccino. A cappuccino is similar to a latte",
+  "lines": [
+   "Cappuccino. A cappuccino is similar to a latte"
+  ],
+  "vocab": [
+   "cappuccino",
+   "cappuccino",
+   "similar",
+   "latte"
+  ],
+  "cn": "卡布奇诺。卡布奇诺和拿铁类似",
+  "level": 2,
+  "video": "media/st/e45/s78.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s79",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "It has espresso and steamed milk",
+  "lines": [
+   "It has espresso and steamed milk"
+  ],
+  "vocab": [
+   "espresso",
+   "steamed",
+   "milk"
+  ],
+  "cn": "它有浓缩咖啡和蒸汽牛奶",
+  "level": 2,
+  "video": "media/st/e45/s79.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s80",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "but it has a lot more foam milk compared to a latte",
+  "lines": [
+   "but it has a lot more foam milk compared to a latte"
+  ],
+  "vocab": [
+   "lot",
+   "foam",
+   "milk",
+   "compared",
+   "latte"
+  ],
+  "cn": "但比拿铁有更多的奶泡",
+  "level": 2,
+  "video": "media/st/e45/s80.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s81",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Mocha. A mocha is a combination of espresso",
+  "lines": [
+   "Mocha. A mocha is a combination of espresso"
+  ],
+  "vocab": [
+   "mocha",
+   "mocha",
+   "combination",
+   "espresso"
+  ],
+  "cn": "摩卡。摩卡是浓缩咖啡、",
+  "level": 2,
+  "video": "media/st/e45/s81.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s82",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "chocolate, and steamed milk",
+  "lines": [
+   "chocolate, and steamed milk"
+  ],
+  "vocab": [
+   "chocolate",
+   "steamed",
+   "milk"
+  ],
+  "cn": "巧克力和蒸汽牛奶的组合",
+  "level": 2,
+  "video": "media/st/e45/s82.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s83",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "It's a sweet and chocolaty coffee drink",
+  "lines": [
+   "It's a sweet and chocolaty coffee drink"
+  ],
+  "vocab": [
+   "s",
+   "sweet",
+   "chocolaty",
+   "coffee",
+   "drink"
+  ],
+  "cn": "它是一种甜的巧克力味咖啡饮品",
+  "level": 2,
+  "video": "media/st/e45/s83.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s84",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Cold coffee drinks can be served over ice",
+  "lines": [
+   "Cold coffee drinks can be served over ice"
+  ],
+  "vocab": [
+   "cold",
+   "coffee",
+   "drinks",
+   "served",
+   "over",
+   "ice"
+  ],
+  "cn": "冷咖啡饮品可以加冰饮用",
+  "level": 2,
+  "video": "media/st/e45/s84.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s85",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "An iced Americano, iced mocha, and iced latte",
+  "lines": [
+   "An iced Americano, iced mocha, and iced latte"
+  ],
+  "vocab": [
+   "iced",
+   "americano",
+   "iced",
+   "mocha",
+   "iced",
+   "latte"
+  ],
+  "cn": "冰美式、冰摩卡和冰拿铁",
+  "level": 2,
+  "video": "media/st/e45/s85.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s86",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "are cold variations of the hot coffees",
+  "lines": [
+   "are cold variations of the hot coffees"
+  ],
+  "vocab": [
+   "cold",
+   "variations",
+   "hot",
+   "coffees"
+  ],
+  "cn": "是热咖啡的冷饮版本",
+  "level": 2,
+  "video": "media/st/e45/s86.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s87",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Frappuccino. A Frappuccino is a coffee drink",
+  "lines": [
+   "Frappuccino. A Frappuccino is a coffee drink"
+  ],
+  "vocab": [
+   "frappuccino",
+   "frappuccino",
+   "coffee",
+   "drink"
+  ],
+  "cn": "星冰乐。星冰乐是一种咖啡饮品",
+  "level": 2,
+  "video": "media/st/e45/s87.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s88",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "made with ice, milk, coffee",
+  "lines": [
+   "made with ice, milk, coffee"
+  ],
+  "vocab": [
+   "made",
+   "ice",
+   "milk",
+   "coffee"
+  ],
+  "cn": "由冰、牛奶、咖啡",
+  "level": 2,
+  "video": "media/st/e45/s88.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s89",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "and various flavors like chocolate, caramel, or fruit",
+  "lines": [
+   "and various flavors like chocolate, caramel, or fruit"
+  ],
+  "vocab": [
+   "various",
+   "flavors",
+   "chocolate",
+   "caramel",
+   "fruit"
+  ],
+  "cn": "和各种口味如巧克力、焦糖或水果制成",
+  "level": 2,
+  "video": "media/st/e45/s89.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s90",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "It's mixed in a blender",
+  "lines": [
+   "It's mixed in a blender"
+  ],
+  "vocab": [
+   "s",
+   "mixed",
+   "blender"
+  ],
+  "cn": "它是用搅拌机混合制成的",
+  "level": 2,
+  "video": "media/st/e45/s90.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s91",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "After learning about the different types of coffee",
+  "lines": [
+   "After learning about the different types of coffee"
+  ],
+  "vocab": [
+   "after",
+   "learning",
+   "about",
+   "different",
+   "types",
+   "coffee"
+  ],
+  "cn": "在了解了不同类型的咖啡之后",
+  "level": 2,
+  "video": "media/st/e45/s91.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s92",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "I am going to choose and order",
+  "lines": [
+   "I am going to choose and order"
+  ],
+  "vocab": [
+   "going",
+   "choose",
+   "order"
+  ],
+  "cn": "我将在柜台选择并点",
+  "level": 2,
+  "video": "media/st/e45/s92.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s93",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "a hot cup of coffee at the counter",
+  "lines": [
+   "a hot cup of coffee at the counter"
+  ],
+  "vocab": [
+   "hot",
+   "cup",
+   "coffee",
+   "counter"
+  ],
+  "cn": "一杯热咖啡",
+  "level": 2,
+  "video": "media/st/e45/s93.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s94",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Before ordering, there are two types of coffee",
+  "lines": [
+   "Before ordering, there are two types of coffee"
+  ],
+  "vocab": [
+   "before",
+   "ordering",
+   "types",
+   "coffee"
+  ],
+  "cn": "在点单之前，有两种咖啡",
+  "level": 2,
+  "video": "media/st/e45/s94.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s95",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "you can choose from",
+  "lines": [
+   "you can choose from"
+  ],
+  "vocab": [
+   "choose"
+  ],
+  "cn": "可以选择",
+  "level": 2,
+  "video": "media/st/e45/s95.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s96",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "You can choose caffeinated coffee, with caffeine",
+  "lines": [
+   "You can choose caffeinated coffee, with caffeine"
+  ],
+  "vocab": [
+   "choose",
+   "caffeinated",
+   "coffee",
+   "caffeine"
+  ],
+  "cn": "你可以选择含咖啡因的咖啡",
+  "level": 2,
+  "video": "media/st/e45/s96.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s97",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "or you can choose decaffeinated coffee",
+  "lines": [
+   "or you can choose decaffeinated coffee"
+  ],
+  "vocab": [
+   "choose",
+   "decaffeinated",
+   "coffee"
+  ],
+  "cn": "或者你可以选择脱因咖啡",
+  "level": 2,
+  "video": "media/st/e45/s97.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s98",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "It's also called decaf coffee",
+  "lines": [
+   "It's also called decaf coffee"
+  ],
+  "vocab": [
+   "s",
+   "called",
+   "decaf",
+   "coffee"
+  ],
+  "cn": "它也叫 decaf 咖啡",
+  "level": 2,
+  "video": "media/st/e45/s98.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s99",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "because this has no caffeine inside of it",
+  "lines": [
+   "because this has no caffeine inside of it"
+  ],
+  "vocab": [
+   "because",
+   "caffeine",
+   "inside"
+  ],
+  "cn": "因为里面不含咖啡因",
+  "level": 2,
+  "video": "media/st/e45/s99.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s100",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "You can also choose a half caf",
+  "lines": [
+   "You can also choose a half caf"
+  ],
+  "vocab": [
+   "choose",
+   "half",
+   "caf"
+  ],
+  "cn": "你还可以选择半咖",
+  "level": 2,
+  "video": "media/st/e45/s100.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s101",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "which just means there is half caffeine and half decaf",
+  "lines": [
+   "which just means there is half caffeine and half decaf"
+  ],
+  "vocab": [
+   "which",
+   "means",
+   "half",
+   "caffeine",
+   "half",
+   "decaf"
+  ],
+  "cn": "意思就是一半含咖啡因一半脱因",
+  "level": 2,
+  "video": "media/st/e45/s101.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s102",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Half of it is with caffeinated coffee beans",
+  "lines": [
+   "Half of it is with caffeinated coffee beans"
+  ],
+  "vocab": [
+   "half",
+   "caffeinated",
+   "coffee",
+   "beans"
+  ],
+  "cn": "一半用的是含咖啡因的咖啡豆",
+  "level": 2,
+  "video": "media/st/e45/s102.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s103",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "and the other half is with decaffeinated coffee beans",
+  "lines": [
+   "and the other half is with decaffeinated coffee beans"
+  ],
+  "vocab": [
+   "other",
+   "half",
+   "decaffeinated",
+   "coffee",
+   "beans"
+  ],
+  "cn": "另一半用的是脱因咖啡豆",
+  "level": 2,
+  "video": "media/st/e45/s103.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s104",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Before ordering my cup of hot coffee",
+  "lines": [
+   "Before ordering my cup of hot coffee"
+  ],
+  "vocab": [
+   "before",
+   "ordering",
+   "cup",
+   "hot",
+   "coffee"
+  ],
+  "cn": "在点我的热咖啡之前",
+  "level": 2,
+  "video": "media/st/e45/s104.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s105",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "I am going to browse along all of the sweet treats",
+  "lines": [
+   "I am going to browse along all of the sweet treats"
+  ],
+  "vocab": [
+   "going",
+   "browse",
+   "along",
+   "sweet",
+   "treats"
+  ],
+  "cn": "我要浏览一下这家店里",
+  "level": 2,
+  "video": "media/st/e45/s105.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s106",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "that they have inside this store",
+  "lines": [
+   "that they have inside this store"
+  ],
+  "vocab": [
+   "inside",
+   "store"
+  ],
+  "cn": "所有的甜点",
+  "level": 2,
+  "video": "media/st/e45/s106.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s107",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "My favorite type of sweet treat that they have here",
+  "lines": [
+   "My favorite type of sweet treat that they have here"
+  ],
+  "vocab": [
+   "favorite",
+   "type",
+   "sweet",
+   "treat"
+  ],
+  "cn": "我最喜欢的甜点",
+  "level": 2,
+  "video": "media/st/e45/s107.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s108",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "is the banana loaf bread",
+  "lines": [
+   "is the banana loaf bread"
+  ],
+  "vocab": [
+   "banana",
+   "loaf",
+   "bread"
+  ],
+  "cn": "是香蕉面包",
+  "level": 2,
+  "video": "media/st/e45/s108.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s109",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "It costs three dollars and ninety-five cents",
+  "lines": [
+   "It costs three dollars and ninety-five cents"
+  ],
+  "vocab": [
+   "costs",
+   "dollars",
+   "ninety",
+   "five",
+   "cents"
+  ],
+  "cn": "它要三美元九十五美分",
+  "level": 2,
+  "video": "media/st/e45/s109.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s110",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "And they also have some pumpkin loaf breads",
+  "lines": [
+   "And they also have some pumpkin loaf breads"
+  ],
+  "vocab": [
+   "pumpkin",
+   "loaf",
+   "breads"
+  ],
+  "cn": "他们还有南瓜面包、",
+  "level": 2,
+  "video": "media/st/e45/s110.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s111",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "pumpkin cream cheese muffin",
+  "lines": [
+   "pumpkin cream cheese muffin"
+  ],
+  "vocab": [
+   "pumpkin",
+   "cream",
+   "cheese",
+   "muffin"
+  ],
+  "cn": "南瓜奶油芝士玛芬",
+  "level": 2,
+  "video": "media/st/e45/s111.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s112",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "and they have a chocolate chip cookie",
+  "lines": [
+   "and they have a chocolate chip cookie"
+  ],
+  "vocab": [
+   "chocolate",
+   "chip",
+   "cookie"
+  ],
+  "cn": "还有巧克力曲奇饼干",
+  "level": 2,
+  "video": "media/st/e45/s112.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s113",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "This chocolate chip cookie costs two dollars and ninety-five cents",
+  "lines": [
+   "This chocolate chip cookie costs two dollars and ninety-five cents"
+  ],
+  "vocab": [
+   "chocolate",
+   "chip",
+   "cookie",
+   "costs",
+   "dollars",
+   "ninety",
+   "five",
+   "cents"
+  ],
+  "cn": "这块巧克力曲奇要两美元九十五美分",
+  "level": 2,
+  "video": "media/st/e45/s113.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s114",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Now I'm going to order a hot cup of coffee at the counter",
+  "lines": [
+   "Now I'm going to order a hot cup of coffee at the counter"
+  ],
+  "vocab": [
+   "m",
+   "going",
+   "order",
+   "hot",
+   "cup",
+   "coffee",
+   "counter"
+  ],
+  "cn": "现在我要去柜台点一杯热咖啡",
+  "level": 2,
+  "video": "media/st/e45/s114.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s115",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Hi, I'd like a tall white chocolate mocha",
+  "lines": [
+   "Hi, I'd like a tall white chocolate mocha"
+  ],
+  "vocab": [
+   "hi",
+   "d",
+   "tall",
+   "white",
+   "chocolate",
+   "mocha"
+  ],
+  "cn": "你好，我想要一杯中杯白巧克力摩卡",
+  "level": 2,
+  "video": "media/st/e45/s115.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s116",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Okay, you want a hot or iced",
+  "lines": [
+   "Okay, you want a hot or iced"
+  ],
+  "vocab": [
+   "hot",
+   "iced"
+  ],
+  "cn": "好的，你要热的还是冰的",
+  "level": 2,
+  "video": "media/st/e45/s116.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s117",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Hot please",
+  "lines": [
+   "Hot please"
+  ],
+  "vocab": [
+   "hot"
+  ],
+  "cn": "热的，谢谢",
+  "level": 2,
+  "video": "media/st/e45/s117.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s118",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "All right, and then may I have the banana nut bread",
+  "lines": [
+   "All right, and then may I have the banana nut bread"
+  ],
+  "vocab": [
+   "banana",
+   "nut",
+   "bread"
+  ],
+  "cn": "好的，然后我能要一份香蕉坚果面包吗",
+  "level": 2,
+  "video": "media/st/e45/s118.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s119",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Yeah, absolutely. Did you want it warmed up",
+  "lines": [
+   "Yeah, absolutely. Did you want it warmed up"
+  ],
+  "vocab": [
+   "absolutely",
+   "warmed"
+  ],
+  "cn": "当然可以。你要加热吗",
+  "level": 2,
+  "video": "media/st/e45/s119.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s120",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Yes, warmed up please",
+  "lines": [
+   "Yes, warmed up please"
+  ],
+  "vocab": [
+   "warmed"
+  ],
+  "cn": "是的，请加热",
+  "level": 2,
+  "video": "media/st/e45/s120.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s121",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "What's your name for your order",
+  "lines": [
+   "What's your name for your order"
+  ],
+  "vocab": [
+   "s",
+   "name",
+   "order"
+  ],
+  "cn": "请问你点单的名字是",
+  "level": 2,
+  "video": "media/st/e45/s121.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s122",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Ariana",
+  "lines": [
+   "Ariana"
+  ],
+  "vocab": [
+   "ariana"
+  ],
+  "cn": "Ariana",
+  "level": 2,
+  "video": "media/st/e45/s122.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s123",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "All right, it's gonna be nine forty-three. Thank you",
+  "lines": [
+   "All right, it's gonna be nine forty-three. Thank you"
+  ],
+  "vocab": [
+   "s",
+   "nine",
+   "forty"
+  ],
+  "cn": "好的，总共九美元四十三美分。谢谢",
+  "level": 2,
+  "video": "media/st/e45/s123.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s124",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "No problem. You do an Apple Pay",
+  "lines": [
+   "No problem. You do an Apple Pay"
+  ],
+  "vocab": [
+   "problem",
+   "apple",
+   "pay"
+  ],
+  "cn": "没问题。你用 Apple Pay 吗",
+  "level": 2,
+  "video": "media/st/e45/s124.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s125",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Yes",
+  "lines": [
+   "Yes"
+  ],
+  "vocab": [],
+  "cn": "是的",
+  "level": 2,
+  "video": "media/st/e45/s125.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s126",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Should be ready for you on the screen",
+  "lines": [
+   "Should be ready for you on the screen"
+  ],
+  "vocab": [
+   "ready",
+   "screen"
+  ],
+  "cn": "屏幕上应该准备好了",
+  "level": 2,
+  "video": "media/st/e45/s126.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s127",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Do you need a receipt",
+  "lines": [
+   "Do you need a receipt"
+  ],
+  "vocab": [
+   "receipt"
+  ],
+  "cn": "你需要小票吗",
+  "level": 2,
+  "video": "media/st/e45/s127.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s128",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Yes please",
+  "lines": [
+   "Yes please"
+  ],
+  "vocab": [],
+  "cn": "要的，谢谢",
+  "level": 2,
+  "video": "media/st/e45/s128.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s129",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "All righty, thank you. We'll have it right out",
+  "lines": [
+   "All righty, thank you. We'll have it right out"
+  ],
+  "vocab": [
+   "righty",
+   "ll"
+  ],
+  "cn": "好嘞，谢谢。马上就好",
+  "level": 2,
+  "video": "media/st/e45/s129.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s130",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Thanks",
+  "lines": [
+   "Thanks"
+  ],
+  "vocab": [],
+  "cn": "谢谢",
+  "level": 2,
+  "video": "media/st/e45/s130.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s131",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "I just ordered a tall white chocolate mocha",
+  "lines": [
+   "I just ordered a tall white chocolate mocha"
+  ],
+  "vocab": [
+   "ordered",
+   "tall",
+   "white",
+   "chocolate",
+   "mocha"
+  ],
+  "cn": "我刚点了一杯中杯白巧克力摩卡",
+  "level": 2,
+  "video": "media/st/e45/s131.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s132",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "and it's hot coffee",
+  "lines": [
+   "and it's hot coffee"
+  ],
+  "vocab": [
+   "s",
+   "hot",
+   "coffee"
+  ],
+  "cn": "是热咖啡",
+  "level": 2,
+  "video": "media/st/e45/s132.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s133",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "And the girl that took my order is called a barista",
+  "lines": [
+   "And the girl that took my order is called a barista"
+  ],
+  "vocab": [
+   "girl",
+   "took",
+   "order",
+   "called",
+   "barista"
+  ],
+  "cn": "接我单的那个女孩叫做咖啡师",
+  "level": 2,
+  "video": "media/st/e45/s133.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s134",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "And now she is going to prepare",
+  "lines": [
+   "And now she is going to prepare"
+  ],
+  "vocab": [
+   "going",
+   "prepare"
+  ],
+  "cn": "现在她要为我准备",
+  "level": 2,
+  "video": "media/st/e45/s134.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s135",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "that hot cup of coffee for me",
+  "lines": [
+   "that hot cup of coffee for me"
+  ],
+  "vocab": [
+   "hot",
+   "cup",
+   "coffee"
+  ],
+  "cn": "那杯热咖啡",
+  "level": 2,
+  "video": "media/st/e45/s135.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s136",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "And I am just going to stand by this counter",
+  "lines": [
+   "And I am just going to stand by this counter"
+  ],
+  "vocab": [
+   "going",
+   "stand",
+   "counter"
+  ],
+  "cn": "我就站在这个柜台旁边",
+  "level": 2,
+  "video": "media/st/e45/s136.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s137",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "and wait for my name to be called",
+  "lines": [
+   "and wait for my name to be called"
+  ],
+  "vocab": [
+   "wait",
+   "name",
+   "called"
+  ],
+  "cn": "等他们叫我的名字",
+  "level": 2,
+  "video": "media/st/e45/s137.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s138",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "My hot cup of coffee is ready",
+  "lines": [
+   "My hot cup of coffee is ready"
+  ],
+  "vocab": [
+   "hot",
+   "cup",
+   "coffee",
+   "ready"
+  ],
+  "cn": "我的热咖啡好了",
+  "level": 2,
+  "video": "media/st/e45/s138.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s139",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "as well as my banana nut bread",
+  "lines": [
+   "as well as my banana nut bread"
+  ],
+  "vocab": [
+   "as",
+   "as",
+   "banana",
+   "nut",
+   "bread"
+  ],
+  "cn": "还有我的香蕉坚果面包",
+  "level": 2,
+  "video": "media/st/e45/s139.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s140",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "I'm gonna take this over here",
+  "lines": [
+   "I'm gonna take this over here"
+  ],
+  "vocab": [
+   "m",
+   "over"
+  ],
+  "cn": "我要把它们拿到这边来",
+  "level": 2,
+  "video": "media/st/e45/s140.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s141",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "because they have straws they can drink out of",
+  "lines": [
+   "because they have straws they can drink out of"
+  ],
+  "vocab": [
+   "because",
+   "straws",
+   "drink"
+  ],
+  "cn": "因为这里有吸管可以用来喝",
+  "level": 2,
+  "video": "media/st/e45/s141.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s142",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "and they also have coffee stoppers",
+  "lines": [
+   "and they also have coffee stoppers"
+  ],
+  "vocab": [
+   "coffee",
+   "stoppers"
+  ],
+  "cn": "还有咖啡杯塞",
+  "level": 2,
+  "video": "media/st/e45/s142.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s143",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "This is a coffee stopper that you can put inside your drink",
+  "lines": [
+   "This is a coffee stopper that you can put inside your drink"
+  ],
+  "vocab": [
+   "coffee",
+   "stopper",
+   "inside",
+   "drink"
+  ],
+  "cn": "这是一个咖啡杯塞，你可以插在饮品上",
+  "level": 2,
+  "video": "media/st/e45/s143.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s144",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "to keep it nice and warm",
+  "lines": [
+   "to keep it nice and warm"
+  ],
+  "vocab": [
+   "warm"
+  ],
+  "cn": "保持咖啡温热",
+  "level": 2,
+  "video": "media/st/e45/s144.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s145",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "and to prevent it from spilling if you're on the road",
+  "lines": [
+   "and to prevent it from spilling if you're on the road"
+  ],
+  "vocab": [
+   "prevent",
+   "spilling",
+   "if",
+   "re",
+   "road"
+  ],
+  "cn": "防止你在路上时咖啡洒出来",
+  "level": 2,
+  "video": "media/st/e45/s145.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s146",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "I'm ready to go take a seat and enjoy my coffee",
+  "lines": [
+   "I'm ready to go take a seat and enjoy my coffee"
+  ],
+  "vocab": [
+   "m",
+   "ready",
+   "seat",
+   "enjoy",
+   "coffee"
+  ],
+  "cn": "我准备好去坐下享受我的咖啡了",
+  "level": 2,
+  "video": "media/st/e45/s146.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s147",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Now I'm going to take a seat outside",
+  "lines": [
+   "Now I'm going to take a seat outside"
+  ],
+  "vocab": [
+   "m",
+   "going",
+   "seat",
+   "outside"
+  ],
+  "cn": "现在我要坐到外面",
+  "level": 2,
+  "video": "media/st/e45/s147.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s148",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "in this beautiful patio that they have at this Starbucks",
+  "lines": [
+   "in this beautiful patio that they have at this Starbucks"
+  ],
+  "vocab": [
+   "beautiful",
+   "patio",
+   "starbucks"
+  ],
+  "cn": "这家星巴克漂亮的露台上",
+  "level": 2,
+  "video": "media/st/e45/s148.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s149",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "and enjoy the beautiful weather",
+  "lines": [
+   "and enjoy the beautiful weather"
+  ],
+  "vocab": [
+   "enjoy",
+   "beautiful",
+   "weather"
+  ],
+  "cn": "享受美好的天气",
+  "level": 2,
+  "video": "media/st/e45/s149.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s150",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "I'm now sitting down and enjoying my coffee",
+  "lines": [
+   "I'm now sitting down and enjoying my coffee"
+  ],
+  "vocab": [
+   "m",
+   "sitting",
+   "enjoying",
+   "coffee"
+  ],
+  "cn": "我现在坐下来享受我的咖啡了",
+  "level": 2,
+  "video": "media/st/e45/s150.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s151",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "But before drinking it",
+  "lines": [
+   "But before drinking it"
+  ],
+  "vocab": [
+   "before",
+   "drinking"
+  ],
+  "cn": "但在喝之前",
+  "level": 2,
+  "video": "media/st/e45/s151.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s152",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "I have to take out this green stopper",
+  "lines": [
+   "I have to take out this green stopper"
+  ],
+  "vocab": [
+   "green",
+   "stopper"
+  ],
+  "cn": "我要先把这个绿色杯塞取出来",
+  "level": 2,
+  "video": "media/st/e45/s152.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s153",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "And I'll set this on the table",
+  "lines": [
+   "And I'll set this on the table"
+  ],
+  "vocab": [
+   "ll",
+   "set",
+   "table"
+  ],
+  "cn": "我把它放在桌上",
+  "level": 2,
+  "video": "media/st/e45/s153.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s154",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "And I'm gonna take my first sip",
+  "lines": [
+   "And I'm gonna take my first sip"
+  ],
+  "vocab": [
+   "m",
+   "first",
+   "sip"
+  ],
+  "cn": "然后我要喝第一口了",
+  "level": 2,
+  "video": "media/st/e45/s154.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s155",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Wow, that's good",
+  "lines": [
+   "Wow, that's good"
+  ],
+  "vocab": [
+   "wow",
+   "s"
+  ],
+  "cn": "哇，真好喝",
+  "level": 2,
+  "video": "media/st/e45/s155.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s156",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "I ordered a tall white chocolate mocha",
+  "lines": [
+   "I ordered a tall white chocolate mocha"
+  ],
+  "vocab": [
+   "ordered",
+   "tall",
+   "white",
+   "chocolate",
+   "mocha"
+  ],
+  "cn": "我点的是中杯白巧克力摩卡",
+  "level": 2,
+  "video": "media/st/e45/s156.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s157",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "This tall drink has a sleeve",
+  "lines": [
+   "This tall drink has a sleeve"
+  ],
+  "vocab": [
+   "tall",
+   "drink",
+   "sleeve"
+  ],
+  "cn": "这杯中杯饮品有一个杯套",
+  "level": 2,
+  "video": "media/st/e45/s157.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s158",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "This is a sleeve that'll go around the drink",
+  "lines": [
+   "This is a sleeve that'll go around the drink"
+  ],
+  "vocab": [
+   "sleeve",
+   "ll",
+   "around",
+   "drink"
+  ],
+  "cn": "杯套套在杯子外面",
+  "level": 2,
+  "video": "media/st/e45/s158.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s159",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "because this is a hot drink, so it may get really hot",
+  "lines": [
+   "because this is a hot drink, so it may get really hot"
+  ],
+  "vocab": [
+   "because",
+   "hot",
+   "drink",
+   "hot"
+  ],
+  "cn": "因为这是热饮，所以可能会很烫",
+  "level": 2,
+  "video": "media/st/e45/s159.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s160",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "This sleeve will just protect my fingers",
+  "lines": [
+   "This sleeve will just protect my fingers"
+  ],
+  "vocab": [
+   "sleeve",
+   "protect",
+   "fingers"
+  ],
+  "cn": "杯套可以保护我的手指",
+  "level": 2,
+  "video": "media/st/e45/s160.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s161",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Also I ordered this drink, just a tall white chocolate mocha",
+  "lines": [
+   "Also I ordered this drink, just a tall white chocolate mocha"
+  ],
+  "vocab": [
+   "ordered",
+   "drink",
+   "tall",
+   "white",
+   "chocolate",
+   "mocha"
+  ],
+  "cn": "我点的只是一杯中杯白巧克力摩卡",
+  "level": 2,
+  "video": "media/st/e45/s161.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s162",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "and I didn't want to ask for a sugar packet",
+  "lines": [
+   "and I didn't want to ask for a sugar packet"
+  ],
+  "vocab": [
+   "didn",
+   "t",
+   "sugar",
+   "packet"
+  ],
+  "cn": "我不想要糖包",
+  "level": 2,
+  "video": "media/st/e45/s162.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s163",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "I did not want a sugar packet",
+  "lines": [
+   "I did not want a sugar packet"
+  ],
+  "vocab": [
+   "sugar",
+   "packet"
+  ],
+  "cn": "我不想要糖包",
+  "level": 2,
+  "video": "media/st/e45/s163.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s164",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "because this drink already has way too much sugar",
+  "lines": [
+   "because this drink already has way too much sugar"
+  ],
+  "vocab": [
+   "because",
+   "drink",
+   "already",
+   "sugar"
+  ],
+  "cn": "因为这杯饮品本身糖就太多了",
+  "level": 2,
+  "video": "media/st/e45/s164.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s165",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "As I said before, I didn't take any sugar packets",
+  "lines": [
+   "As I said before, I didn't take any sugar packets"
+  ],
+  "vocab": [
+   "as",
+   "before",
+   "didn",
+   "t",
+   "sugar",
+   "packets"
+  ],
+  "cn": "正如我之前说的，我没拿糖包",
+  "level": 2,
+  "video": "media/st/e45/s165.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s166",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "But if I were to choose some sugar packets",
+  "lines": [
+   "But if I were to choose some sugar packets"
+  ],
+  "vocab": [
+   "if",
+   "choose",
+   "sugar",
+   "packets"
+  ],
+  "cn": "但如果我要选糖包的话",
+  "level": 2,
+  "video": "media/st/e45/s166.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s167",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "there are three choices",
+  "lines": [
+   "there are three choices"
+  ],
+  "vocab": [
+   "choices"
+  ],
+  "cn": "有三种选择",
+  "level": 2,
+  "video": "media/st/e45/s167.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s168",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "I can take brown sugar, white sugar",
+  "lines": [
+   "I can take brown sugar, white sugar"
+  ],
+  "vocab": [
+   "brown",
+   "sugar",
+   "white",
+   "sugar"
+  ],
+  "cn": "我可以拿红糖、白糖",
+  "level": 2,
+  "video": "media/st/e45/s168.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s169",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "or the substitute for sugar, stevia",
+  "lines": [
+   "or the substitute for sugar, stevia"
+  ],
+  "vocab": [
+   "substitute",
+   "sugar",
+   "stevia"
+  ],
+  "cn": "或者糖的替代品甜菊糖",
+  "level": 2,
+  "video": "media/st/e45/s169.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s170",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Also I'm going to let you guys know",
+  "lines": [
+   "Also I'm going to let you guys know"
+  ],
+  "vocab": [
+   "m",
+   "going",
+   "guys"
+  ],
+  "cn": "另外我要告诉你们",
+  "level": 2,
+  "video": "media/st/e45/s170.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s171",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "how much I paid for my cup of hot coffee",
+  "lines": [
+   "how much I paid for my cup of hot coffee"
+  ],
+  "vocab": [
+   "paid",
+   "cup",
+   "hot",
+   "coffee"
+  ],
+  "cn": "我的热咖啡",
+  "level": 2,
+  "video": "media/st/e45/s171.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s172",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "and for my sweet treat, my banana nut bread",
+  "lines": [
+   "and for my sweet treat, my banana nut bread"
+  ],
+  "vocab": [
+   "sweet",
+   "treat",
+   "banana",
+   "nut",
+   "bread"
+  ],
+  "cn": "和甜点香蕉坚果面包花了多少钱",
+  "level": 2,
+  "video": "media/st/e45/s172.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s173",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "For this tall white chocolate mocha",
+  "lines": [
+   "For this tall white chocolate mocha"
+  ],
+  "vocab": [
+   "tall",
+   "white",
+   "chocolate",
+   "mocha"
+  ],
+  "cn": "这杯中杯白巧克力摩卡",
+  "level": 2,
+  "video": "media/st/e45/s173.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s174",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "I paid four dollars and ninety-five cents",
+  "lines": [
+   "I paid four dollars and ninety-five cents"
+  ],
+  "vocab": [
+   "paid",
+   "four",
+   "dollars",
+   "ninety",
+   "five",
+   "cents"
+  ],
+  "cn": "我付了四美元九十五美分",
+  "level": 2,
+  "video": "media/st/e45/s174.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s175",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "And for this banana nut loaf",
+  "lines": [
+   "And for this banana nut loaf"
+  ],
+  "vocab": [
+   "banana",
+   "nut",
+   "loaf"
+  ],
+  "cn": "这份香蕉坚果面包",
+  "level": 2,
+  "video": "media/st/e45/s175.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s176",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "I paid three dollars and ninety-five cents",
+  "lines": [
+   "I paid three dollars and ninety-five cents"
+  ],
+  "vocab": [
+   "paid",
+   "dollars",
+   "ninety",
+   "five",
+   "cents"
+  ],
+  "cn": "我付了三美元九十五美分",
+  "level": 2,
+  "video": "media/st/e45/s176.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s177",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "With a total with taxes of ten dollars and forty-three cents",
+  "lines": [
+   "With a total with taxes of ten dollars and forty-three cents"
+  ],
+  "vocab": [
+   "total",
+   "taxes",
+   "ten",
+   "dollars",
+   "forty",
+   "cents"
+  ],
+  "cn": "含税总共十美元四十三美分",
+  "level": 2,
+  "video": "media/st/e45/s177.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s178",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Do you guys think that is expensive",
+  "lines": [
+   "Do you guys think that is expensive"
+  ],
+  "vocab": [
+   "guys",
+   "expensive"
+  ],
+  "cn": "你们觉得贵吗",
+  "level": 2,
+  "video": "media/st/e45/s178.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s179",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "just for a banana nut bread and a small cup of coffee",
+  "lines": [
+   "just for a banana nut bread and a small cup of coffee"
+  ],
+  "vocab": [
+   "banana",
+   "nut",
+   "bread",
+   "cup",
+   "coffee"
+  ],
+  "cn": "就一份香蕉坚果面包和一小杯咖啡",
+  "level": 2,
+  "video": "media/st/e45/s179.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s180",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Let me know down below",
+  "lines": [
+   "Let me know down below"
+  ],
+  "vocab": [
+   "below"
+  ],
+  "cn": "在下方评论告诉我吧",
+  "level": 2,
+  "video": "media/st/e45/s180.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s181",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "I'm about to finish drinking my hot cup of coffee",
+  "lines": [
+   "I'm about to finish drinking my hot cup of coffee"
+  ],
+  "vocab": [
+   "m",
+   "about",
+   "finish",
+   "drinking",
+   "hot",
+   "cup",
+   "coffee"
+  ],
+  "cn": "我快喝完我的热咖啡了",
+  "level": 2,
+  "video": "media/st/e45/s181.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s182",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "in ninety degree weather",
+  "lines": [
+   "in ninety degree weather"
+  ],
+  "vocab": [
+   "ninety",
+   "degree",
+   "weather"
+  ],
+  "cn": "在九十华氏度的天气里",
+  "level": 2,
+  "video": "media/st/e45/s182.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s183",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "And I forgot to tell you guys",
+  "lines": [
+   "And I forgot to tell you guys"
+  ],
+  "vocab": [
+   "forgot",
+   "guys"
+  ],
+  "cn": "我忘了告诉你们",
+  "level": 2,
+  "video": "media/st/e45/s183.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s184",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "that you can use this stopper as a stir",
+  "lines": [
+   "that you can use this stopper as a stir"
+  ],
+  "vocab": [
+   "use",
+   "stopper",
+   "as",
+   "stir"
+  ],
+  "cn": "你可以把这个杯塞当搅拌棒用",
+  "level": 2,
+  "video": "media/st/e45/s184.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s185",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "So you can take off this lid of the coffee cup",
+  "lines": [
+   "So you can take off this lid of the coffee cup"
+  ],
+  "vocab": [
+   "off",
+   "lid",
+   "coffee",
+   "cup"
+  ],
+  "cn": "你可以取下咖啡杯的盖子",
+  "level": 2,
+  "video": "media/st/e45/s185.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s186",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "and then if you want to stir your coffee",
+  "lines": [
+   "and then if you want to stir your coffee"
+  ],
+  "vocab": [
+   "if",
+   "stir",
+   "coffee"
+  ],
+  "cn": "然后如果你想搅拌咖啡",
+  "level": 2,
+  "video": "media/st/e45/s186.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s187",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "you use this stir and mix it together",
+  "lines": [
+   "you use this stir and mix it together"
+  ],
+  "vocab": [
+   "use",
+   "stir",
+   "mix",
+   "together"
+  ],
+  "cn": "就用这个搅拌棒把它搅匀",
+  "level": 2,
+  "video": "media/st/e45/s187.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s188",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "You use stirs when you put a sugar packet in your coffee",
+  "lines": [
+   "You use stirs when you put a sugar packet in your coffee"
+  ],
+  "vocab": [
+   "use",
+   "stirs",
+   "sugar",
+   "packet",
+   "coffee"
+  ],
+  "cn": "当你往咖啡里加糖包时就会用到搅拌棒",
+  "level": 2,
+  "video": "media/st/e45/s188.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s189",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Lastly, you guys might be wondering",
+  "lines": [
+   "Lastly, you guys might be wondering"
+  ],
+  "vocab": [
+   "lastly",
+   "guys",
+   "wondering"
+  ],
+  "cn": "最后，你们可能会想",
+  "level": 2,
+  "video": "media/st/e45/s189.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s190",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "that Starbucks has these same sizes like other coffee shops",
+  "lines": [
+   "that Starbucks has these same sizes like other coffee shops"
+  ],
+  "vocab": [
+   "starbucks",
+   "same",
+   "sizes",
+   "other",
+   "coffee",
+   "shops"
+  ],
+  "cn": "星巴克是不是和其他咖啡店一样",
+  "level": 2,
+  "video": "media/st/e45/s190.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s191",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "small, medium, and large",
+  "lines": [
+   "small, medium, and large"
+  ],
+  "vocab": [
+   "medium",
+   "large"
+  ],
+  "cn": "有小杯、中杯和大杯",
+  "level": 2,
+  "video": "media/st/e45/s191.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s192",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Well here at Starbucks, that's not the case",
+  "lines": [
+   "Well here at Starbucks, that's not the case"
+  ],
+  "vocab": [
+   "starbucks",
+   "s",
+   "case"
+  ],
+  "cn": "在星巴克，情况不是这样的",
+  "level": 2,
+  "video": "media/st/e45/s192.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s193",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Starbucks has different sizes",
+  "lines": [
+   "Starbucks has different sizes"
+  ],
+  "vocab": [
+   "starbucks",
+   "different",
+   "sizes"
+  ],
+  "cn": "星巴克有不同的杯型",
+  "level": 2,
+  "video": "media/st/e45/s193.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s194",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "This small cup is a tall coffee cup",
+  "lines": [
+   "This small cup is a tall coffee cup"
+  ],
+  "vocab": [
+   "cup",
+   "tall",
+   "coffee",
+   "cup"
+  ],
+  "cn": "这个小杯叫做 tall",
+  "level": 2,
+  "video": "media/st/e45/s194.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s195",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "A medium is a grande",
+  "lines": [
+   "A medium is a grande"
+  ],
+  "vocab": [
+   "medium",
+   "grande"
+  ],
+  "cn": "中杯叫 grande",
+  "level": 2,
+  "video": "media/st/e45/s195.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s196",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "but grande means large in Spanish",
+  "lines": [
+   "but grande means large in Spanish"
+  ],
+  "vocab": [
+   "grande",
+   "means",
+   "large",
+   "spanish"
+  ],
+  "cn": "但 grande 在西班牙语里是大的意思",
+  "level": 2,
+  "video": "media/st/e45/s196.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s197",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "I know that's very confusing",
+  "lines": [
+   "I know that's very confusing"
+  ],
+  "vocab": [
+   "s",
+   "confusing"
+  ],
+  "cn": "我知道这很让人困惑",
+  "level": 2,
+  "video": "media/st/e45/s197.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s198",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "The large size is called a venti",
+  "lines": [
+   "The large size is called a venti"
+  ],
+  "vocab": [
+   "large",
+   "size",
+   "called",
+   "venti"
+  ],
+  "cn": "大杯叫 venti",
+  "level": 2,
+  "video": "media/st/e45/s198.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s199",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "So it's tall, grande, venti",
+  "lines": [
+   "So it's tall, grande, venti"
+  ],
+  "vocab": [
+   "s",
+   "tall",
+   "grande",
+   "venti"
+  ],
+  "cn": "所以是 tall、grande、venti",
+  "level": 2,
+  "video": "media/st/e45/s199.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e45-s200",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e45",
+  "unitTitle": "E45 如何用英文点咖啡",
+  "title": "Okay guys, I'm finally finished with this amazing video",
+  "lines": [
+   "Okay guys, I'm finally finished with this amazing video"
+  ],
+  "vocab": [
+   "guys",
+   "m",
+   "finally",
+   "finished",
+   "amazing",
+   "video"
+  ],
+  "cn": "好了朋友们，这个精彩的视频终于结束了",
+  "level": 2,
+  "video": "media/st/e45/s200.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s01",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "We're back and we are cooking breakfast",
+  "lines": [
+   "We're back and we are cooking breakfast"
+  ],
+  "vocab": [
+   "re",
+   "back",
+   "cooking",
+   "breakfast"
+  ],
+  "cn": "我们回来了，我们正在做早餐",
+  "level": 2,
+  "video": "media/st/e47/s01.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s02",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "Let's see what we've got",
+  "lines": [
+   "Let's see what we've got"
+  ],
+  "vocab": [
+   "s",
+   "ve"
+  ],
+  "cn": "让我们看看我们有什么",
+  "level": 2,
+  "video": "media/st/e47/s02.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s03",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "Right now I am cooking a fried egg",
+  "lines": [
+   "Right now I am cooking a fried egg"
+  ],
+  "vocab": [
+   "cooking",
+   "fried",
+   "egg"
+  ],
+  "cn": "现在我正在煎一个鸡蛋",
+  "level": 2,
+  "video": "media/st/e47/s03.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s04",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "This is the egg yolk",
+  "lines": [
+   "This is the egg yolk"
+  ],
+  "vocab": [
+   "egg",
+   "yolk"
+  ],
+  "cn": "这是蛋黄",
+  "level": 2,
+  "video": "media/st/e47/s04.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s05",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "This is the egg white",
+  "lines": [
+   "This is the egg white"
+  ],
+  "vocab": [
+   "egg",
+   "white"
+  ],
+  "cn": "这是蛋白",
+  "level": 2,
+  "video": "media/st/e47/s05.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s06",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "I'm adding a knob of butter to the pan",
+  "lines": [
+   "I'm adding a knob of butter to the pan"
+  ],
+  "vocab": [
+   "m",
+   "adding",
+   "knob",
+   "butter",
+   "pan"
+  ],
+  "cn": "我正在往锅里加一小块黄油",
+  "level": 2,
+  "video": "media/st/e47/s06.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s07",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "Cooking technique, I'm gonna baste the egg",
+  "lines": [
+   "Cooking technique, I'm gonna baste the egg"
+  ],
+  "vocab": [
+   "cooking",
+   "technique",
+   "m",
+   "baste",
+   "egg"
+  ],
+  "cn": "烹饪技巧，我要给鸡蛋浇油",
+  "level": 2,
+  "video": "media/st/e47/s07.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s08",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "I'm basting the egg",
+  "lines": [
+   "I'm basting the egg"
+  ],
+  "vocab": [
+   "m",
+   "basting",
+   "egg"
+  ],
+  "cn": "我正在给鸡蛋浇油",
+  "level": 2,
+  "video": "media/st/e47/s08.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s09",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "The sound that it makes is called sizzle",
+  "lines": [
+   "The sound that it makes is called sizzle"
+  ],
+  "vocab": [
+   "sound",
+   "makes",
+   "called",
+   "sizzle"
+  ],
+  "cn": "它发出的声音叫作滋滋声",
+  "level": 2,
+  "video": "media/st/e47/s09.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s10",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "The butter is sizzling in the pan",
+  "lines": [
+   "The butter is sizzling in the pan"
+  ],
+  "vocab": [
+   "butter",
+   "sizzling",
+   "pan"
+  ],
+  "cn": "黄油在锅里滋滋作响",
+  "level": 2,
+  "video": "media/st/e47/s10.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s11",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "This is a green spatula",
+  "lines": [
+   "This is a green spatula"
+  ],
+  "vocab": [
+   "green",
+   "spatula"
+  ],
+  "cn": "这是一把绿色的锅铲",
+  "level": 2,
+  "video": "media/st/e47/s11.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s12",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "They are both spatulas",
+  "lines": [
+   "They are both spatulas"
+  ],
+  "vocab": [
+   "both",
+   "spatulas"
+  ],
+  "cn": "它们都是锅铲",
+  "level": 2,
+  "video": "media/st/e47/s12.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s13",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "This is a silver spoon",
+  "lines": [
+   "This is a silver spoon"
+  ],
+  "vocab": [
+   "silver",
+   "spoon"
+  ],
+  "cn": "这是一把银色的勺子",
+  "level": 2,
+  "video": "media/st/e47/s13.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s14",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "This is the poor little guy from earlier",
+  "lines": [
+   "This is the poor little guy from earlier"
+  ],
+  "vocab": [
+   "poor",
+   "little",
+   "guy",
+   "earlier"
+  ],
+  "cn": "这是之前那个可怜的小家伙",
+  "level": 2,
+  "video": "media/st/e47/s14.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s15",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "an egg shell",
+  "lines": [
+   "an egg shell"
+  ],
+  "vocab": [
+   "egg",
+   "shell"
+  ],
+  "cn": "一个蛋壳",
+  "level": 2,
+  "video": "media/st/e47/s15.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s16",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "This is an island",
+  "lines": [
+   "This is an island"
+  ],
+  "vocab": [
+   "island"
+  ],
+  "cn": "这是一个中岛台",
+  "level": 2,
+  "video": "media/st/e47/s16.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s17",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "This black area is the hob",
+  "lines": [
+   "This black area is the hob"
+  ],
+  "vocab": [
+   "black",
+   "area",
+   "hob"
+  ],
+  "cn": "这个黑色区域是灶台",
+  "level": 2,
+  "video": "media/st/e47/s17.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s18",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "This is the hob",
+  "lines": [
+   "This is the hob"
+  ],
+  "vocab": [
+   "hob"
+  ],
+  "cn": "这是灶台",
+  "level": 2,
+  "video": "media/st/e47/s18.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s19",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "And on here, guys, this is a tray",
+  "lines": [
+   "And on here, guys, this is a tray"
+  ],
+  "vocab": [
+   "guys",
+   "tray"
+  ],
+  "cn": "在这上面，朋友们，这是一个托盘",
+  "level": 2,
+  "video": "media/st/e47/s19.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s20",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "On the tray there is a bottle of olive oil",
+  "lines": [
+   "On the tray there is a bottle of olive oil"
+  ],
+  "vocab": [
+   "tray",
+   "bottle",
+   "olive",
+   "oil"
+  ],
+  "cn": "托盘上有一瓶橄榄油",
+  "level": 2,
+  "video": "media/st/e47/s20.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s21",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "chili flakes, oregano",
+  "lines": [
+   "chili flakes, oregano"
+  ],
+  "vocab": [
+   "chili",
+   "flakes",
+   "oregano"
+  ],
+  "cn": "辣椒片，牛至",
+  "level": 2,
+  "video": "media/st/e47/s21.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s22",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "This is a salt grinder, a pepper grinder",
+  "lines": [
+   "This is a salt grinder, a pepper grinder"
+  ],
+  "vocab": [
+   "salt",
+   "grinder",
+   "pepper",
+   "grinder"
+  ],
+  "cn": "这是盐研磨器，胡椒研磨器",
+  "level": 2,
+  "video": "media/st/e47/s22.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s23",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "Inside these are the peppercorns",
+  "lines": [
+   "Inside these are the peppercorns"
+  ],
+  "vocab": [
+   "inside",
+   "peppercorns"
+  ],
+  "cn": "里面这些是胡椒粒",
+  "level": 2,
+  "video": "media/st/e47/s23.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s24",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "This bad boy is a pestle and mortar",
+  "lines": [
+   "This bad boy is a pestle and mortar"
+  ],
+  "vocab": [
+   "boy",
+   "pestle",
+   "mortar"
+  ],
+  "cn": "这个大家伙是研钵和杵",
+  "level": 2,
+  "video": "media/st/e47/s24.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s25",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "A pestle and mortar",
+  "lines": [
+   "A pestle and mortar"
+  ],
+  "vocab": [
+   "pestle",
+   "mortar"
+  ],
+  "cn": "研钵和杵",
+  "level": 2,
+  "video": "media/st/e47/s25.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s26",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "There's Chang chopping some bread",
+  "lines": [
+   "There's Chang chopping some bread"
+  ],
+  "vocab": [
+   "s",
+   "chang",
+   "chopping",
+   "bread"
+  ],
+  "cn": "Chang在那儿切面包",
+  "level": 2,
+  "video": "media/st/e47/s26.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s27",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "No, okay, Chang is",
+  "lines": [
+   "No, okay, Chang is"
+  ],
+  "vocab": [
+   "chang"
+  ],
+  "cn": "不对，好吧，Chang是……",
+  "level": 2,
+  "video": "media/st/e47/s27.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s28",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "What are you doing, Chang",
+  "lines": [
+   "What are you doing, Chang"
+  ],
+  "vocab": [
+   "doing",
+   "chang"
+  ],
+  "cn": "你在做什么，Chang",
+  "level": 2,
+  "video": "media/st/e47/s28.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s29",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "I'm slicing some bread",
+  "lines": [
+   "I'm slicing some bread"
+  ],
+  "vocab": [
+   "m",
+   "slicing",
+   "bread"
+  ],
+  "cn": "我在切面包",
+  "level": 2,
+  "video": "media/st/e47/s29.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s30",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "Okay, she's slicing some bread",
+  "lines": [
+   "Okay, she's slicing some bread"
+  ],
+  "vocab": [
+   "s",
+   "slicing",
+   "bread"
+  ],
+  "cn": "好的，她在切面包",
+  "level": 2,
+  "video": "media/st/e47/s30.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s31",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "This is called a loaf of bread",
+  "lines": [
+   "This is called a loaf of bread"
+  ],
+  "vocab": [
+   "called",
+   "loaf",
+   "bread"
+  ],
+  "cn": "这叫作一条面包",
+  "level": 2,
+  "video": "media/st/e47/s31.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s32",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "A loaf of bread",
+  "lines": [
+   "A loaf of bread"
+  ],
+  "vocab": [
+   "loaf",
+   "bread"
+  ],
+  "cn": "一条面包",
+  "level": 2,
+  "video": "media/st/e47/s32.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s33",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "Chopping board",
+  "lines": [
+   "Chopping board"
+  ],
+  "vocab": [
+   "chopping",
+   "board"
+  ],
+  "cn": "砧板",
+  "level": 2,
+  "video": "media/st/e47/s33.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s34",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "And can you show him the kitchen knife",
+  "lines": [
+   "And can you show him the kitchen knife"
+  ],
+  "vocab": [
+   "kitchen",
+   "knife"
+  ],
+  "cn": "你能给他看看这把菜刀吗",
+  "level": 2,
+  "video": "media/st/e47/s34.mp4",
+  "anchors": {}
+ },
+ {
+  "id": "st-e47-s35",
+  "lang": "en",
+  "tier": 0,
+  "unit": "e47",
+  "unitTitle": "E47 厨房早餐英语教学",
+  "title": "Kitchen knife. Be careful",
+  "lines": [
+   "Kitchen knife. Be careful"
+  ],
+  "vocab": [
+   "kitchen",
+   "knife",
+   "careful"
+  ],
+  "cn": "菜刀。小心点",
+  "level": 2,
+  "video": "media/st/e47/s35.mp4",
+  "anchors": {}
+ }
+];
