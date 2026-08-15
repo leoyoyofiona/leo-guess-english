@@ -45,7 +45,6 @@
   .btn:hover{border-color:var(--acc)}
   #readingBtn{display:none}
   .toolbar #readingBtn{display:block}
-  #logBtn{left:14px;top:14px;display:none}
   /* 开始页 */
   #startOverlay{position:fixed;inset:0;z-index:20;background:var(--bg);display:flex;flex-direction:column;
     align-items:center;justify-content:center;gap:18px;text-align:center;padding:24px}
@@ -73,12 +72,6 @@
   .rcard .rplay{display:inline-block;margin-top:8px;padding:6px 14px;border-radius:999px;
     background:#1f6feb22;border:1px solid var(--acc);color:var(--acc);font-size:12px;cursor:pointer}
   .rcard .rtag{font-size:10px;color:var(--dim);margin-top:6px}
-  /* 行为面板 */
-  #logPanel{position:fixed;inset:0;z-index:19;background:rgba(0,0,0,.85);display:none;padding:20px;
-    overflow:auto;font-family:ui-monospace,Menlo,monospace;font-size:12px;color:var(--dim);white-space:pre}
-  #logPanel.open{display:block}
-  #logPanel .close{position:fixed;top:16px;right:16px;color:var(--txt);cursor:pointer;font-size:13px;
-    background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:6px 12px}
   /* 通用浮层面板 */
   .overlay-panel{position:fixed;inset:0;z-index:18;background:var(--bg);display:none;flex-direction:column;
     overflow-y:auto;padding:20px 16px 70px}
@@ -106,7 +99,6 @@
   .lp-btn.on{background:var(--acc);color:#0d1117;border-color:var(--acc);font-weight:700}
   .toolbar{position:fixed;top:14px;right:14px;z-index:8;display:none;gap:8px}
   .toolbar .btn{position:static}
-  #logBtn{position:fixed;left:14px;top:14px}
   .method-note{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px;font-size:13px;line-height:1.9}
   .method-note b{color:var(--acc)}
   .navhint{position:fixed;top:14px;left:50%;transform:translateX(-50%);color:var(--dim);
@@ -145,7 +137,6 @@
   @media (max-width:480px){
     .toolbar{top:calc(10px + env(safe-area-inset-top));right:10px;gap:6px}
     .toolbar .btn{font-size:12px;padding:8px 10px;border-radius:10px}
-    #logBtn{left:10px;top:calc(10px + env(safe-area-inset-top))}
     .overlay-panel{padding:calc(16px + env(safe-area-inset-top)) 14px calc(60px + env(safe-area-inset-bottom))}
     .navhint{font-size:10px}
   }
@@ -192,63 +183,14 @@
 <div id="hud"></div>
 
 <div class="toolbar" id="toolbar">
-  <button class="btn" id="settingsBtn">⚙ 设置</button>
-  <button class="btn" id="progressBtn">📊 进度</button>
   <button class="btn" id="methodBtn">❓ 方法</button>
   <button class="btn" id="readingBtn">📖 阅读区</button>
 </div>
-<button class="btn" id="logBtn">AI</button>
 
 <div id="readingPanel">
   <h2>我的阅读区</h2>
   <p class="sub">这里只有你<b>亲耳听过</b>的话 — 听懂了，文字自然就认识了。</p>
   <div id="rcards"></div>
-</div>
-
-<div id="settingsPanel" class="overlay-panel">
-  <span class="close" onclick="closePanel('settingsPanel')">关闭</span>
-  <h2>设置</h2>
-  <p style="font-size:12px;color:var(--dim);margin:-6px 4px 14px">发音来源：优先<span style="color:var(--ok)">真人录音</span>（Tatoeba 社区真人录音，CC-BY 2.0 FR）；无录音的句子自动用系统语音兜底。真人覆盖 <span id="realAudioStat"></span>。</p>
-  <div class="field">
-    <label>学习语言</label>
-    <select id="langSelect"></select>
-  </div>
-  <div class="field">
-    <label>学习级别</label>
-    <select id="levelSel">
-      <option value="all">全部</option>
-      <option value="1-2">入门（1-2 级）</option>
-      <option value="3">中级（3 级）</option>
-      <option value="4-5">高级（4-5 级）</option>
-    </select>
-  </div>
-  <div class="field">
-    <label>发音（浏览器语音）</label>
-    <select id="voiceSelect"></select>
-  </div>
-  <div class="field">
-    <label>语速 <span id="rateVal">0.95</span></label>
-    <input type="range" id="rateRange" min="0.55" max="1.35" step="0.05" value="0.95">
-  </div>
-  <div class="field">
-    <label><input type="checkbox" id="autoLoopCb" checked> 听不懂自动循环（关掉则不重播，播完即停）</label>
-  </div>
-  <div class="field">
-    <button class="btn danger" id="resetBtn" style="position:static">重置全部进度</button>
-  </div>
-</div>
-
-<div id="progressPanel" class="overlay-panel">
-  <span class="close" onclick="closePanel('progressPanel')">关闭</span>
-  <h2>我的进度</h2>
-  <div class="stat-grid" id="statGrid"></div>
-  <div class="field"><label>最近 7 天滑刷量</label><div id="weekChart"></div></div>
-  <div class="field"><label>我听过的话（猜过的词汇，英文）</label>
-    <div class="words-box" id="heardWords"></div>
-  </div>
-  <div class="field">
-    <button class="btn" id="exportBtn" style="position:static">导出进度 JSON</button>
-  </div>
 </div>
 
 <div id="methodPanel" class="overlay-panel">
@@ -263,8 +205,6 @@
     <p style="margin-top:10px">坚持 6-12 个月，目标只有两条：不带字幕看懂任何英文视频、拿起英文书就读。</p>
   </div>
 </div>
-
-<div id="logPanel"><span class="close" onclick="document.getElementById('logPanel').classList.remove('open')">关闭</span><pre id="logPre"></pre></div>
 
 <script src="scenes.st.js?v=5"></script>
 <script>
@@ -404,7 +344,6 @@ function applyLevelButtons(){
   document.querySelectorAll("#levelPick .lp-btn").forEach(b=>{
     b.classList.toggle("on", b.dataset.level === SET.level);
   });
-  document.querySelectorAll("#levelSel").forEach(sel=>{ if(sel) sel.value = SET.level; });
   _levelHasContent = SET.level === "all" || SCENES.some(s=>{
     const lv = s.level || 3;
     if(SET.level === "1-2") return lv <= 2;
@@ -416,18 +355,6 @@ function applyLevelButtons(){
   if(hint) hint.style.display = (SET.level !== "all" && !_levelHasContent) ? "" : "none";
 }
 function langsAvailable(){ const set = new Set(); SCENES.forEach(s=>set.add(sceneLang(s))); return Array.from(set); }
-function fillLangSelect(){
-  const sel = document.getElementById("langSelect");
-  if(!sel) return;
-  const names = {en:"English", es:"Español"};
-  sel.innerHTML = "";
-  langsAvailable().forEach(l=>{
-    const o = document.createElement("option");
-    o.value = l; o.textContent = names[l] || l;
-    if(l === SET.lang) o.selected = true;
-    sel.appendChild(o);
-  });
-}
 
 function listVoices(){ return ("speechSynthesis" in window) ? speechSynthesis.getVoices() : []; }
 function pickVoice(){
@@ -438,25 +365,10 @@ function pickVoice(){
   return vs.find(v=>v.lang && v.lang.toLowerCase().startsWith("en")) || null;
 }
 if("speechSynthesis" in window){
-  speechSynthesis.onvoiceschanged = ()=>{ voice = pickVoice(); fillVoiceSelect(); };
+  speechSynthesis.onvoiceschanged = ()=>{ voice = pickVoice(); };
   voice = pickVoice();
 }
 
-/* 语音下拉框 */
-function fillVoiceSelect(){
-  const sel = document.getElementById("voiceSelect");
-  if(!sel) return;
-  const vs = listVoices();
-  sel.innerHTML = "";
-  const opt = document.createElement("option"); opt.value = ""; opt.textContent = "自动选择"; sel.appendChild(opt);
-  vs.forEach(v=>{
-    const o = document.createElement("option");
-    o.value = v.voiceURI;
-    o.textContent = v.name + " (" + v.lang + ")";
-    if(v.voiceURI === SET.voiceURI) o.selected = true;
-    sel.appendChild(o);
-  });
-}
 function speak(text, token, onEnd, lang){
   if(!("speechSynthesis" in window)){ onEnd&&onEnd(); return; }
   const u = new SpeechSynthesisUtterance(text);
@@ -691,20 +603,6 @@ function renderLocalReading(){
   });
 }
 
-/* ---------- 行为面板 ---------- */
-function openLog(){
-  const summary = {
-    当前难度档: P.tier+1,
-    已看场景数: Object.keys(P.seen).length,
-    卡点词汇记忆: P.memoryWords,
-    最近行为: P.swipes.slice(-8),
-    最近10条快速滑走率: (()=>{const r=P.swipes.slice(-10).filter(s=>s.dir===1);return r.length? (r.filter(s=>s.dt<4500).length/r.length*100).toFixed(0)+"%": "—";})(),
-    刷序: P.order
-  };
-  document.getElementById("logPre").textContent = JSON.stringify(summary, null, 2);
-  document.getElementById("logPanel").classList.add("open");
-}
-
 /* ---------- 交互 ---------- */
 function closePanel(id){ document.getElementById(id).classList.remove("open"); }
 function openPanel(id){ document.getElementById(id).classList.add("open"); }
@@ -713,7 +611,6 @@ document.getElementById("startBtn").onclick = ()=>{
   applyLevelButtons();
   document.getElementById("startOverlay").style.display = "none";
   document.getElementById("toolbar").style.display = "flex";
-  document.getElementById("logBtn").style.display = "block";
   document.getElementById("navHint").textContent = "看画面 · 猜意思 · 划走";
   setTimeout(()=>{ if(API.mode==="server"){ document.getElementById("navHint").textContent = "Server 模式 · 行为已同步后端 · 看画面 · 猜意思"; } }, 300);
   let first = Object.keys(P.seen).length ? P.order[P.order.length-1] : null;
@@ -724,123 +621,26 @@ document.getElementById("startBtn").onclick = ()=>{
   else document.getElementById("navHint").textContent = "内容未加载，请刷新";
 };
 document.getElementById("readingBtn").onclick = openReading;
-document.getElementById("logBtn").onclick = openLog;
 document.getElementById("methodLink").onclick = ()=>{ openPanel("methodPanel"); };
 document.getElementById("methodBtn").onclick = ()=>{ openPanel("methodPanel"); };
-document.getElementById("settingsBtn").onclick = ()=>{
-  fillVoiceSelect(); fillLangSelect(); openPanel("settingsPanel");
-  const total = SCENES.reduce((n,s)=>n+s.lines.length,0);
-  const real = SCENES.reduce((n,s)=>n+(s.audio? s.audio.filter(Boolean).length : 0),0);
-  const el = document.getElementById("realAudioStat");
-  if(el) el.textContent = real + "/" + total + " 句";
-};
-document.getElementById("progressBtn").onclick = ()=>{ renderProgress(); openPanel("progressPanel"); };
 document.getElementById("readingPanel").addEventListener("click", e=>{
   if(e.target.id==="readingPanel") readingPanel.classList.remove("open");
 });
 
-/* 设置面板事件 */
-document.getElementById("langSelect").addEventListener("change", e=>{
-  SET.lang = e.target.value; saveSettings();
-});
-document.getElementById("levelSel").addEventListener("change", e=>{
-  SET.level = e.target.value; saveSettings(); applyLevelButtons();
-});
+/* 开始页级别选择 */
 document.querySelectorAll("#levelPick .lp-btn").forEach(btn=>{
   btn.addEventListener("click", ()=>{
     SET.level = btn.dataset.level; saveSettings(); applyLevelButtons();
   });
-});
-document.getElementById("voiceSelect").addEventListener("change", e=>{
-  SET.voiceURI = e.target.value; voice = pickVoice(); saveSettings();
-});
-document.getElementById("rateRange").addEventListener("input", e=>{
-  SET.rate = parseFloat(e.target.value);
-  document.getElementById("rateVal").textContent = SET.rate.toFixed(2);
-  saveSettings();
-});
-document.getElementById("autoLoopCb").addEventListener("change", e=>{
-  SET.autoLoop = e.target.checked; saveSettings();
-});
-document.getElementById("resetBtn").addEventListener("click", ()=>{
-  if(!confirm("确定重置全部进度？本地画像与后端行为记录都会清空。")) return;
-  try{ localStorage.removeItem(KEY); localStorage.removeItem(SETTINGS_KEY); localStorage.removeItem("guessLabDays"); localStorage.removeItem("guessLabUserId"); }catch(e){}
-  if(API.mode==="server"){ try{ apiPost("/api/events", {sceneId:"__reset", action:"reset", ts:Date.now(), detail:{}}); }catch(e){} }
-  location.reload();
-});
-
-/* 进度：连续天数追踪 */
-const DAYS_KEY = "guessLabDays_v2";
-function trackDay(){
-  try{
-    const today = new Date().toISOString().slice(0,10);
-    const days = JSON.parse(localStorage.getItem(DAYS_KEY) || "[]");
-    if(days[days.length-1] !== today){ days.push(today); localStorage.setItem(DAYS_KEY, JSON.stringify(days)); }
-  }catch(e){}
-}
-function renderProgress(){
-  trackDay();
-  let days = []; try{ days = JSON.parse(localStorage.getItem(DAYS_KEY) || "[]"); }catch(e){}
-  // 连续天数
-  let streak = 0;
-  const d = new Date();
-  for(let i=0;i<days.length;i++){
-    const cur = new Date(d.getTime() - i*86400000).toISOString().slice(0,10);
-    if(days.includes(cur)) streak++; else break;
-  }
-  const todayStart = new Date(); todayStart.setHours(0,0,0,0);
-  const todaySwipes = P.swipes.filter(s=>s.ts >= todayStart.getTime()).length;
-  const totalLoops = Object.values(P.seen).reduce((a,r)=>a+(r.loops||0),0);
-  const grid = document.getElementById("statGrid");
-  grid.innerHTML = [
-    ["已看场景", Object.keys(P.seen).length + " / " + SCENES.length],
-    ["当前难度", "L" + (P.tier+1)],
-    ["卡点词汇", Object.keys(P.memoryWords).length],
-    ["循环次数", totalLoops],
-    ["今日滑刷", todaySwipes],
-    ["连续天数", streak + " 天"]
-  ].map(([l,n])=>`<div class="stat"><div class="num">${n}</div><div class="lbl">${l}</div></div>`).join("");
-  // 最近 7 天滑刷柱状图
-  const DAYS7 = ["日","一","二","三","四","五","六"];
-  const counts = [];
-  for(let i=6;i>=0;i--){
-    const d = new Date(); d.setHours(0,0,0,0); d.setDate(d.getDate()-i);
-    const start = d.getTime(), end = start + 86400000;
-    counts.push({label: DAYS7[d.getDay()], n: P.swipes.filter(s=>s.ts>=start && s.ts<end).length});
-  }
-  const maxN = Math.max(1, ...counts.map(c=>c.n));
-  const bw = 34, bh = 90;
-  const bars = counts.map((c,i)=>{
-    const h = Math.max(3, Math.round(c.n/maxN*bh));
-    const x = 20 + i*(bw+14), y = bh + 12 - h;
-    return `<rect x="${x}" y="${y}" width="${bw}" height="${h}" rx="4" fill="${c.n>0?"var(--acc)":"#3a4150"}"/>
-      <text x="${x+bw/2}" y="${y-5}" text-anchor="middle" font-size="11" fill="${c.n>0?"var(--txt)":"var(--dim)"}">${c.n}</text>
-      <text x="${x+bw/2}" y="${bh+28}" text-anchor="middle" font-size="11" fill="var(--dim)">${c.label}</text>`;
-  }).join("");
-  document.getElementById("weekChart").innerHTML =
-    `<svg viewBox="0 0 400 ${bh+40}" width="100%" style="background:var(--panel);border:1px solid var(--line);border-radius:12px">${bars}</svg>`;
-
-  // 我听过的话（英文，无翻译）
-  const words = Object.entries(P.memoryWords).sort((a,b)=>b[1]-a[1]).map(([w,c])=>`${w} <span style="color:var(--dim)">×${c}</span>`).join(" · ");
-  document.getElementById("heardWords").innerHTML = words || '<span style="color:var(--dim)">还没有卡点词——卡住几次的词汇会出现在这里</span>';
-}
-document.getElementById("exportBtn").addEventListener("click", ()=>{
-  const data = {exportedAt: new Date().toISOString(), settings: SET, days: (()=>{try{return JSON.parse(localStorage.getItem(DAYS_KEY)||"[]");}catch(e){return[]}})(), profile: P, serverMode: API.mode};
-  const blob = new Blob([JSON.stringify(data,null,2)], {type:"application/json"});
-  const a = document.createElement("a");
-  a.href = URL.createObjectURL(blob); a.download = "guesslab-progress.json"; a.click();
 });
 
 document.addEventListener("keydown", e=>{
   if(document.getElementById("startOverlay").style.display!=="none") return;
   if(e.key==="ArrowRight"||e.key===" "||e.key==="Enter"){ e.preventDefault(); advance(); }
   else if(e.key==="ArrowLeft"){ goBack(); }
-  else if(e.key.toLowerCase()==="b"){ openLog(); }
   else if(e.key.toLowerCase()==="r"){ openReading(); }
-  else if(e.key.toLowerCase()==="s"){ openPanel("settingsPanel"); }
-  else if(e.key.toLowerCase()==="p"){ renderProgress(); openPanel("progressPanel"); }
   else if(e.key.toLowerCase()==="m"){ openPanel("methodPanel"); }
-  else if(e.key==="Escape"){ ["settingsPanel","progressPanel","methodPanel","readingPanel","logPanel"].forEach(id=>closePanel(id)); }
+  else if(e.key==="Escape"){ ["methodPanel","readingPanel"].forEach(id=>closePanel(id)); }
 });
 let t0=null;
 document.addEventListener("touchstart", e=>{ t0={x:e.touches[0].clientX, y:e.touches[0].clientY}; }, {passive:true});
